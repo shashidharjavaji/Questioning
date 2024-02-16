@@ -1,0 +1,1288 @@
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Organic chemistry focuses on compounds containing carbon.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is organic chemistry?
+2. Why is carbon important in organic chemistry?
+3. How does organic chemistry differ from other types of chemistry?
+4. What are some common applications of organic chemistry?
+5. Who are some famous scientists who contributed to the field of organic chemistry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Stereochemistry involves the study of the spatial arrangement of atoms in molecules.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "spatial arrangement" mean?
+2. How do atoms form molecules?
+3. Can you give an example of a molecule and its spatial arrangement?
+4. Why is stereochemistry important in chemistry?
+5. Are there any real-world applications for understanding stereochemistry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Thermodynamics relates to the energy changes in chemical reactions.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is thermodynamics?
+2. How does thermodynamics relate to chemical reactions?
+3. Can you give an example of how thermodynamics affects chemical reactions?
+4. Are there any laws or principles related to thermodynamics?
+5. How can I apply my understanding of thermodynamics to real-world situations?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Kinetics studies the rate of chemical reactions.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does kinetics study?
+2. How does kinetics relate to chemical reactions?
+3. Can you give an example of a chemical reaction and how kinetics applies to it?
+4. Are there different types of kinetics? If so, what are they?
+5. How can understanding kinetics help us in our daily lives?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Quantum chemistry describes the behavior of electrons in atoms and molecules.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is an electron? 
+2. How does quantum mechanics relate to atomic structure? 
+3. What is the difference between classical and quantum mechanics? 
+4. Can you give examples of how quantum mechanics has been applied in real-world situations? 
+5. Are there any common misconceptions about quantum mechanics that I should be aware of?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Electrochemistry involves chemical reactions that produce or require an electric current.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is electrochemistry?
+2. How does electrochemistry involve chemical reactions and electricity?
+3. Can you give some examples of electrochemical processes?
+4. What are the applications of electrochemistry in real life?
+5. How can I learn more about electrochemistry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Spectroscopy measures the interaction of light with matter to study the structure of molecules.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is spectroscopy?
+2. How does it measure the interaction between light and matter?
+3. Why is it used to study the structure of molecules?
+4. Can you give an example of how spectroscopy has been used in real-world applications?
+5. Are there different types of spectroscopy, and if so, what are they?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Polymer chemistry focuses on the synthesis and properties of polymers.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a polymer? 
+2. How are polymers synthesized? 
+3. What are some common types of polymers? 
+4. What are the properties of polymers? 
+5. How do these properties affect their use in various applications?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Biochemistry explores the chemical processes within living organisms.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does biochemistry study?
+2. How do chemical processes occur in living organisms?
+3. Can you give an example of a chemical process in a living organism?
+4. What are some applications of biochemistry research?
+5. Are there any famous biochemists and their contributions to the field?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Green chemistry aims to design chemical products and processes that reduce or eliminate the use and generation of hazardous substances.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does green chemistry mean? 
+2. How can we apply green chemistry principles to our daily lives? 
+3. What are some examples of hazardous chemicals that can be eliminated through green chemistry? 
+4. Are there any regulations or policies related to green chemistry? 
+5. How can we encourage more companies to adopt green chemistry practices?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Enzymes are biological catalysts that speed up biochemical reactions.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What exactly is an enzyme? 
+2. How do enzymes work as biological catalysts? 
+3. Can you give some examples of biochemical reactions that enzymes can speed up? 
+4. Are all enzymes the same or do they vary depending on their function? 
+5. How does understanding enzymes help us in fields like medicine and biotechnology?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Nuclear chemistry involves the study of radioactive decay, nuclear fission, and nuclear fusion.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is radioactive decay?
+2. How does nuclear fission work?
+3. What is nuclear fusion?
+4. What are some applications of nuclear chemistry?
+5. How can I learn more about nuclear chemistry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The principle of quantum mechanics underlies the behavior of electrons in atoms.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is quantum mechanics?
+2. How does it relate to electron behavior in atoms?
+3. Can you give an example of how it works?
+4. What are some practical applications of quantum mechanics?
+5. Are there any limitations or challenges associated with understanding and applying quantum mechanics?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Chromatography is a technique used to separate the components of a mixture.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is chromatography?
+2. How does chromatography work?
+3. What are the different types of chromatography?
+4. What applications does chromatography have?
+5. What are some common materials and equipment used for chromatography experiments?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Chemical kinetics involves the mechanisms by which reactions occur and the factors that influence their rates.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does chemical kinetics mean?
+2. How do reactions occur?
+3. What factors affect reaction rates?
+4. Can you give an example of a mechanism for a specific reaction?
+5. Are there any real-world applications of chemical kinetics?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Hardy-Weinberg principle applies to genetic equilibrium in populations, connecting chemistry to biology.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does the Hardy-Weinberg principle state?
+2. How does it apply to genetic equilibrium in populations?
+3. Can you provide an example of how it connects chemistry and biology?
+4. Are there any real-world applications for understanding this principle?
+5. How can I learn more about the Hardy-Weinberg principle?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Materials science explores the properties and applications of materials in engineering and technology.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are some examples of materials used in engineering and technology? 
+2. How do engineers determine the properties of different materials? 
+3. Can you give an example of how materials science has been applied in real-world situations? 
+4. Are there any current research areas within materials science that are particularly interesting or promising? 
+5. How does understanding materials science contribute to advancements in engineering and technology?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Supramolecular chemistry focuses on the non-covalent interactions between molecules.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'non-covalent' mean?
+2. How do these interactions differ from covalent bonds?
+3. Can you give an example of a supramolecular system?
+4. What are some applications of supramolecular chemistry?
+5. Are there any specific techniques used to study supramolecular systems?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Environmental chemistry studies the chemical and biochemical phenomena that occur in natural places.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does environmental chemistry study?
+2. Where do these chemical and biochemical phenomena occur?
+3. How can we identify and measure these phenomena?
+4. What are some examples of environmental chemistry in action?
+5. Why is understanding environmental chemistry important for our planet's health?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Medicinal chemistry involves the design, development, and synthesis of pharmaceutical compounds.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is medicinal chemistry? 
+2. How does it relate to drug discovery and development? 
+3. What are some examples of successful drugs developed through medicinal chemistry? 
+4. What techniques and methods do medicinal chemists use in their work? 
+5. What are the potential benefits and risks associated with using medicines developed through medicinal chemistry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Schrödinger equation describes how the quantum state of a physical system changes over time.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does the Schrödinger equation describe?
+2. How does the quantum state of a physical system change over time according to the Schrödinger equation?
+3. Can you provide an example of a physical system described by the Schrödinger equation?
+4. How can we use the Schrödinger equation to predict the behavior of such systems?
+5. Are there any limitations or assumptions made when applying the Schrödinger equation to real-world scenarios?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Organometallic chemistry combines aspects of organic and inorganic chemistry to study compounds containing metal-carbon bonds.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is an organometallic compound? 
+2. How does it differ from other types of chemical compounds? 
+3. What are some common applications of organometallic chemistry? 
+4. Who were the pioneers in this field of research? 
+5. Can you provide examples of famous organometallic compounds and their uses?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Gibbs free energy predicts the spontaneity of chemical reactions.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does Gibbs free energy predict?
+2. How does Gibbs free energy relate to the spontaneity of chemical reactions?
+3. Can you provide an example of how Gibbs free energy can be used to determine if a reaction will occur spontaneously?
+4. Are there any factors that affect the value of Gibbs free energy for a given reaction?
+5. How do we calculate the Gibbs free energy change (ΔG) for a specific reaction?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Photochemistry studies the chemical effects of light.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is photochemistry?
+2. How does light affect chemicals?
+3. Can you give an example of photochemical reactions?
+4. What are some applications of photochemistry?
+5. How can I learn more about photochemistry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Solid-state chemistry focuses on the synthesis, structure, and properties of solid phase materials.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is Solid-State Chemistry? 
+2. How does it differ from other branches of Chemistry? 
+3. What types of materials can be studied using Solid-State Chemistry? 
+4. What are some applications of Solid-State Chemistry in real life? 
+5. Who are some notable scientists who have contributed to the field of Solid-State Chemistry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Chemical thermodynamics deals with the relationship between heat, work, and chemical reactions.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "chemical thermodynamics" mean? 
+2. How does heat relate to chemical reactions? 
+3. What is the difference between heat and work? 
+4. Can you give an example of how chemical thermodynamics applies to real-world situations? 
+5. Are there any specific formulas or equations I should know when studying chemical thermodynamics?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Spectroscopic methods can determine the structure of organic compounds.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does spectroscopy mean? 
+2. How do spectroscopic methods work? 
+3. What are organic compounds and why are they important? 
+4. Can spectroscopy help identify unknown substances? 
+5. What are some real-world applications of spectroscopy?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Computational chemistry uses computer simulation to solve chemical problems.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is computational chemistry?
+2. How does it use computers to solve chemical problems?
+3. Can you give an example of how it has been used successfully?
+4. Are there any limitations to its effectiveness?
+5. How can I learn more about computational chemistry and its applications?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The mechanism of drug action involves the interaction between drug molecules and biological targets.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a drug molecule?
+2. What are biological targets?
+3. How do drugs interact with biological targets?
+4. Can you give an example of a drug-target interaction?
+5. Why is understanding drug action important?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Nanotechnology in chemistry involves the manipulation of materials on an atomic or molecular scale", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does nanotechnology mean?
+2. How does nanotechnology work in chemistry?
+3. What are some applications of nanotechnology in chemistry?
+4. Who discovered nanotechnology and when?
+5. What are the benefits and risks of using nanotechnology in chemistry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Quantum dots are semiconductor particles that exhibit quantum mechanical properties.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are semiconductors?
+2. How do quantum dots differ from regular semiconductors?
+3. What are some applications of quantum dots?
+4. How can quantum dots be used in technology?
+5. Are there any potential risks associated with using quantum dots?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Cryo-electron microscopy allows for the visualization of molecules at near-atomic resolutions.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is Cryo-electron microscopy? 
+2. How does it allow for the visualization of molecules at near-atomic resolutions? 
+3. What are some applications of this technology? 
+4. Who developed Cryo-electron microscopy and when was it invented? 
+5. How has Cryo-electron microscopy impacted scientific research and discoveries?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Heck reaction is a method for coupling aryl halides with alkenes to form substituted alkenes.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is the Heck reaction?
+2. How does the Heck reaction work?
+3. What are aryl halides and alkenes?
+4. Why do we need to couple aryl halides with alkenes?
+5. What are the applications of the Heck reaction?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Molecular docking studies predict the preferred orientation of one molecule to a second when bound to each other to form a stable complex.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does molecular docking mean? 
+2. How do scientists use molecular docking to study interactions between molecules? 
+3. Can you give an example of how molecular docking has been used in research? 
+4. What factors influence the accuracy of molecular docking predictions? 
+5. Are there any limitations to using molecular docking for studying protein-ligand interactions?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The synthesis of nanoparticles involves controlling size and shape at the nanometer scale for specific applications.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a nanoparticle? 
+2. How does the synthesis process control size and shape? 
+3. What are some examples of specific applications where nanoparticles are used? 
+4. Why is it important to control size and shape at the nanometer scale? 
+5. Are there any potential risks associated with using nanoparticles in various applications?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Green chemistry principles aim to reduce the environmental impact of chemical manufacturing.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'environmental impact' mean? 
+2. How can we reduce the environmental impact of chemical manufacturing? 
+3. What are some examples of green chemistry principles? 
+4. Why is it important to focus on reducing the environmental impact of chemical manufacturing? 
+5. Are there any specific industries or products that could benefit from implementing green chemistry practices?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Single-molecule spectroscopy techniques can observe the properties of individual molecules.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is single-molecule spectroscopy? 
+2. How does it work and why is it important? 
+3. What types of information can be obtained from observing individual molecules? 
+4. Can single-molecule spectroscopy be used for practical applications? 
+5. Are there any limitations or challenges associated with using this technique?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Organocatalysis involves small organic molecules acting as catalysts in chemical reactions.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a catalyst?
+2. How does organocatalysis differ from other types of catalysis?
+3. Can you give an example of an organocatalyzed reaction?
+4. What are some advantages of using organocatalysis in chemical synthesis?
+5. Are there any limitations or challenges associated with organocatalysis?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Supercritical fluids have properties of both gases and liquids and are used in various extraction processes.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are supercritical fluids?
+2. How do they differ from gases and liquids?
+3. What are some common uses for supercritical fluids?
+4. Can you give an example of how supercritical fluids are used in extraction processes?
+5. Are there any safety concerns when working with supercritical fluids?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The study of interfacial chemistry examines the chemical phenomena that occur at the interface of two phases, such as solid-liquid or liquid-gas interfaces", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does interfacial chemistry mean?
+2. How do we define an interface between two phases?
+3. Can you give examples of solid-liquid and liquid-gas interfaces?
+4. What kind of chemical phenomena occur at these interfaces?
+5. Why is studying interfacial chemistry important?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Atomic layer deposition is a thin-film deposition technique based on the sequential use of a gas phase chemical process.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is Atomic Layer Deposition? 
+2. How does it work? 
+3. What are its applications? 
+4. What materials can be used for ALD? 
+5. What are the advantages and disadvantages of using ALD compared to other techniques?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Diels-Alder reaction is a chemical reaction between a conjugated diene and a substituted alkene to form a cyclohexene derivative.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a conjugated diene?
+2. What is a substituted alkene?
+3. How does the Diels-Alder reaction work?
+4. What is a cyclohexene derivative?
+5. Can you give an example of when the Diels-Alder reaction might occur in real life?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Chemiluminescence is the emission of light as a result of a chemical reaction without a rise in temperature.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is chemiluminescence? 
+2. How does it differ from other forms of light production? 
+3. Can you give an example of a common occurrence of chemiluminescence? 
+4. What causes the chemical reactions that produce chemiluminescence? 
+5. Are there any practical applications for chemiluminescence?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Flory-Huggins theory describes the thermodynamics of polymer solutions.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a polymer solution? 
+2. How does the Flory-Huggins theory describe the thermodynamics of these solutions? 
+3. What are some real-world applications of this theory? 
+4. Can you provide an example of how this theory has been used in research or industry? 
+5. Are there any limitations or criticisms of the Flory-Huggins theory?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Spintronics involves the study of the intrinsic spin of the electron and its associated magnetic moment, in addition to its fundamental electronic charge, in solid-state devices.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is spintronics? 
+2. How does it differ from traditional electronics? 
+3. What are some applications of spintronics? 
+4. Who discovered spintronics and when? 
+5. What materials are commonly used for spintronic devices?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Bioremediation uses microorganisms to degrade environmental pollutants.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are microorganisms? 
+2. How do they degrade environmental pollutants? 
+3. Can bioremediation help clean up oil spills? 
+4. Are there any risks associated with using bioremediation? 
+5. Is bioremediation an effective method for cleaning up contaminated sites?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Zeolites are microporous, aluminosilicate minerals used as commercial adsorbents and catalysts.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are zeolites? 
+2. How do they work as adsorbents and catalysts? 
+3. What are their applications in industry? 
+4. How can I obtain zeolite products for my needs? 
+5. Are there any safety precautions when handling zeolites?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Peptide synthesis involves the production of peptides, which are organic compounds in which multiple amino acids are linked via amide bonds.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are peptides?
+2. How do they form?
+3. What are amide bonds?
+4. Why are peptides important?
+5. How can we synthesize peptides?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The concept of aromaticity describes the increased stability of compounds with conjugated ring systems.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "aromatic" mean?
+2. How do conjugated ring systems contribute to the stability of compounds?
+3. Can you provide an example of a compound that exhibits aromaticity?
+4. Are there any other factors besides conjugation that affect the stability of compounds?
+5. How can we determine if a molecule has aromatic properties?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Molecular imprinting creates polymer matrices with specific shapes and functional groups for targeted molecule recognition.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is molecular imprinting? 
+2. How does it create polymer matrices with specific shapes and functional groups? 
+3. What is targeted molecule recognition? 
+4. Why is it important to have polymer matrices with specific shapes and functional groups? 
+5. Can you give an example of how molecular imprinting can be used in real-world applications?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Carbon nanotubes are cylindrical molecules with novel properties, useful in nanotechnology and electronics.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are Carbon Nanotubes? 
+2. How do they differ from other materials? 
+3. What are their unique properties? 
+4. In what applications are they used? 
+5. Can you provide examples of how they are currently being utilized?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Protein folding is a complex process that determines the three-dimensional structure of proteins.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is protein folding? 
+2. Why is protein folding important? 
+3. How does protein folding occur? 
+4. What factors influence protein folding? 
+5. What happens when protein folding goes wrong?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Suzuki coupling involves the cross-coupling of organoboron compounds with organic halides to form carbon-carbon bonds.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is the Suzuki coupling?
+2. How does it work?
+3. What are organoboron compounds and organic halides?
+4. Why do we need to form carbon-carbon bonds?
+5. Can you give an example of how the Suzuki coupling can be used in real life?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Photocatalysis uses light to accelerate a reaction that modifies the rate of a chemical reaction without being consumed.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is Photocatalysis?
+2. How does it work?
+3. What types of reactions can it modify?
+4. What is the role of light in this process?
+5. Can it be used for any practical applications?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Supercritical CO2 is a fluid state of carbon dioxide where it is held at or above its critical temperature and critical pressure.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does'supercritical' mean?
+2. How is supercritical CO2 different from regular CO2?
+3. What are some applications for supercritical CO2?
+4. How can we produce supercritical CO2?
+5. Are there any safety concerns with using supercritical CO2?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Quantum chemistry computationally studies the properties and behavior of molecules at the quantum level.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "quantum" mean?
+2. How do we study molecules at the quantum level?
+3. Why is studying molecules at the quantum level important?
+4. Can you give an example of how quantum chemistry has been used in real-world applications?
+5. Are there any limitations or challenges associated with using quantum chemistry for molecular simulations?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Metal-organic frameworks (MOFs) are compounds consisting of metal ions or clusters coordinated to organic ligands to form one-, two-, or three-dimensional structures.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are Metal-Organic Frameworks?
+2. How do they work?
+3. What are their applications?
+4. Who discovered MOFs and when?
+5. Are there any limitations or challenges associated with using MOFs?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Grignard reaction involves the addition of Grignard reagents to carbonyl compounds to form alcohols.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a Grignard reagent?
+2. How does the Grignard reaction work?
+3. What types of carbonyl compounds can be used in the reaction?
+4. What are some common applications of the Grignard reaction?
+5. Are there any safety concerns when working with Grignard reagents?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Heterogeneous catalysis occurs at the interface between phases, typically involving a solid catalyst and a gas or liquid reactant.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is heterogeneous catalysis? 
+2. How does it occur at the interface between phases? 
+3. Can you give an example of a solid catalyst and a gas/liquid reactant? 
+4. What happens during heterogeneous catalysis? 
+5. Why is it important to study heterogeneous catalysis?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Perovskite materials are used in solar cells due to their efficient light absorption and charge-carrier mobilities.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are perovskite materials?
+2. How do they work in solar cells?
+3. Why are they more efficient than traditional materials?
+4. What are some other applications for perovskite materials?
+5. Are there any drawbacks or limitations to using perovskite materials?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The study of femtochemistry explores chemical reactions on extremely short timescales, allowing observation of the transition states in reactions.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'extremely short timescales' mean?
+2. How do we observe these transitions states?
+3. Why is studying these transitions important?
+4. Can you give an example of a reaction studied using femtochemistry?
+5. What are some potential applications of femtochemistry research?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Cyclic voltammetry is an electrochemical technique used to study the electrochemical properties of materials.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is cyclic voltammetry?
+2. How does it work?
+3. What are its applications?
+4. What kind of materials can be studied using this technique?
+5. What are some common parameters measured during cyclic voltammetry experiments?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Cryogenic techniques in chemistry involve the study of materials at very low temperatures to understand their properties and reactions.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does cryogenic mean? 
+2. How do scientists use low temperatures to study materials? 
+3. What kind of properties can be observed at these low temperatures? 
+4. What types of chemical reactions occur at cryogenic temperatures? 
+5. What applications does this research have in real-world industries?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The synthesis and study of fullerenes, carbon allotropes with unique properties, have implications for materials science and nanotechnology.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are fullerenes? 
+2. How do they differ from other forms of carbon? 
+3. What makes their properties unique? 
+4. What potential applications do fullerenes have in materials science and nanotechnology? 
+5. How can we synthesize fullerenes?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Atomic force microscopy (AFM) allows scientists to visualize surfaces and measure forces at the atomic level.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is Atomic Force Microscopy?
+2. How does AFM work?
+3. What can AFM be used for?
+4. What are the advantages of using AFM over other imaging techniques?
+5. Who invented AFM and when was it developed?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Langmuir-Blodgett technique is used to deposit single layers of molecules onto surfaces, important for creating thin film materials.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is the Langmuir-Blodgett technique?
+2. How does it work?
+3. Why is it important for creating thin film materials?
+4. Can you give an example of how it's used?
+5. Are there any limitations or challenges with using this technique?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Transition state theory explains the rates of chemical reactions by considering the highest energy state during the reaction.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is Transition State Theory?
+2. How does it explain the rate of chemical reactions?
+3. Can you provide an example of how it works?
+4. Are there any limitations to its application?
+5. How can I learn more about Transition State Theory?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The use of isotope labeling helps to trace the path of atoms through reaction mechanisms.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is an isotope?
+2. How does isotope labeling work?
+3. Why is tracing the path of atoms important in understanding chemical reactions?
+4. Can isotope labeling be used for other types of molecules besides those involved in chemical reactions?
+5. Are there any limitations or challenges associated with using isotope labeling in research?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Sonogashira coupling involves the cross-coupling of an alkynyl copper compound with an aryl or vinyl halide, facilitating the synthesis of complex organic molecules.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is Sonogashira coupling?
+2. How does it work?
+3. What are alkynyl copper compounds and how do they fit into the process?
+4. What types of organic molecules can be synthesized using Sonogashira coupling?
+5. What are some real-world applications for this technique?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Molecular dynamics simulations are computational methods used to model the physical movements of atoms and molecules, providing insights into the structure, dynamics, and function of biological macromolecules and materials", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are molecular dynamics simulations?
+2. How do they work?
+3. What can we learn from them?
+4. What are some applications of molecular dynamics simulations?
+5. Where can I find more information on this topic?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Non-linear optical materials have applications in laser technology due to their interaction with light.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are non-linear optical materials? 
+2. How do they interact with light? 
+3. What are some examples of lasers that use these materials? 
+4. How do these materials differ from linear optical materials? 
+5. What are some potential future developments for non-linear optical materials and lasers?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Kasha rule predicts the emission of photons from the lowest excited state of a molecule.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is Kasha? 
+2. What is the lowest excited state of a molecule? 
+3. How does the Kasha rule predict photon emission? 
+4. Can you provide an example of how the Kasha rule works? 
+5. What are some real-world applications of the Kasha rule?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Metamaterials exhibit properties not found in naturally occurring materials, often achieved through structure rather than composition.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are metamaterials?
+2. How do they differ from naturally occurring materials?
+3. Can you give an example of a property exhibited by metamaterials?
+4. How are these properties achieved?
+5. Are there any practical applications for metamaterials?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Single-photon emission computed tomography (SPECT) is a nuclear medicine tomographic imaging technique using gamma rays.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is SPECT? 
+2. How does SPECT work? 
+3. What is nuclear medicine? 
+4. What is a gamma ray? 
+5. What is a tomographic imaging technique?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Stille reaction couples organotin compounds with organohalides to form carbon-carbon bonds.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is an organotin compound?
+2. What is an organohalide?
+3. How does the Stille reaction work?
+4. What are carbon-carbon bonds and why are they important?
+5. Can you provide some examples of how the Stille reaction can be used in real-world applications?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "X-ray crystallography can determine the arrangement of atoms within a crystal, revealing molecular structures.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is X-ray crystallography? 
+2. How does it work? 
+3. Why is it important for determining molecular structures? 
+4. Can it be used on any type of material? 
+5. Are there any limitations or challenges associated with using X-ray crystallography?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Peptoid nanosheets are a new class of two-dimensional polymers with potential in biotechnology and materials science.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are peptoids?
+2. How do they differ from traditional polymers?
+3. What are their applications in biotechnology and materials science?
+4. Can you provide examples of how they are used in these fields?
+5. Are there any limitations or challenges associated with using peptoid nanosheets?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The concept of "chemical space" explores the theoretical and practical possibilities of all chemical compounds.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "chemical space" mean?
+2. How can we explore all possible chemical compounds?
+3. Why is understanding chemical space important?
+4. Can you give an example of how chemical space has been used in practice?
+5. Are there any limitations to exploring chemical space?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "High-pressure chemistry studies the effects of high pressure on chemical reactions, often leading to the synthesis of novel materials.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is high-pressure chemistry?
+2. How does high pressure affect chemical reactions?
+3. What kind of novel materials can be synthesized through high-pressure chemistry?
+4. Are there any real-world applications for high-pressure chemistry?
+5. Can I learn more about high-pressure chemistry and its potential benefits?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Electrospinning is a technique to produce ultra-fine fibers with applications in tissue engineering and filtration.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is electrospinning? 
+2. How does electrospinning work? 
+3. What are some applications of electrospun fibers? 
+4. What materials can be used for electrospinning? 
+5. What are the advantages of using electrospun fibers over other methods of fiber production?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Quantum dots have size-dependent optical and electronic properties, useful in electronics and imaging.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are quantum dots?
+2. How do their size affect their optical and electronic properties?
+3. In what ways can they be used in electronics and imaging?
+4. Can you provide examples of how these properties make them useful for specific applications?
+5. Are there any limitations or challenges associated with using quantum dots in technology?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Belousov-Zhabotinsky reaction is a non-equilibrium chemical oscillator that can produce a variety of temporal and spatial patterns.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a chemical oscillator?
+2. How does the Belousov-Zhabotinsky reaction work?
+3. What kind of patterns can it produce?
+4. Is it an equilibrium or non-equilibrium process?
+5. Why is it important to study such reactions?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Nanocatalysis involves the use of nanomaterials as catalysts to increase the efficiency of chemical reactions.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is nanotechnology? 
+2. How does nanocatalysis work? 
+3. What types of materials can be used for nanocatalysts? 
+4. What are some examples of chemical reactions that can benefit from nanocatalysis? 
+5. What are the potential applications and benefits of using nanocatalysts in industry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The synthesis of artificial enzymes aims to mimic the catalytic functions of natural enzymes.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is an enzyme?
+2. How do natural enzymes work?
+3. Why synthesize artificial enzymes?
+4. What are some applications for artificial enzymes?
+5. What challenges exist in creating synthetic enzymes?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Supramolecular assemblies involve the organization of molecules into structured systems without covalent bonding.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does'supramolecular' mean? 
+2. How do these structures form and why are they important? 
+3. Can you give an example of a supramolecular assembly? 
+4. Are there any practical applications for these structures? 
+5. How can we study and manipulate supramolecular assemblies?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Heck reaction is a palladium-catalyzed coupling between aryl halides and alkenes to form substituted alkenes.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is the Heck reaction? 
+2. How does it work? 
+3. What are its applications? 
+4. Who discovered it? 
+5. Are there any limitations or drawbacks to using it?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Spin chemistry explores the effects of electron spin states on chemical reactions.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is electron spin? 
+2. How does electron spin affect chemical reactions? 
+3. Can you give an example of how spin chemistry has been used in real-world applications? 
+4. Are there any limitations to using spin chemistry in chemical reactions? 
+5. How can I learn more about spin chemistry and its potential uses?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Carbon capture and storage (CCS) technologies aim to reduce CO2 emissions from industrial sources.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is carbon capture and storage?
+2. Why is it important for reducing CO2 emissions?
+3. How does CCS technology work?
+4. What are some examples of industries that use CCS?
+5. What are the potential benefits and drawbacks of using CCS?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The development of biodegradable polymers seeks to address environmental concerns associated with traditional plastics.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are biodegradable polymers?
+2. Why do we need to develop them?
+3. How do they differ from traditional plastics?
+4. What are some examples of biodegradable polymers?
+5. What are the potential benefits and drawbacks of using biodegradable polymers?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Atomically precise manufacturing (APM) aims to create materials and devices with atomic precision, potentially revolutionizing nanotechnology and materials science", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'atomically precise' mean?
+2. How can APM revolutionize nanotechnology and materials science?
+3. What are some examples of materials and devices that could be created using APM?
+4. What are the current challenges or limitations of APM technology?
+5. Who are the key players in the development and implementation of APM?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Photochemical reactions involve chemical changes initiated by light, such as photosynthesis and photovoltaic energy conversion.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a Photochemical reaction? 
+2. How does light initiate chemical changes? 
+3. Can you give examples of Photochemical reactions? 
+4. What is Photosynthesis? 
+5. What is Photovoltaic Energy Conversion?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Cryochemistry studies chemical reactions at extremely low temperatures to stabilize reactive intermediates for analysis.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does cryochemistry study?
+2. How do they stabilize reactive intermediates?
+3. Why is it important to analyze these intermediates?
+4. What kind of temperature range is considered extremely low?
+5. Are there any real-world applications for cryochemistry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The use of chiral catalysts in synthesis allows for the production of enantiomerically pure compounds, important in pharmaceuticals.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are chiral catalysts?
+2. How do they help produce enantiomerically pure compounds?
+3. Why is producing enantiomerically pure compounds important in pharmaceuticals?
+4. Can you give an example of a drug that requires enantiomeric purity?
+5. Are there any other applications of chiral catalysts besides pharmaceuticals?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Atomic force microscopy (AFM) can characterize the surface of materials at the nanoscale, including molecules and even atoms.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is atomic force microscopy?
+2. How does AFM work?
+3. What types of surfaces can AFM characterize?
+4. Can AFM detect individual atoms?
+5. What applications does AFM have in material science?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Electrochemical impedance spectroscopy (EIS) is a technique for characterizing the impedance of electrochemical systems over a range of frequencies.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is Electrochemical Impedance Spectroscopy? 
+2. How does EIS work? 
+3. What are some applications of EIS? 
+4. What types of electrochemical systems can be characterized using EIS? 
+5. What are the advantages and limitations of EIS compared to other characterization techniques?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The development of fluorescent probes and dyes has revolutionized imaging techniques in biological and chemical research.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is fluorescence?
+2. How do fluorescent probes work?
+3. What are some applications of fluorescent probes and dyes?
+4. Who developed these technologies?
+5. How have they impacted scientific research?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Dynamic covalent chemistry involves reversible reactions that allow for the adaptive modification of molecular networks under equilibrium conditions.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does dynamic covalent chemistry mean?
+2. How do reversible reactions work?
+3. Can molecular networks be modified under equilibrium conditions?
+4. Why is it important to study dynamic covalent chemistry?
+5. Are there any real-world applications for dynamic covalent chemistry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The application of green solvents aims to reduce the environmental impact of chemical processes.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are green solvents? 
+2. How do they differ from traditional solvents? 
+3. Why is reducing the environmental impact important for chemical processes? 
+4. Can you provide examples of green solvents and their applications? 
+5. Are there any challenges or limitations associated with using green solvents?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Single-molecule magnets show magnetic hysteresis, a property typically associated with bulk materials, at the molecular level.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "single-molecule magnet" mean? 
+2. How can something so small exhibit properties usually seen in larger objects? 
+3. What exactly is "magnetic hysteresis"? 
+4. Why is this significant for understanding how things work on a molecular level? 
+5. Can we use this information to create new technologies or improve existing ones?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The study of ionic liquids as solvents and catalysts in chemical reactions offers advantages such as low volatility and high thermal stability.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are ionic liquids?
+2. How do they differ from traditional organic solvents?
+3. What types of chemical reactions can be carried out using ionic liquids?
+4. What are some potential applications for ionic liquids in industry?
+5. Are there any environmental benefits associated with using ionic liquids instead of traditional solvents?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Quantum tunneling in chemical reactions allows particles to bypass energy barriers.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is quantum tunneling?
+2. How does it work in chemical reactions?
+3. Why is it important for understanding chemical processes?
+4. Can you give an example of how quantum tunneling affects real-world applications?
+5. Are there any limitations or drawbacks to using quantum tunneling in chemistry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The synthesis of quantum dots for use in electronics and photovoltaics involves controlling particle size and surface properties.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are quantum dots?
+2. How do they work in electronics and photovoltaics?
+3. What is the process of synthesizing quantum dots?
+4. Why is controlling particle size and surface properties important?
+5. What are some applications of quantum dot technology?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Metal-organic frameworks (MOFs) are used for gas storage, separation, and catalysis due to their high porosity.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are Metal-Organic Frameworks?
+2. How do they work for Gas Storage, Separation, and Catalysis?
+3. What makes MOFs so porous?
+4. Can you give an example of how MOFs can be used in real life?
+5. Are there any limitations to using MOFs for these applications?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The study of biomimetic materials focuses on the development of synthetic systems that mimic natural processes.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'biomimetic' mean? 
+2. How do these synthetic systems mimic natural processes? 
+3. What kind of applications can these biomimetic materials have? 
+4. Are there any examples of successful biomimetic materials? 
+5. Who are some key researchers in this field and what have they contributed?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "High-throughput screening methods accelerate the discovery of new drugs by testing thousands of compounds simultaneously.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does high-throughput mean?
+2. How do these methods speed up drug discovery?
+3. Can you give an example of one such method?
+4. What kind of compounds are tested using these methods?
+5. Are there any limitations to these methods?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Casimir effect influences the forces between objects at nanoscale distances, relevant in nanotechnology.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is nanotechnology?
+2. How does the Casimir effect work?
+3. What are some applications of the Casimir effect in nanotechnology?
+4. How can we measure the Casimir force between two surfaces?
+5. Are there any limitations or challenges associated with using the Casimir effect in nanotechnology?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Photodynamic therapy uses light-activated compounds for targeted cancer treatment.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is photodynamic therapy? 
+2. How does it work? 
+3. What types of cancers can it treat? 
+4. Are there any side effects? 
+5. Is it an effective treatment option?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Artificial photosynthesis seeks to replicate the natural process of photosynthesis for sustainable energy production.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is artificial photosynthesis?
+2. How does it work?
+3. Why is it important for sustainable energy production?
+4. What are some current challenges and limitations of artificial photosynthesis?
+5. Are there any real-world applications or examples of artificial photosynthesis being used?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The development of smart materials that respond to environmental stimuli has applications in various fields, including medicine and engineering.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are smart materials?
+2. How do they respond to environmental stimuli?
+3. What are some examples of their applications in medicine and engineering?
+4. Can you give more details on how they work?
+5. Are there any limitations or challenges associated with using these materials?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The investigation of topological insulators has opened new pathways in quantum computing and electronics.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are topological insulators?
+2. How do they relate to quantum computing and electronics?
+3. What makes them different from other materials?
+4. What potential applications do they have?
+5. How can we study and utilize their properties?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Spin crossover materials change their magnetic properties in response to external stimuli, such as temperature or pressure.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are spin crossover materials? 
+2. How do they change their magnetic properties? 
+3. What kind of external stimuli can cause these changes? 
+4. Can these changes be controlled and manipulated? 
+5. What practical applications could spin crossover materials have?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The concept of aromaticity extends beyond benzene-like compounds to include non-traditional cyclic and polycyclic systems.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is aromaticity?
+2. How does aromaticity extend beyond benzene-like compounds?
+3. Can you give examples of non-traditional cyclic and polycyclic systems that exhibit aromaticity?
+4. What are the properties of aromatic molecules?
+5. How can we determine if a molecule is aromatic or not?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Single-atom catalysts (SACs) offer high efficiency and selectivity due to the isolated active sites.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are single-atom catalysts? 
+2. How do they work? 
+3. Why are they efficient and selective? 
+4. What are their applications? 
+5. How can we use SACs for industrial processes?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The study of mechanochemistry focuses on chemical reactions that are induced by mechanical force.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is mechanochemistry?
+2. How does mechanical force induce chemical reactions?
+3. What types of chemical reactions can be studied using mechanochemistry?
+4. What are some applications of mechanochemistry?
+5. Who studies and researches mechanochemistry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Perovskite solar cells have emerged as a highly efficient class of photovoltaic devices with a simple manufacturing process.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are perovskite solar cells?
+2. How do they work?
+3. What makes them more efficient than traditional silicon-based solar cells?
+4. What is the manufacturing process for perovskite solar cells?
+5. What are some potential applications for perovskite solar cells?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The application of sonochemistry involves using ultrasonic waves to induce or accelerate chemical reactions.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is sonochemistry?
+2. How does sonochemistry work?
+3. What types of chemical reactions can be induced by sonochemistry?
+4. What are some applications of sonochemistry?
+5. Are there any safety concerns with using sonochemistry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Molecular machines are molecules designed to perform specific mechanical movements in response to specific stimuli.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What exactly do molecular machines do? 
+2. How are they different from traditional machines? 
+3. Can you give an example of how they work? 
+4. What kind of stimuli can trigger their movement? 
+5. Are there any practical applications for these machines?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The principles of green chemistry aim to reduce or eliminate the use and generation of hazardous substances in chemical manufacturing.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'green chemistry' mean? 
+2. Why is it important to reduce or eliminate hazardous substances in chemical manufacturing? 
+3. How can we achieve these goals? 
+4. Are there any specific examples of hazardous substances that should be avoided? 
+5. What are some potential benefits of implementing green chemistry practices?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Electrochromic materials change color when an electric charge is applied, useful in displays and smart windows.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are electrochromic materials? 
+2. How do they work? 
+3. What are their applications? 
+4. Can you give examples of how they are used? 
+5. Are there any limitations or drawbacks to using electrochromic materials?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The exploration of two-dimensional materials beyond graphene, such as phosphorene and silicene, for applications in electronics and energy storage.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are two-dimensional materials? 
+2. How do they differ from traditional three-dimensional materials? 
+3. What are some potential applications for these materials? 
+4. Why are researchers interested in exploring these materials? 
+5. What are some challenges associated with working with two-dimensional materials?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The development of organically modified ceramics (ormocers) has led to new materials with unique optical, electrical, and mechanical properties.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are organically modified ceramics? 
+2. How do they differ from traditional ceramics? 
+3. What are some examples of their applications? 
+4. Who developed these materials and when? 
+5. What makes them unique compared to other materials?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Atom probe tomography allows for three-dimensional atomic-scale reconstruction of materials.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is Atom Probe Tomography?
+2. How does it work?
+3. What can it be used for?
+4. What are its limitations?
+5. Who developed Atom Probe Tomography and when was it invented?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The concept of supramolecular polymers involves the reversible association of monomeric units through non-covalent bonds.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are monomeric units?
+2. What are non-covalent bonds?
+3. How do these bonds work together to form supramolecular polymers?
+4. Can you give an example of a supramolecular polymer and its applications?
+5. How does the reversible nature of supramolecular polymers make them unique compared to traditional covalently bonded polymers?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Transition state analogs are designed to inhibit enzymes by mimicking the transition state of the substrate.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is an enzyme? 
+2. What is a transition state? 
+3. How do transition state analogs work? 
+4. Why are they used to inhibit enzymes? 
+5. Can you give examples of transition state analogs and their applications?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Molecular self-assembly is a process by which molecules adopt a defined arrangement without guidance or management from an outside source.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does molecular self-assembly mean?
+2. How do molecules arrange themselves without guidance?
+3. Is there any external force involved in this process?
+4. Can we control and manipulate this process for practical applications?
+5. Are there any examples of molecular self-assembly in nature or industry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Electroactive polymers change shape or size when stimulated by an electric field, useful in sensors and actuators.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are electroactive polymers? 
+2. How do they change shape or size when stimulated by an electric field? 
+3. In what applications can these polymers be used? 
+4. Can you provide examples of sensors and actuators made from electroactive polymers? 
+5. Are there any limitations or challenges associated with using electroactive polymers in these applications?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The study of nanofluidics focuses on the behavior of fluids that are confined to nanometer-sized channels.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'confined' mean?
+2. How small is a nanometer?
+3. Why is studying fluid behavior important?
+4. What is nanofluidics used for?
+5. Can you give an example of how nanofluidics can be applied in real life?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Photoredox catalysis uses light to activate a catalyst, enabling energy-efficient chemical transformations.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is photoredox catalysis? 
+2. How does light activate a catalyst? 
+3. What types of chemical reactions can be performed using photoredox catalysis? 
+4. What makes photoredox catalysis more energy efficient than traditional methods? 
+5. Can photoredox catalysis be used for industrial applications?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Bioorthogonal chemistry involves reactions that can occur inside living organisms without interfering with native biochemical processes.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'bioorthogonal' mean?
+2. How do these reactions occur inside living organisms?
+3. Why is it important for these reactions not to interfere with native biochemical processes?
+4. Can you give an example of a bioorthogonal reaction and its application?
+5. Are there any potential drawbacks or limitations to using bioorthogonal chemistry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The exploration of time-resolved spectroscopy provides insights into the dynamic processes within molecules over extremely short timescales.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is time-resolved spectroscopy?
+2. How does it provide insights into molecular dynamics?
+3. What are some examples of dynamic processes observed using this technique?
+4. What are the applications of time-resolved spectroscopy?
+5. Who developed this technique and when was it first used?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Spintronics relies on the spin of electrons, in addition to their charge, for information processing.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is spintronics?
+2. How does spintronics differ from traditional electronics?
+3. What is electron spin and how is it used in spintronics?
+4. Can you give an example of a device that uses spintronics?
+5. What are some potential applications of spintronics in the future?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Cryogenic electron microscopy (cryo-EM) allows for the visualization of biomolecules in their native environment at atomic resolution.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is cryogenic electron microscopy? 
+2. How does it allow for visualization of biomolecules? 
+3. What is meant by 'native environment' and why is it important? 
+4. What is atomic resolution? 
+5. What are some applications of cryo-EM in biology?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The use of flow chemistry in pharmaceuticals enables continuous processing, improving safety and scalability.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is flow chemistry? 
+2. How does it improve safety and scalability in pharmaceuticals? 
+3. Can you provide an example of how flow chemistry has been used in pharmaceuticals? 
+4. Are there any drawbacks or limitations to using flow chemistry in pharmaceuticals? 
+5. How do scientists determine if flow chemistry is the best method for a particular drug production process?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Quantum computing in chemistry promises to solve complex molecular energy state problems more efficiently than classical computers.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is quantum computing? 
+2. How does it differ from classical computing? 
+3. What specific problem can it solve better than classical computers? 
+4. Can you provide an example of how it works in chemistry? 
+5. What are some potential applications for quantum computing in chemistry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Advanced ceramics exhibit superconductivity, piezoelectricity, and ferromagnetism, enabling new technologies.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does'superconductivity' mean?
+2. How do advanced ceramics exhibit these properties?
+3. Can you give examples of how these properties can be used in technology?
+4. Are there any downsides to using advanced ceramics with these properties?
+5. Is this something that has been discovered recently or has it always existed?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Peierls distortion describes a structural change in one-dimensional metallic crystals that opens a band gap at the Fermi level.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a one-dimensional metallic crystal?
+2. What does opening a band gap mean?
+3. How does the Peierls distortion affect the structure of the crystal?
+4. Why is the Fermi level important in this process?
+5. Can you provide an example of how this distortion can be observed in real life?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Polymerase chain reaction (PCR) techniques amplify DNA sequences, enabling detailed chemical genetic studies.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is PCR?
+2. How does PCR work?
+3. Why is PCR important for genetic studies?
+4. Can PCR be used for other purposes besides genetic studies?
+5. Are there any limitations or challenges associated with PCR?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The discovery of graphene, a single layer of carbon atoms arranged in a hexagonal lattice, has led to advancements in materials science.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is graphene?
+2. How does graphene differ from other materials?
+3. What are some applications of graphene?
+4. Who discovered graphene and when?
+5. How can graphene be synthesized?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Synthetic biology combines chemical synthesis with biological systems to create new biological parts, devices, and systems.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is synthetic biology? 
+2. How does it combine chemical synthesis and biological systems? 
+3. What are some examples of new biological parts, devices, and systems created through synthetic biology? 
+4. What are the potential applications of synthetic biology? 
+5. Who are the key players in the field of synthetic biology?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The development of biocompatible materials for implants and prosthetics involves understanding the interface between synthetic materials and biological tissues", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'biocompatible' mean?
+2. How do synthetic materials interact with biological tissues?
+3. Why is it important to understand these interactions?
+4. What types of implants and prosthetics can benefit from biocompatible materials?
+5. Are there any specific challenges associated with developing such materials?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Photocatalytic water splitting uses semiconductor materials to catalyze the decomposition of water into hydrogen and oxygen using sunlight.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is photocatalysis? 
+2. How does semiconductors work in water splitting? 
+3. What is the purpose of decomposing water into hydrogen and oxygen? 
+4. How does sunlight play a role in this process? 
+5. Can this technology be used for practical applications?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The concept of molecular recognition involves the specific interaction between two or more molecules through noncovalent bonding.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is molecular recognition?
+2. How does noncovalent bonding work?
+3. Can you give an example of molecular recognition?
+4. Why is molecular recognition important?
+5. Are there any real-world applications for molecular recognition?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "High-temperature superconductors operate without electrical resistance at temperatures significantly above absolute zero.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is an electrical resistance?
+2. How does temperature affect electrical resistance?
+3. What is absolute zero and why is it important?
+4. What are high-temperature superconductors and how do they work?
+5. Why is it significant that high-temperature superconductors can operate without electrical resistance at higher temperatures than traditional superconductors?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Atomic layer deposition (ALD) allows for the precise deposition of thin films one atomic layer at a time.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is Atomic Layer Deposition?
+2. How does ALD work?
+3. What are the applications of ALD?
+4. What are the advantages and disadvantages of using ALD?
+5. Can you provide an example of how ALD has been used in real-world scenarios?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The design of drug delivery systems involves controlling the release rate and target specificity of pharmaceutical compounds.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a drug delivery system? 
+2. Why is it important to control the release rate and target specificity of pharmaceutical compounds? 
+3. How does the design process work for drug delivery systems? 
+4. What are some common methods used to achieve controlled release and targeted delivery? 
+5. Can you provide examples of successful drug delivery systems and their applications?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Proton exchange membrane fuel cells (PEMFCs) generate electricity through the reaction of hydrogen and oxygen, producing only water as a byproduct.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a proton exchange membrane fuel cell?
+2. How does it work?
+3. What are its advantages over other types of fuel cells?
+4. What are some real-world applications for PEMFCs?
+5. How can I learn more about PEMFCs?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Chemical vapor deposition (CVD) is used to produce high-quality, high-performance, solid materials, typically under vacuum.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is Chemical Vapor Deposition? 
+2. How does CVD work? 
+3. What types of materials can be produced using CVD? 
+4. What are the benefits of using CVD for material production? 
+5. Are there any limitations or challenges associated with CVD?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The study of intrinsically disordered proteins (IDPs) challenges the traditional protein structure-function paradigm, recognizing the functional importance of unstructured regions.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are intrinsically disordered proteins?
+2. How do they challenge the traditional protein structure-function paradigm?
+3. Why are unstructured regions important for their function?
+4. Can IDPs be used for drug discovery and development?
+5. Are there any specific techniques or methods used to study IDPs?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Metal-air batteries, including lithium-air and zinc-air batteries, offer high energy densities by exploiting the oxidation of metals with oxygen from the air.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are metal-air batteries?
+2. How do they work?
+3. Why are they important for energy storage?
+4. What are some examples of metal-air batteries?
+5. What are the advantages and disadvantages of metal-air batteries compared to other types of batteries?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The synthesis and manipulation of single molecules as components of electronic devices represent a frontier in molecular electronics", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is molecular electronics? 
+2. How does the synthesis and manipulation of single molecules contribute to electronic devices? 
+3. Can you give an example of how this technology can be used in real-world applications? 
+4. Are there any limitations or challenges associated with using single molecule components in electronic devices? 
+5. What are some potential future developments in this field?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Nanotechnology involves the manipulation of matter on an atomic, molecular, and supramolecular scale for novel applications.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does nanotechnology mean? 
+2. How does it manipulate matter at such small scales? 
+3. What are some examples of its applications? 
+4. Who discovered nanotechnology? 
+5. Is there any potential harm associated with nanotechnology?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Quantum dots are semiconductor particles that have quantum mechanical properties, useful in electronics and medical imaging.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are Quantum Dots?
+2. How do they work?
+3. What are their applications?
+4. Are there any potential risks associated with using them?
+5. Can I learn more about Quantum Dots online?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Green chemistry seeks to reduce chemical related environmental impact through sustainable design and manufacturing processes.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does green chemistry mean?
+2. How can we apply sustainable design and manufacturing processes to reduce environmental impact?
+3. Can you give examples of chemicals that have negative environmental impacts?
+4. Are there any specific regulations or guidelines for implementing green chemistry practices?
+5. How do these practices benefit both the environment and society?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Supercritical fluids, like supercritical CO2, exhibit unique properties that are exploited in extraction and chromatography.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are supercritical fluids? 
+2. How do they differ from other states of matter? 
+3. What makes supercritical CO2 unique? 
+4. In what ways can these properties be used for extraction and chromatography? 
+5. Can you provide examples of how supercritical fluids are currently being utilized in industry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Biomimicry in chemistry involves developing materials and processes that mimic the biological systems for sustainable solutions.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "biomimicry" mean? 
+2. How can biomimicry help with sustainability? 
+3. Can you give an example of how biomimicry has been used in chemistry? 
+4. Are there any specific industries or fields where biomimicry has been particularly successful? 
+5. What are some potential future applications of biomimicry in chemistry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Organocatalysis involves the acceleration of chemical reactions through the use of small organic molecules.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is Organocatalysis? 
+2. How does it accelerate chemical reactions? 
+3. What are small organic molecules and how do they work? 
+4. Can you give an example of a reaction that can be accelerated by organocatalysis? 
+5. Are there any benefits to using organocatalysts compared to traditional catalysts?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The synthesis of peptidomimetics aims to mimic or modify natural peptides for therapeutic purposes.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are peptidomimetics? 
+2. How do they differ from natural peptides? 
+3. Why are they being synthesized and modified? 
+4. What are their potential therapeutic applications? 
+5. Who is involved in the research and development of peptidomimetics?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Electroorganic synthesis involves the use of electrochemical techniques for the synthesis of organic compounds.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is Electroorganic Synthesis?
+2. How does Electrochemical Techniques work in Organic Compounds?
+3. What are the benefits of using Electrochemical Techniques in Organic Compound Synthesis?
+4. Can you give an example of how Electroorganic Synthesis has been used in real-world applications?
+5. Are there any limitations or challenges associated with Electroorganic Synthesis?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The study of perovskites is advancing solar cell technology due to their efficiency and ease of fabrication.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are perovskites?
+2. How do they improve solar cell technology?
+3. Why are they efficient?
+4. How are they fabricated?
+5. What are some current applications of perovskite-based solar cells?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Metal-organic frameworks (MOFs) are porous materials with potential applications in gas storage, separation, and catalysis.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are Metal-Organic Frameworks?
+2. How do they work?
+3. What are their potential applications?
+4. Can you give an example of how they can be used?
+5. Are there any limitations or challenges associated with using MOFs?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is physics?
+2. How does physics relate to everyday life?
+3. What are some basic concepts and principles in physics?
+4. Can you give an example of how physics can be applied to solve real-world problems?
+5. Are there any famous physicists I should know about?
+
+
