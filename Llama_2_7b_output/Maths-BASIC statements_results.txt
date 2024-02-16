@@ -1,0 +1,844 @@
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "5 + 3 x 2 = 11", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are the top 5 questions that might come to mind when encountering the statement "5 + 3 x 2 = 11" for the first time:
+
+1. What does "x" mean?
+2. How do I solve for the value of "3"?
+3. Why does 5 + 3 equal 8?
+4. What is the purpose of the equation?
+5. How can I use this equation to solve problems?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "1/2 + 1/3 = 5/6", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "1/2 + 1/3 = 5/6" for the first time:
+
+1. What does the fraction mean? (i.e., what is the context in which the fractions are being used?)
+2. How do I add these fractions? (i.e., what operation should I perform to combine them?)
+3. Why is the result 5/6? (i.e., what reasoning or mathematical principles led to this conclusion?)
+4. Is this true for all values of the
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "a^2 + b^2 = c^2", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "a^2 + b^2 = c^2" for the first time:
+
+1. What does "a," "b," and "c" represent?
+2. Why do these numbers have squared symbols next to them?
+3. Is there a pattern or rule behind why these numbers are being squared?
+4. How does this equation relate to other mathematical concepts I already know?
+5. Can I use this equation to solve any problems or answer any questions in math or science?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "12 inches = 1 foot", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "12 inches = 1 foot" for the first time:
+
+• What is an inch?
+• How do I convert inches to feet?
+• Why is this conversion important?
+• How does this relate to other units of measurement?
+• Can I use this conversion in real-life situations?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "x + 7 = 10", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "x + 7 = 10" for the first time:
+
+1. What does "x" represent?
+2. What is the value of "7"?
+3. How do I solve for "x"?
+4. Is there any information missing from the statement?
+5. Can I use this equation to solve for other values of "x"?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The angles of a triangle add up to 180°", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The angles of a triangle add up to 180°" for the first time:
+
+1. What does it mean for the angles of a triangle to "add up"? How do I measure the angles of a triangle?
+2. Why is it important that the angles of a triangle add up to 180°? Is there a reason why this is true?
+3. Are there any special properties of triangles that make this statement true? Can I use this information to solve problems involving triangles?
+4
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "If a = b and b = c, then a = c (Transitive property)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the transitive property for the first time:
+
+1. What does it mean for a = b and b = c to be true?
+2. How can we use the transitive property to solve problems or prove statements?
+3. Can you give me an example of how the transitive property works in real life?
+4. Is the transitive property only true for equality statements, or can it be applied to other types of relationships as well?
+5. How do I make sure I understand the transitive property correctly, so I can
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The area of a rectangle is length × width", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up in my mind when I encounter the statement "The area of a rectangle is length × width" for the first time:
+
+1. What is the definition of a rectangle?
+2. How do I calculate the area of a rectangle?
+3. Is the area of a rectangle always the same as the length × width? Why or why not?
+4. Can I use this formula to find the area of different shapes, like triangles or circles?
+5. How does the concept of area relate to real-life situations, such as measuring the size of
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "2^3 = 8", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "2^3 = 8" for the first time:
+
+1. What does "2^3" mean?
+2. Why is 2^3 equal to 8?
+3. How do I calculate 2^3?
+4. Is there a pattern to the equality of 2^n and n?
+5. What is the significance of this equation in physics or other fields?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The circumference of a circle is 2πr", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The circumference of a circle is 2πr" for the first time:
+
+1. What does "circumference" mean?
+2. What is "r"?
+3. Why is the circumference of a circle equal to 2 times pi times the radius?
+4. How do I calculate the circumference of a circle if I know its radius?
+5. What is the significance of the constant pi (π) and why is it important in mathematics?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "An even number can be divided by 2 without leaving a remainder", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "An even number can be divided by 2 without leaving a remainder" for the first time:
+
+1. What does it mean for a number to be even?
+2. How do I know if a number is even or not?
+3. Why can't an odd number be divided by 2 without leaving a remainder?
+4. Can I use this statement to simplify other mathematical operations involving even numbers and division?
+5. Are there any examples or counterexamples that could help me better understand this concept?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The median of a set of numbers is the middle value when they are ordered from least to greatest", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up in my mind as a beginner when encountering the statement "The median of a set of numbers is the middle value when they are ordered from least to greatest":
+
+1. What does it mean for a set of numbers to be "ordered from least to greatest"?
+2. How do I determine the middle value of a set of numbers?
+3. Why is the median important or useful in any context?
+4. Can the median be different from the average of a set of numbers? If so, how?
+5. Are there any real-world examples or
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The sum of the probabilities of all possible outcomes in an experiment is 1", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The sum of the probabilities of all possible outcomes in an experiment is 1" for the first time:
+
+1. What does it mean for the probabilities of all possible outcomes to add up to 1?
+2. Why is this statement important or significant in physics?
+3. How do we determine the probability of each outcome in an experiment?
+4. Can we use this statement to predict the outcome of an experiment?
+5. Are there any examples or case studies where this statement has been applied or tested
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A square's perimeter is four times the length of one side", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A square's perimeter is four times the length of one side" for the first time:
+
+1. What is a square?
+2. How do I measure the length of a side?
+3. What is perimeter?
+4. Why is the perimeter of a square four times the length of one side?
+5. Can I use this statement to solve any problems or make predictions about other shapes?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Multiplying a number by its reciprocal equals 1", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Multiplying a number by its reciprocal equals 1" for the first time:
+
+1. What is a reciprocal?
+2. How do I find the reciprocal of a number?
+3. Why does multiplying a number by its reciprocal equal 1?
+4. Is there a real-world application or example where this statement comes into play?
+5. How does this statement relate to other mathematical concepts or operations?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Angles around a point add up to 360°.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Angles around a point add up to 360°" for the first time:
+
+1. What does it mean for angles to "add up"? How do they do that?
+2. What is a "point"? Is it a specific location in space?
+3. Why is 360° important? Is it a special number or something?
+4. How does this statement relate to other mathematical concepts I've learned, like geometry and trigonometry?
+5. Can I use this statement to
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The volume of a cube is given by side³.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The volume of a cube is given by side³" for the first time:
+
+1. What does it mean for a shape to be a cube?
+2. How do I define the length of a side?
+3. Why does the volume depend on the length of the sides?
+4. Is this statement true for all cubes, or just some special kind of cubes?
+5. How can I use this statement to calculate the volume of different shapes that are similar to a cube?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A percentage represents a fraction of 100.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A percentage represents a fraction of 100" for the first time:
+
+1. What does it mean for something to be a fraction of 100?
+2. How do I calculate percentages?
+3. Are there any rules or patterns for how percentages work?
+4. Why is understanding percentages important?
+5. Can I use percentages to solve real-world problems?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "To find the average of a set of numbers, sum the numbers and divide by the count.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are the top 5 questions that might come to mind when encountering the statement "To find the average of a set of numbers, sum the numbers and divide by the count" for the first time:
+
+1. What does it mean to "sum" a set of numbers?
+2. How do I determine the "count" of a set of numbers?
+3. Why is dividing the sum by the count called "finding the average"?
+4. Is there a way to find the average of a set of numbers without actually adding them all up?
+5. Are there any examples
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The number of diagonals in a polygon can be found using the formula n(n-3)/2, where n is the number of sides.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement for the first time:
+
+1. What is a polygon?
+2. How do I determine the number of sides of a polygon?
+3. Why does the formula work? (What is the reasoning behind it?)
+4. Can I use this formula for any type of polygon?
+5. How can I apply this formula in real-world situations?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A polygon with all sides and angles equal is called a regular polygon.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A polygon with all sides and angles equal is called a regular polygon" for the first time:
+
+1. What does it mean for a polygon to have all sides and angles equal? Is it just a matter of measuring the sides and angles, or is there something more to it?
+2. How do I know if a polygon is regular or not? Are there any specific characteristics or features that I can look for?
+3. Why is it important to distinguish between regular and irregular polygons? Are there any real-world
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The concept of borrowing in subtraction explains how to subtract one number from another when the top number is smaller than the bottom number in a given place value.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up for someone encountering the statement "The concept of borrowing in subtraction explains how to subtract one number from another when the top number is smaller than the bottom number in a given place value" for the first time:
+
+1. What does it mean by "place value"?
+2. How does the concept of borrowing help us subtract numbers? Can you give an example?
+3. Why do we need to "borrow" in subtraction when the top number is smaller than the bottom number?
+4. How does this concept relate to real-
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Doubling the dimensions of a cube quadruples its surface area but increases its volume by eight times.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement for the first time:
+
+1. What does it mean for a cube to "double" in size? How do I visualize that?
+2. How can doubling the dimensions of a cube result in a fourfold increase in surface area? Is there a mathematical formula or pattern behind this relationship?
+3. Why does doubling the dimensions of a cube lead to an eightfold increase in volume? Is there a logical explanation for this relationship between surface area and volume?
+4. How does this statement relate to other geometric shapes?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The greatest common divisor (GCD) of two numbers is the largest number that divides both of them without leaving a remainder.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The greatest common divisor (GCD) of two numbers is the largest number that divides both of them without leaving a remainder" for the first time:
+
+1. What is the difference between the GCD and the least common multiple (LCM)?
+2. How do I find the GCD of two numbers?
+3. Is the GCD always unique for two given numbers?
+4. Can the GCD of two numbers be negative?
+5. How does the GCD relate to other mathematical concepts, such as
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "An acute angle is an angle smaller than 90°.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "An acute angle is an angle smaller than 90°" for the first time:
+
+1. What is the difference between an acute angle and a right angle?
+2. How do I know if an angle is acute or not?
+3. Are there any real-world examples of acute angles?
+4. Is an acute angle the same thing as a obtuse angle?
+5. Can I use acute angles in my everyday life?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A reflex angle is greater than 180° but less than 360°.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A reflex angle is greater than 180° but less than 360°" for the first time:
+
+• What does it mean for an angle to be "greater than 180°"?
+• How can an angle be less than 360° if 360° is a full circle?
+• Why is this statement important or relevant in physics?
+• How do I calculate the reflex angle of a given angle?
+• Can this concept be applied to other areas
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The decimal system is based on powers of 10.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The decimal system is based on powers of 10" for the first time:
+
+1. What do you mean by "powers of 10"?
+2. How does the decimal system work?
+3. Why is the decimal system based on powers of 10 instead of something else?
+4. Are there any other number systems that are based on powers of 10?
+5. How does the decimal system compare to other number systems, like binary or hexadecimal?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Multiples of 9 add up to 9 when their digits are summed.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Multiples of 9 add up to 9 when their digits are summed" for the first time:
+
+1. What does it mean by "digits"? Are we talking about the individual numbers that make up the multiples, or something else?
+2. How do I check if a number is a multiple of 9? Is there a simple formula or method I can use?
+3. Why does this statement hold true? Is there some deeper mathematical principle at play here?
+4. Can I apply this statement to
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The concept of rounding numbers to the nearest ten, hundred, etc., simplifies calculations and estimations.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The concept of rounding numbers to the nearest ten, hundred, etc., simplifies calculations and estimations" for the first time:
+
+1. What does it mean to "round" a number?
+2. Why is rounding numbers simpler than keeping track of exact values?
+3. How does rounding numbers affect the accuracy of calculations and estimates?
+4. Are there any rules or guidelines for rounding numbers?
+5. Can I use rounding to simplify other types of calculations, like fractions or dec
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The difference between the circumference and diameter of any circle is known as π (Pi).", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The difference between the circumference and diameter of any circle is known as π (Pi)":
+
+1. What is π?
+2. Why is it called Pi?
+3. How do I calculate π?
+4. Is π a constant value?
+5. What is the significance of π in mathematics and science?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A hexagon has six sides and six angles.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A hexagon has six sides and six angles" for the first time:
+
+1. What does it mean for a shape to have "sides"? How do I visualize this?
+2. Why does the statement say "six angles"? How many angles can a shape have?
+3. How do the sides and angles of a hexagon relate to each other? Are they connected in some way?
+4. Is a hexagon a common shape? Have I seen it before? Where?
+5. How does the number
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Associative Property states that (a + b) + c = a + (b + c) for addition.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up in my mind when I encounter the Associative Property of Addition for the first time:
+
+1. What does it mean for something to be associative? Is it a property of addition specifically, or could it apply to other mathematical operations?
+2. Why is this property called the Associative Property? How did scientists and mathematicians come up with this name?
+3. Can I use the Associative Property to simplify complex addition problems? If so, how?
+4. Are there any real-world examples where the Associative Property comes into play? How
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Subtracting a negative number is the same as adding its positive counterpart.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Subtracting a negative number is the same as adding its positive counterpart" for the first time:
+
+1. What does it mean for a number to have a "positive counterpart"?
+2. How do I find the opposite of a negative number?
+3. Why is subtracting a negative number the same as adding its positive counterpart?
+4. Are there any other rules or patterns like this in mathematics?
+5. How does this statement relate to real-world situations where I might use subtraction
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Distributive Property combines addition and multiplication, stating a(b + c) = ab + ac.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up in my mind when I encounter the statement "The Distributive Property combines addition and multiplication, stating a(b + c) = ab + ac" for the first time:
+
+1. What does it mean to combine addition and multiplication? How is this different from simply adding or multiplying numbers?
+2. Why do we use the symbol "a" to represent a number? Is there a specific reason why this particular symbol was chosen?
+3. Can you give me an example of how this property can be used in real life or in other mathematical concepts?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The concept of place value indicates the value of a digit based on its position within a number.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the concept of place value for the first time:
+
+1. What does it mean for a digit to have a certain "position" within a number?
+2. How do the positions of digits affect the value of a number?
+3. Why is it important to understand place value when working with numbers?
+4. Can you give examples of how place value works in real-world situations?
+5. How can I use place value to solve problems and answer questions involving numbers?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Identifying prime numbers is fundamental to number theory.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Identifying prime numbers is fundamental to number theory" for the first time:
+
+1. What is a prime number?
+2. Why is identifying prime numbers important in number theory?
+3. How do I identify prime numbers?
+4. Can you give me some examples of prime numbers?
+5. How does identifying prime numbers relate to other areas of mathematics, such as cryptography or algebra?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A composite number can be factored into smaller integers, excluding 1 and the number itself.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A composite number can be factored into smaller integers, excluding 1 and the number itself" for the first time:
+
+1. What does it mean for a number to be "composite"?
+2. How do you factor a number?
+3. Why can't you factor a number into smaller integers including 1?
+4. Are there any examples of composite numbers that I can try to factor on my own?
+5. How does this concept relate to other mathematical concepts, such as prime numbers or fractions
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The concept of symmetry in shapes includes reflectional and rotational symmetry.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The concept of symmetry in shapes includes reflectional and rotational symmetry" for the first time:
+
+1. What does it mean for a shape to be symmetrical?
+2. How do I recognize reflectional symmetry in a shape?
+3. Can you give examples of shapes with rotationally symmetric patterns?
+4. How does rotational symmetry differ from reflectional symmetry?
+5. Why is symmetry important in understanding shapes and their properties?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The least common multiple (LCM) of two numbers is the smallest number that is a multiple of both.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up in my mind when I encounter the statement "The least common multiple (LCM) of two numbers is the smallest number that is a multiple of both" for the first time:
+
+1. What does it mean for a number to be a multiple of another number?
+2. How do I find the least common multiple of two numbers?
+3. Why is the least common multiple important?
+4. Are there any real-world applications of finding the least common multiple?
+5. How does the concept of least common multiples relate to other mathematical concepts, such
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Converting between fractions, decimals, and percentages is a fundamental skill in mathematics.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Converting between fractions, decimals, and percentages is a fundamental skill in mathematics" for the first time:
+
+1. What is the difference between a fraction, a decimal, and a percentage?
+2. How do I convert a fraction to a decimal?
+3. How do I convert a decimal to a percentage?
+4. Why is converting between these different forms of numbers important in mathematics?
+5. Are there any real-world applications or examples where I would need to use these conversion skills?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A rectangle's area is calculated by multiplying its length by its width.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up for someone encountering the statement "A rectangle's area is calculated by multiplying its length by its width" for the first time:
+
+1. What is a rectangle?
+2. How do I measure the length and width of a rectangle?
+3. Why does the area of a rectangle depend on its length and width?
+4. Can you give me an example of a real-life situation where knowing the area of a rectangle would be helpful?
+5. How do I calculate the area of a rectangle if I know its length and width?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Knowing the days of the week involves modular arithmetic.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Knowing the days of the week involves modular arithmetic" for the first time:
+
+1. What is modular arithmetic?
+2. Why do we need to use modular arithmetic to know the days of the week?
+3. How does modular arithmetic differ from regular arithmetic?
+4. Can you give an example of how modular arithmetic is used to determine the days of the week?
+5. Is there a way to learn more about modular arithmetic and its applications beyond just knowing the days of the week?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A factor of a number divides that number without leaving a remainder.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A factor of a number divides that number without leaving a remainder" for the first time:
+
+1. What does it mean for a number to divide another number without leaving a remainder?
+2. How do I find the factors of a number?
+3. Why is it important to know how to find factors of numbers?
+4. Are there any real-world applications or examples where understanding factors and division comes into play?
+5. How can I use this concept to solve problems or answer questions in other areas of study or
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The angles in a quadrilateral add up to 360 degrees.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The angles in a quadrilateral add up to 360 degrees" for the first time:
+
+1. What is a quadrilateral?
+2. How do I know if a shape has 360 degrees angles?
+3. Why is it important to know this rule?
+4. Are there any real-world applications of this rule?
+5. How can I use this rule to solve problems in other areas of math and science?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The concept of 'more than' or 'less than' introduces inequalities.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The concept of'more than' or 'less than' introduces inequalities" for the first time:
+
+1. What do you mean by "introduces"? How does this concept relate to other mathematical concepts I already know?
+2. Can you give me an example of how inequalities are used in real-life situations? How do they help us solve problems?
+3. How do inequalities compare to equalities? Are they the same thing, or are there any key differences?
+4. What
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The rule of divisibility by 3 states that a number is divisible by 3 if the sum of its digits is divisible by 3.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up for someone encountering the statement "The rule of divisibility by 3" for the first time:
+
+1. What does it mean for a number to be "divisible by 3"?
+2. How do I determine if a number is divisible by 3 using this rule?
+3. Are there any exceptions to this rule? If so, what are they?
+4. Why is this rule true? Can you explain the reasoning behind it?
+5. How can I use this rule to solve problems involving division? Can you give me an
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Understanding fractions involves recognizing a part of a whole.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Understanding fractions involves recognizing a part of a whole" for the first time:
+
+1. What does it mean to recognize a part of a whole?
+2. How do I determine what the part is in relation to the whole?
+3. Can you give me an example of something that can be divided into parts?
+4. How do fractions help us understand and describe quantities?
+5. Why is understanding fractions important in physics and other fields?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A regular hexagon can be divided into six equilateral triangles.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A regular hexagon can be divided into six equilateral triangles" for the first time:
+
+1. What does it mean for a shape to be "regular"?
+2. How do you divide a hexagon into smaller shapes?
+3. Are these equilateral triangles the same size?
+4. Why are there six equilateral triangles in total?
+5. How do I visualize this division of a hexagon into smaller shapes?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The area of a parallelogram is calculated as base times height.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up in my mind when I encounter the statement "The area of a parallelogram is calculated as base times height" for the first time:
+
+1. What is a parallelogram?
+2. How do I measure the base and height of a parallelogram?
+3. Is there a formula or equation for calculating the area of a parallelogram?
+4. Why is the area of a parallelogram important or useful in real-life situations?
+5. How does the concept of area relate to other mathematical concepts, such
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Estimation techniques, such as rounding, are crucial for making quick guesses.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Estimation techniques, such as rounding, are crucial for making quick guesses" for the first time:
+
+1. What are some common estimation techniques used in everyday life?
+2. How does rounding help with quick guesses?
+3. Are there any real-world examples where accurate estimates were made using these techniques?
+4. Can these techniques be applied to complex problems or only simple ones?
+5. How do these techniques compare to other methods of making quick estimates, such as intuition or statistical analysis
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The sum of any two odd numbers is even.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The sum of any two odd numbers is even" for the first time:
+
+1. What does it mean for two numbers to be odd?
+2. How can I prove that the statement is true?
+3. Can you give me an example of two odd numbers whose sum is even?
+4. Is there a way to generalize this statement to more than two numbers?
+5. Why is this statement important or relevant in physics or other fields?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A triangle with two equal sides is called an isosceles triangle.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A triangle with two equal sides is called an isosceles triangle" for the first time:
+
+1. What does it mean for two sides of a triangle to be equal? How can I tell if a triangle has equal sides?
+2. Why is it important to know whether a triangle is isosceles or not? Are there any real-world applications or examples where this information would be useful?
+3. How do I measure the equality of sides in a triangle? Are there any specific tools or techniques I can use
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The product of any number and zero is zero.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The product of any number and zero is zero" for the first time:
+
+1. What does it mean for a number to "multiply" with zero?
+2. Why is the product of any number and zero equal to zero? Is there a logical reason behind this rule?
+3. How does this statement relate to other mathematical concepts I already know, like addition and subtraction?
+4. Can I use this statement to simplify complex calculations or solve problems more easily?
+5. Are there any real-world applications
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A whole number divided by itself equals one.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A whole number divided by itself equals one" for the first time:
+
+1. What does it mean for a number to be "divided by itself"?
+2. Why does dividing a whole number by itself equal 1? Is there a logical reason behind this?
+3. How does this statement relate to other mathematical concepts I already know? (e.g. fractions, decimals, etc.)
+4. Can I use this statement to solve any problems or prove any other mathematical statements?
+5. How
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The exterior angles of a polygon sum up to 360°.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The exterior angles of a polygon sum up to 360°" for the first time:
+
+1. What is an exterior angle?
+2. Why do the exterior angles of a polygon add up to 360°?
+3. How can I use this statement to solve problems involving polygons?
+4. Is there a special name for the sum of exterior angles of a polygon?
+5. Can I apply this statement to other shapes besides polygons?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The volume of a rectangular prism is length × width × height.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The volume of a rectangular prism is length × width × height" for the first time:
+
+1. What is a rectangular prism?
+2. How do I calculate the length, width, and height of a rectangular prism?
+3. Why does the volume of a rectangular prism depend on its length, width, and height?
+4. Can I use this formula to find the volume of other shapes, like triangles or circles?
+5. How can I apply this concept to real-
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Adding zero to any number does not change the number.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Adding zero to any number does not change the number" for the first time:
+
+1. Why is that? What's the reasoning behind it?
+2. How do I prove it? Can I show examples or use mathematical formulas to support the statement?
+3. Is this true for all numbers, including negative numbers?
+4. What about fractions or decimals? Do they follow the same rule?
+5. How does this statement relate to other concepts in mathematics, such as place value or the concept of
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The opposite angles of a parallelogram are equal.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The opposite angles of a parallelogram are equal" for the first time:
+
+1. What is a parallelogram?
+2. How do I know if two angles are opposite each other?
+3. Why does it matter that the opposite angles are equal?
+4. Are there any real-world examples of parallelograms where this statement applies?
+5. How can I use this statement to solve problems involving angles and shapes?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A number multiplied by its inverse equals one.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A number multiplied by its inverse equals one" for the first time:
+
+1. What is an "inverse"? How do I find it?
+2. Why does multiplying a number by its inverse equal 1? Is there a pattern here?
+3. Can I use this statement to solve any problem? Are there any examples or applications?
+4. How does this relate to other mathematical concepts I already know? (e.g. fractions, decimals, algebra)
+5. Can I prove this
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The sum of the angles around a point is 360°.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The sum of the angles around a point is 360°" for the first time:
+
+1. What does it mean for the angles to "arrive around a point"?
+2. How do I know if two angles add up to 360°?
+3. Is there a way to measure or calculate the angle sum?
+4. Why is it important to know that the angle sum is 360°?
+5. Can this concept be applied to other areas of study or real-life
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Area of a circle = πr².  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Area of a circle = πr²" for the first time:
+
+1. What does "π" mean?
+2. What is a circle?
+3. How do I find the radius of a circle?
+4. Why is the area of a circle equal to πr²?
+5. How can I use this formula to solve problems involving circles?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A number's multiples are obtained by multiplying the number by whole numbers.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A number's multiples are obtained by multiplying the number by whole numbers" for the first time:
+
+1. What does it mean for a number to be a multiple of another number?
+2. How do I find a number's multiples using multiplication?
+3. Are there any rules or patterns for finding multiples of different numbers?
+4. Can I use this concept to solve problems or find specific numbers?
+5. How does this concept relate to other mathematical concepts, such as division or fractions?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Subtracting a number from itself yields zero.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Subtracting a number from itself yields zero" for the first time:
+
+1. What does it mean for a number to "yield" something?
+2. How can a number be subtracted from itself? Is this a mathematical rule I haven't learned yet?
+3. Why does subtracting a number from itself always result in zero? Is there a logical reason behind this?
+4. Can I use this statement to solve any problems or prove any other mathematical statements?
+5. How does this statement relate
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A line segment's midpoint divides it into two equal parts.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A line segment's midpoint divides it into two equal parts" for the first time:
+
+1. What does it mean for a line segment to be divided into two equal parts?
+2. How can I find the midpoint of a line segment?
+3. Why is the midpoint of a line segment important?
+4. Can this statement be applied to other shapes besides line segments?
+5. How does this statement relate to other concepts in physics, such as balance and symmetry?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Opposite sides of a rectangle are equal in length.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Opposite sides of a rectangle are equal in length" for the first time:
+
+1. What is a rectangle?
+2. How do I know if two sides of a shape are equal in length?
+3. Why does this matter? What are some real-world applications of this concept?
+4. How does this relate to other geometric shapes? (e.g. triangles, squares)
+5. Can I test this statement with different shapes and sizes?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The product of two negative numbers is positive.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The product of two negative numbers is positive" for the first time:
+
+1. What does it mean for two numbers to be negative?
+2. How can the product of two negative numbers be positive?
+3. Can I use any real-world examples to help me understand this concept better?
+4. Is there a way to prove mathematically that the product of two negative numbers is positive?
+5. How does this statement relate to other mathematical concepts I already know?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Two lines perpendicular to the same line are parallel to each other.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Two lines perpendicular to the same line are parallel to each other" for the first time:
+
+1. What does it mean for two lines to be perpendicular?
+2. How can I visualize or draw two lines that are perpendicular to the same line?
+3. Why do you think this statement is true? Can you prove it?
+4. How does this statement relate to other concepts in physics, such as angles or geometry?
+5. Can you think of any real-world examples where this
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The length of a circle's diameter is twice its radius.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The length of a circle's diameter is twice its radius" for the first time:
+
+1. What is a circle?
+2. What is a diameter?
+3. How do I measure the length of a circle?
+4. Why is the length of the diameter twice the radius?
+5. How does this statement relate to other concepts in mathematics?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Any number raised to the power of one is itself.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Any number raised to the power of one is itself" for the first time:
+
+1. What does it mean for a number to be raised to the power of one?
+2. How can I prove this statement using mathematical examples and reasoning?
+3. Why is this statement true, and how does it relate to other mathematical concepts?
+4. Can I apply this statement to real-world situations or problems?
+5. How does this statement connect to other areas of mathematics, such as algebra or calculus?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A triangle with all sides of different lengths is called a scalene triangle.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A triangle with all sides of different lengths is called a scalene triangle" for the first time:
+
+1. What makes a triangle a scalene triangle? (What are the defining characteristics of a scalene triangle?)
+2. How do I know if a triangle is a scalene triangle? (Are there any specific clues or signs that can help identify a scalene triangle?)
+3. Are there any other types of triangles besides scalene triangles? (What are some common types of triangles and how are they defined
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The area of a square is side².  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The area of a square is side²" for the first time:
+
+1. What is a square?
+2. What is an area?
+3. Why does the area of a square depend on its side length?
+4. How do I calculate the area of a square?
+5. Is there a real-world application or example where this concept is used?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "In a right-angled triangle, the side opposite the right angle is called the hypotenuse.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "In a right-angled triangle, the side opposite the right angle is called the hypotenuse" for the first time:
+
+1. What is a right angle?
+2. How do I find the length of the hypotenuse in a right-angled triangle?
+3. Why is the hypotenuse important in geometry?
+4. Can you give me an example of a real-world situation where I would use this concept?
+5. How does the concept of the hypotenuse relate to other geometric concepts
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A circle's diameter passes through its center.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A circle's diameter passes through its center" for the first time:
+
+1. What does it mean for a circle to have a diameter that passes through its center?
+2. How do I visualize this statement? Can I draw a diagram to help me understand it better?
+3. Why is this statement important in physics? Are there any real-world applications or examples where this concept comes into play?
+4. How does this statement relate to other concepts in physics, such as radius and circumference?
+5.
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Any number raised to the power of zero is one.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Any number raised to the power of zero is one" for the first time:
+
+1. What does it mean for a number to be raised to the power of zero?
+2. How can a number be equal to one if it has been raised to the power of zero?
+3. Is there a specific context or situation where this statement is true?
+4. Can I use this statement to solve any mathematical problems or prove any other statements?
+5. How does this statement relate to other concepts in mathematics, such as ex
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The larger of two fractions with the same denominator is the one with the larger numerator.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The larger of two fractions with the same denominator is the one with the larger numerator" for the first time:
+
+1. Why does the larger fraction have a larger numerator?
+2. How do I compare fractions with the same denominator?
+3. What happens if I have two fractions with different denominators?
+4. Can I use this rule to add or subtract fractions?
+5. How does this rule relate to other mathematical concepts, like decimals or percentages?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Dividing a number by one yields the number itself.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Dividing a number by one yields the number itself" for the first time:
+
+1. What does it mean to divide a number by one? Is it like multiplying by a fraction?
+2. Why does dividing a number by one result in the same number? Is there a logical reason behind it?
+3. How does this statement relate to other mathematical operations, like addition and subtraction?
+4. Can I use this statement to simplify complex calculations or solve problems more easily?
+5. Are there any
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Two angles that add up to 90° are called complementary angles.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Two angles that add up to 90° are called complementary angles" for the first time:
+
+1. What does it mean for two angles to "add up to 90°"? How do I calculate this?
+2. Why is it important to call these angles "complementary"? Is there a specific reason why this term was chosen?
+3. Can you give me an example of two angles that are complementary? How can I visualize this concept?
+4. Are there any real-world applications
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The smallest two-digit number is 10.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The smallest two-digit number is 10" for the first time:
+
+• What does "two-digit" mean?
+• Why is 10 the smallest two-digit number?
+• How do I know this is true?
+• Can I use this information in other contexts?
+• Is there a way to prove or disprove this statement?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The largest single-digit number is 9.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The largest single-digit number is 9" for the first time:
+
+1. What does it mean for a number to be a single digit?
+2. Why is 9 considered the largest single-digit number?
+3. How do I know if a number is a single digit or not?
+4. Are there any other numbers that are considered single digits?
+5. Can I use this information to solve any problems or applications?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Two angles that add up to 180° are called supplementary angles.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Two angles that add up to 180° are called supplementary angles" for the first time:
+
+• What does it mean for two angles to "add up to 180°"? How do they relate?
+• Why is it important to classify angles as supplementary? What are some real-world applications or examples where this classification matters?
+• Can you give me an example or two of two angles that are supplementary? How can I visualize or illustrate this concept?
+• How
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The reflection of a number about zero on the number line is its negative.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The reflection of a number about zero on the number line is its negative" for the first time:
+
+1. What does it mean for a number to be reflected about zero?
+2. How do I visualize this reflection on a number line?
+3. Why is the reflection of a number its negative?
+4. Can I use this concept to solve problems involving reflections in different contexts?
+5. How does this concept relate to other mathematical concepts I already know, such as addition and subtraction?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A polygon with five sides is called a pentagon.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are the top 5 questions that might come to mind when encountering the statement "A polygon with five sides is called a pentagon" for the first time:
+
+1. What is a polygon?
+2. How many sides does a pentagon have?
+3. Is a pentagon a type of triangle?
+4. Can you give me an example of something that is a pentagon?
+5. How do I measure the length of the sides of a pentagon?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Zero divided by any non-zero number is zero.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Zero divided by any non-zero number is zero" for the first time:
+
+1. What does it mean for a number to be non-zero?
+2. Why is it important that zero divided by any non-zero number is zero?
+3. Can I use this statement to simplify other mathematical equations?
+4. How does this statement relate to other fundamental concepts in mathematics, such as addition and subtraction?
+5. Are there any real-world applications or examples where this statement comes into play?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The successor of a number is one more than the number.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The successor of a number is one more than the number" for the first time:
+
+1. What does it mean for a number to be the successor of another number?
+2. How can I use this statement to find the next number in a sequence?
+3. Is there a way to determine if two numbers are consecutive without using this statement?
+4. Can I use this statement to solve other types of mathematical problems, like addition or subtraction?
+5. How does this statement relate to other mathematical concepts, such
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A number less its negative equals twice the number.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A number less its negative equals twice the number" for the first time:
+
+1. What does it mean for a number to be "less" its negative?
+2. How can a number be equal to itself?
+3. Why does subtracting a number from its negative result in twice the original number?
+4. Is there a real-world scenario where this statement applies?
+5. How can I use this statement to solve problems or make predictions in different situations?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The sum of a number and its negative is zero.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The sum of a number and its negative is zero" for the first time:
+
+1. What does it mean for a number to have a negative? How can a number be negative?
+2. Why is the sum of a number and its negative equal to zero? Is there a logical reason behind this?
+3. Can I use this statement to solve any problems or prove any other mathematical statements?
+4. How does this statement relate to other mathematical concepts I already know, such as addition and subtraction?
+5.
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Three points lie on a straight line if they are collinear.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Three points lie on a straight line if they are collinear" for the first time:
+
+1. What does it mean for points to be "collinear"?
+2. How can I tell if three points are collinear?
+3. Why is it important to know whether three points are collinear?
+4. Are there any real-world examples where this concept comes into play?
+5. How do I prove that three points are collinear using mathematical proof?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A polygon with four sides is called a quadrilateral.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A polygon with four sides is called a quadrilateral" for the first time:
+
+1. What is the difference between a quadrilateral and other types of polygons? (e.g., triangles, pentagons)
+2. How many sides does a quadrilateral typically have? Is it always four?
+3. Are there any examples of quadrilaterals in real life? (e.g., buildings, roads, shapes found in nature)
+4. Can a quadrilater
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The reciprocal of a fraction is obtained by swapping its numerator and denominator.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The reciprocal of a fraction is obtained by swapping its numerator and denominator" for the first time:
+
+1. What does it mean to "swap" the numerator and denominator?
+2. How do I find the reciprocal of a fraction? Can I use any formula or method?
+3. Why is swapping the numerator and denominator important? Is there a specific reason why this works?
+4. Are there any examples or illustrations that can help me understand this concept better?
+
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Any non-zero number raised to the power of two is positive.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Any non-zero number raised to the power of two is positive" for the first time:
+
+1. What does it mean for a number to be "raised to the power of two"?
+2. Why is it true that any non-zero number will result in a positive value when raised to the power of two?
+3. Can I use this statement to prove or disprove other mathematical statements?
+4. How does this statement relate to other concepts in mathematics, such as exponents and roots?
+5.
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A polygon with eight sides is called an octagon.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A polygon with eight sides is called an octagon" for the first time:
+
+1. What is a polygon?
+2. How many sides does an octagon have?
+3. Is an octagon a type of triangle?
+4. Can you give me an example of something that is an octagon?
+5. How do I find out more information about octagons?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The sum of an even number and an odd number is odd.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The sum of an even number and an odd number is odd" for the first time:
+
+1. What does it mean for a number to be even or odd?
+2. How can I determine if a number is even or odd?
+3. Can you give me an example of two numbers that add up to an odd number?
+4. Why is the sum of an even and an odd number always odd?
+5. Is there a way to use this statement to solve problems or prove other mathematical statements?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A set containing no elements is called an empty set or null set.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A set containing no elements is called an empty set or null set" for the first time:
+
+1. What does it mean for a set to contain no elements? Is it like a container with nothing inside?
+2. Why do we need a special term for an empty set? Can't we just say "set" and leave it at that?
+3. How is an empty set different from a set with no elements? Are they the same thing?
+4. Can I use an empty set as a placeholder in mathematical
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Doubling a number is the same as multiplying the number by two.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Doubling a number is the same as multiplying the number by two" for the first time:
+
+1. What does it mean to double a number?
+2. How is doubling a number the same as multiplying it by two?
+3. Can you give an example of how this statement applies to real-life situations?
+4. Is there a specific context where this statement is true?
+5. How can I use this statement to solve problems in different areas of math and science?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Halving a number is the same as dividing the number by two.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Halving a number is the same as dividing the number by two" for the first time:
+
+1. What does it mean to halve a number?
+2. How is halving a number different from dividing it by two?
+3. Can you give an example of how to halve a number?
+4. Why is halving a number the same as dividing it by two?
+5. How does this statement relate to other mathematical concepts, such as fractions or decimals?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The perimeter of a circle is also known as its circumference.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The perimeter of a circle is also known as its circumference" for the first time:
+
+1. What is the difference between perimeter and circumference?
+2. Why is the circumference of a circle also called its perimeter?
+3. How do I calculate the circumference of a circle?
+4. Is there a formula or equation for calculating the circumference of a circle?
+5. How does knowing that the circumference of a circle is equal to its perimeter help me in real-life situations?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A shape with all angles equal and all sides equal is called a regular shape.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A shape with all angles equal and all sides equal is called a regular shape" for the first time:
+
+1. What types of shapes are considered regular? (e.g., squares, circles, triangles?)
+2. How do I know if a shape is regular or not? (e.g., by checking the angles and sides?)
+3. Are there any special properties or characteristics of regular shapes? (e.g., symmetry, balance?)
+4. Can regular shapes be found in nature or other real-world
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The number of vertices in a cube is eight.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The number of vertices in a cube is eight" for the first time:
+
+1. What is a vertex?
+2. How do you know there are exactly eight vertices in a cube?
+3. Why does the number of vertices matter?
+4. Can you give an example of another shape with a similar property (e.g., how many vertices does a sphere have)?
+5. How can I visualize and understand the concept of vertices in a cube?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A fraction represents a part of a whole.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A fraction represents a part of a whole" for the first time:
+
+1. What is a whole?
+2. How do fractions represent parts of a whole?
+3. Can you give me an example of something that can be represented as a fraction?
+4. How do I calculate with fractions?
+5. What are some common ways to compare fractions?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The difference between the largest and smallest values in a set is called the range.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The difference between the largest and smallest values in a set is called the range" for the first time:
+
+1. What is meant by "largest value"? How do I identify it in a set?
+2. How do I find the smallest value in a set? Is there a specific method or technique?
+3. Can the range of a set be negative? If so, how does that work?
+4. How does the range of a set relate to other mathematical concepts, such as variance or standard deviation?
+5
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "the laws of physics are universal and apply everywhere":
+
+1. What does it mean for laws to be "universal"? How do they apply everywhere?
+2. Are there any exceptions to these laws? If so, how do they arise?
+3. How can we test or verify these laws? Are there any experiments or observations that support them?
+4. How do these laws relate to other areas of science, such as chemistry or biology?
+5. Can these laws be used to make predictions or explain phenomena
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "the laws of physics are universal and apply everywhere":
+
+1. What does it mean for laws to be "universal"?
+2. How do we know these laws apply everywhere?
+3. Are there any exceptions to these laws?
+4. How can I use this information to understand the world around me?
+5. Can I test or observe these laws in different situations?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "the laws of physics are universal and apply everywhere":
+
+1. What does it mean for laws to be "universal"?
+2. How do we know these laws apply everywhere?
+3. Are there any exceptions to these laws?
+4. How can I use this information to understand the world around me?
+5. Can I test or prove these laws through experimentation or observation?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "the laws of physics are universal and apply everywhere":
+
+1. What does it mean for laws to be "universal"?
+2. How do we know these laws apply everywhere?
+3. Are there any exceptions to these laws?
+4. How can I use this information to understand the world around me?
+5. Can I test or observe these laws in different situations?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "the laws of physics are universal and apply everywhere":
+
+1. What does it mean for laws to be "universal"? How do they apply everywhere?
+2. Are there any exceptions to these laws? If so, how do they arise?
+3. How can we test or verify these laws? Are there any experiments or observations that support them?
+4. How do these laws relate to other areas of science, such as chemistry or biology?
+5. Can these laws be used to predict phenomena in different context
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "the laws of physics are universal and apply everywhere":
+
+1. What does it mean for laws to be "universal"?
+2. How do we know these laws apply everywhere?
+3. Are there any exceptions to these laws?
+4. How can I use this information to understand the world around me?
+5. Can I test or observe these laws in different situations?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "the laws of physics are universal and apply everywhere":
+
+1. What does it mean for laws to be "universal"?
+2. How do we know these laws apply everywhere?
+3. Are there any exceptions to these laws?
+4. How can I use this information to understand the world around me?
+5. Can I test or observe these laws in different situations?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "the laws of physics are universal and apply everywhere":
+
+1. What does it mean for laws to be "universal"?
+2. How do we know these laws apply everywhere?
+3. Are there any exceptions to these laws?
+4. How can I use this information to understand the world around me?
+5. Can I test or observe these laws in different situations?
+

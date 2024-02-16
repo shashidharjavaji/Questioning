@@ -1,0 +1,775 @@
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " lim(x -> 0) sin(x)/x = 1", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "lim(x -> 0) sin(x)/x = 1" for the first time:
+
+1. What does "lim" mean?
+2. What is the meaning of "sin(x)" and how do I interpret it?
+3. What is the meaning of "x"? How do I understand it in this context?
+4. Why does the ratio of sin(x) to x approach 1 as x approaches 0?
+5. How can I use this statement to solve problems or make predictions
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " e^(i*pi) + 1 = 0 (Euler's identity)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering Euler's identity for the first time:
+
+1. What does the symbol "e" represent?
+2. What is "pi"? Why is it important in mathematics?
+3. What does it mean for something to be equal to itself?
+4. How do I understand the equation "e^(i*pi) + 1 = 0"?
+5. Is there a real-world application or example where this equation comes into play?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " Integral from 0 to 1 of x^2 dx = 1/3", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Integral from 0 to 1 of x^2 dx = 1/3" for the first time:
+
+1. What is an integral?
+2. Why does the integral equal 1/3?
+3. How do I calculate integrals like this?
+4. What is the significance of this particular integral?
+5. Can I relate this integral to any real-world situations or applications?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " A . B = B . A (Commutative property of multiplication)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the commutative property of multiplication for the first time:
+
+1. What does it mean for two numbers to be "commutable"?
+2. Why do we say that A x B = B x A? Is there a specific reason or rule behind it?
+3. How does this property relate to other mathematical operations, like addition and division?
+4. Can I use the commutative property to simplify complex calculations or solve problems more easily?
+5. Are there any real-world applications or examples where the commutative property of multiplication comes into
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " Nabla . F = 0 (Divergence of a vector field)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Nabla. F = 0 (Divergence of a vector field)" for the first time:
+
+1. What does "Nabla" mean?
+2. Why is the divergence of a vector field important?
+3. How do I calculate the divergence of a vector field?
+4. What happens if the divergence of a vector field is equal to zero?
+5. Can I use this concept to solve real-world problems?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " det(A) = 0 (Determinant of matrix A)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "det(A) = 0" for the first time:
+
+1. What does the determinant of a matrix even mean?
+2. Why is it important to know whether the determinant of a matrix is zero or not?
+3. How do I calculate the determinant of a matrix?
+4. Are there any real-world applications or examples where knowing the determinant of a matrix is crucial?
+5. Can I use this concept to solve any problems or prove any theorems in physics or other fields
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " e^(λt) (Solution to the differential equation dy/dt = λy)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "e^(λt) (Solution to the differential equation dy/dt = λy)" for the first time:
+
+1. What does "e" represent?
+2. What is a differential equation and why is it important?
+3. What is λ and how do I interpret its value?
+4. How do I solve this equation? Are there any shortcuts or techniques I can use?
+5. What are some real-world applications of this equation? How might it be used in different fields?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " γ(n) = (n-1)! (Gamma function for positive integers)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "γ(n) = (n-1)! (Gamma function for positive integers)" for the first time:
+
+1. What is the Gamma function?
+2. Why is it called the Gamma function?
+3. How does it relate to the factorial function?
+4. Is there a way to calculate γ(n) for any positive integer n?
+5. What are some real-world applications of the Gamma function?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " 1/1 + 1/2 + 1/3 + ... + 1/n → ∞ (Harmonic series)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "1/1 + 1/2 + 1/3 +... + 1/n → ∞" for the first time:
+
+1. What does it mean for a sequence to converge?
+2. Why do the fractions seem to get closer and closer as I add more terms to the sequence?
+3. Is there a way to calculate the value of the infinite sum?
+4. How does this concept relate to other mathematical ideas I've learned, like calculus or algebra?
+5. Can I
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " [G, G] = G (Commutator subgroup where G is a group)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "G, G] = G (Commutator subgroup where G is a group) for the first time:
+
+1. What does it mean for two elements of a group to commute?
+2. Why is the commutator subgroup important or relevant?
+3. How do I calculate the commutator subgroup of a given group?
+4. Are there any examples of groups where the commutator subgroup is particularly interesting or significant?
+5. Can I use this concept to understand other mathematical structures or concepts?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " ∇ × F = 0 (Curl of a vector field F)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "∇ × F = 0" for the first time:
+
+1. What does it mean for a vector field to have a curl of zero?
+2. How can I visualize or represent a vector field with a curl of zero?
+3. Why is it important or significant that a vector field has a curl of zero?
+4. Can you give examples of vector fields that do and don't have a curl of zero?
+5. How does this concept relate to other mathematical concepts or real-world phenomena?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " z = re^(iθ) (Polar form of a complex number)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the polar form of a complex number for the first time:
+
+1. What does the iθ part represent?
+2. Why is this equation written in this particular form?
+3. How do I use this formula to visualize and understand complex numbers?
+4. Can I simplify or manipulate this equation in any way?
+5. How does the polar form of a complex number relate to other mathematical concepts or real-world applications?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " P(A ∩ B) = P(A)P(B) for independent events A and B", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "P(A ∩ B) = P(A)P(B) for independent events A and B" for the first time:
+
+1. What does it mean for events A and B to be independent?
+2. How do I calculate the probability of the intersection of two events?
+3. Can I use this formula to find the probability of more than two events occurring simultaneously?
+4. Is there a way to determine if two events are independent without knowing their probabilities?
+5. How does this formula relate
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " ∂²u/∂t² = c²∂²u/∂x² (One-dimensional wave equation)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the one-dimensional wave equation for the first time:
+
+1. What does the symbol "c" represent in the equation?
+2. What is the difference between the two derivatives in the equation (∂²u/∂t² and ∂²u/∂x²)?
+3. How does the wave equation relate to real-world phenomena, such as sound waves or water waves?
+4. Can I use any mathematical techniques to solve this equation, or are there specific methods that are commonly used?
+5. Are there any
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " ∑(n=1 to ∞) 1/n² = π²/6 (Basel problem solution)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Basel problem for the first time:
+
+1. What is the significance of the number π? Why is it important in mathematics and science?
+2. How do I understand the concept of a sum of infinite terms? Is it similar to adding numbers?
+3. What is the difference between a finite and an infinite series? Can I use the same methods to solve both types of series?
+4. How do I determine if a series converges or diverges? Are there any common techniques or tests I can use?
+5. What
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " Euler's Formula: e^(iθ) = cos(θ) + i*sin(θ)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering Euler's Formula for the first time:
+
+1. What does "e" represent?
+2. What is "i"?
+3. What is the relationship between "cos" and "sin"?
+4. Why do we have both real and imaginary parts in the formula?
+5. How can I use this formula to solve problems in other areas of math or science?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The Fundamental Theorem of Calculus links differentiation and integration", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up in my mind when I encounter the Fundamental Theorem of Calculus for the first time:
+
+1. What does it mean for differentiation and integration to be linked? How do they relate to each other?
+2. How can I use the Fundamental Theorem of Calculus to evaluate definite integrals more easily? Can you give me some examples?
+3. Is there a way to use the theorem to find derivatives of functions directly? If so, how?
+4. How does the Fundamental Theorem of Calculus help us solve problems involving area under curves or volumes
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " A vector space includes operations of vector addition and scalar multiplication", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up in my mind when I encounter the statement "A vector space includes operations of vector addition and scalar multiplication" for the first time:
+
+1. What does it mean for a set of objects to form a vector space?
+2. How do you add vectors? Is it like adding numbers?
+3. What is a scalar? Can I use any number?
+4. Why do we need both vector addition and scalar multiplication? Can't we just use one or the other?
+5. How do these operations work together? Can I use one operation to cancel out
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The eigenvalues of a matrix are roots of its characteristic equation", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up for someone encountering the statement "The eigenvalues of a matrix are roots of its characteristic equation" for the first time:
+
+1. What is a matrix?
+2. What is an eigenvalue?
+3. How do I find the characteristic equation of a matrix?
+4. Why are eigenvalues important?
+5. How does knowing the eigenvalues of a matrix help us understand the behavior of a system?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The probability of the union of two events A and B is P(A ∪ B) = P(A) + P(B) - P(A ∩ B)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement for the first time:
+
+1. What does it mean for events A and B to "union"?
+2. How do I calculate the probability of the union of two events?
+3. Why is the probability of the union equal to the sum of the probabilities of each event plus the difference between their probabilities?
+4. Can I use this formula to find the probability of any combination of events happening?
+5. How does this formula relate to other concepts in probability theory, such as conditional probability or independence?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " A function f(x) is continuous at x = a if lim_(x→a) f(x) = f(a)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement for the first time:
+
+1. What does it mean for a function to be "continuous" at a point?
+2. How do I determine if a function is continuous at a specific point?
+3. Why is it important to know whether a function is continuous at a point?
+4. Can a function be continuous at one point but not at another point?
+5. How does this concept relate to other mathematical concepts, such as limits and derivatives?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The Laplace transform converts a time-domain function into a frequency-domain representation", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Laplace transform for the first time:
+
+1. What is the Laplace transform and how does it work?
+2. How do I determine the inverse Laplace transform?
+3. Why is the Laplace transform useful for analyzing differential equations?
+4. Can the Laplace transform be applied to other types of functions beyond differential equations?
+5. How does the Laplace transform relate to other mathematical concepts, such as Fourier series or transfer functions?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " If a series ∑a_n converges, then lim_(n→∞) a_n = 0", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement for the first time:
+
+1. What does it mean for a series to converge?
+2. How do I know if a series is converging or diverging?
+3. Why is it important that the limit of a convergent series be 0?
+4. Can I use this statement to prove other things?
+5. How does this statement relate to other mathematical concepts, like calculus or algebra?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " In a group (G, ), for each element a in G, there exists an inverse element a^(-1) such that aa^(-1) = e", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement for the first time:
+
+1. What does it mean for an element to have an inverse?
+2. Why do we need an inverse element in a group?
+3. How can I use the inverse element to solve problems involving the original element?
+4. Is there a way to find the inverse element for a given element in a group?
+5. How does the existence of inverse elements relate to other mathematical concepts, like symmetry and transformations?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The surface area of a sphere is 4πr²", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The surface area of a sphere is 4πr²" for the first time:
+
+1. What does "surface area" even mean?
+2. Why is it equal to 4πr²?
+3. How do I calculate the surface area of a sphere?
+4. What is the significance of this formula?
+5. Can I use this formula to find the surface area of other shapes?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " Stokes' Theorem relates a surface integral over a surface S to a line integral around the boundary curve of S", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up when encountering Stokes' Theorem for the first time:
+
+1. What does it mean for a surface integral to be related to a line integral? How do these two types of integrals connect?
+2. Can you give an example of a situation where Stokes' Theorem might be useful? How could you apply it in practice?
+3. How does Stokes' Theorem differ from other ways of evaluating surface integrals, such as the surface integral formula or the divergence theorem?
+4. What are some common applications of Stokes' Theorem in physics
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " A holomorphic function is complex differentiable in a neighborhood of every point in its domain", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A holomorphic function is complex differentiable in a neighborhood of every point in its domain" for the first time:
+
+1. What does it mean for a function to be "complex differentiable"?
+2. What is a "neighborhood"? How do I determine which points are included?
+3. Why is this important? What are some real-world applications or examples where this property comes into play?
+4. How is this related to other mathematical concepts, such as continuity or smoothness?
+5. Can
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The Cantor set is an example of a fractal, known for its property of being uncountably infinite yet having zero measure", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The Cantor set is an example of a fractal, known for its property of being uncountably infinite yet having zero measure":
+
+1. What does it mean for something to be "uncountably infinite"? How is that different from just being infinite?
+2. What is a fractal, and why is it important to understand this concept?
+3. What do you mean by "having zero measure"? Is that a mathematical term, and if so, what does it refer to?
+4. How can
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " Pascal's Triangle is used to find the coefficients of the binomial expansion", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering Pascal's Triangle for the first time:
+
+1. What is Pascal's Triangle and how is it used?
+2. Why is it called Pascal's Triangle after Blaise Pascal?
+3. How does the triangle help us expand binomials?
+4. Can we use Pascal's Triangle to expand other types of expressions?
+5. How does the triangle relate to other mathematical concepts, such as combinatorics or probability theory?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The Four Color Theorem states that any map in a plane can be colored using four colors in such a way that regions sharing a common boundary do not share the same color", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Four Color Theorem for the first time:
+
+1. What does it mean for regions to "share a common boundary"? How do we define this?
+2. Why do we care about coloring maps in the first place? Is there a practical application or significance behind it?
+3. How do we ensure that regions with a shared border don't share the same color? Is there a specific algorithm or method for doing so?
+4. Are there any limitations or restrictions on the types of maps that can be colored using four colors?
+
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The Sylow theorems provide conditions under which a finite group contains subgroups of a given order", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Sylow theorems for the first time:
+
+1. What does it mean for a group to contain a subgroup of a given order?
+2. How do the Sylow theorems help us understand the structure of a group?
+3. Are there any examples of groups that violate the Sylow theorems?
+4. Can we use the Sylow theorems to determine whether a given group is finite or infinite?
+5. How do the Sylow theorems relate to other areas of mathematics, such as
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The Möbius strip is a surface with only one side and only one boundary component", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The Möbius strip is a surface with only one side and only one boundary component" for the first time:
+
+1. What does it mean for a surface to have only one side? Is it like a flat sheet of paper with only one edge?
+2. How can a surface have only one boundary component if it's a surface and not a point or a line?
+3. Why is this important? Are there any real-world applications or examples where this property comes into play?
+4. How do I
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The Riemann Hypothesis proposes that all non-trivial zeros of the analytical continuation of the Riemann zeta function have a real part of 1/2", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Riemann Hypothesis for the first time:
+
+1. What is the Riemann zeta function and why is it important?
+2. What does it mean by "analytic continuation"?
+3. Why do the zeros of the zeta function have real parts of 1/2?
+4. How does this relate to other areas of mathematics, such as number theory, complex analysis, or algebraic geometry?
+5. Are there any known methods or techniques for proving the Riemann Hypothesis, or is it still an open
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The Fibonacci sequence is defined by the recurrence relation F(n) = F(n-1) + F(n-2), with seed values F(0) = 0, F(1) = 1", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Fibonacci sequence for the first time:
+
+1. What is the purpose or significance of this sequence?
+2. How do I understand and work with the recurrence relation?
+3. Are there any real-world applications or examples of the Fibonacci sequence?
+4. How does the sequence relate to other mathematical concepts or theories?
+5. Can I use the sequence to solve any problems or challenges in mathematics or other fields?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " Erdős numbers measure the collaborative distance in authorship of mathematical papers between an author and prolific mathematician Paul Erdős", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up for someone encountering the concept of Erdős numbers for the first time:
+
+1. What is an Erdős number?
+2. Who is Paul Erdős and why is his name associated with this concept?
+3. How is an Erdős number calculated?
+4. What does the term "collaborative distance" mean in this context?
+5. Why is measuring Erdős numbers important or interesting?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The Banach-Tarski Paradox shows that a solid ball in 3-dimensional space can be split into a finite number of non-overlapping pieces, which can then be reassembled into two solid balls of the original size", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Banach-Tarski Paradox for the first time:
+
+1. How can a solid ball be split into non-overlapping pieces? Is this even possible?
+2. What does it mean for the pieces to be "non-overlapping"? Can they touch each other at all?
+3. How can these pieces be reassembled into two solid balls of the original size? Is this just a mathematical trick or is there some physical mechanism involved?
+4. What are the implications of this parado
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The Poincaré Conjecture states that every simply connected, closed 3-manifold is homeomorphic to the 3-sphere", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Poincaré Conjecture for the first time:
+
+1. What does it mean for a manifold to be "simply connected"?
+2. What is a "closed" manifold?
+3. How is the Poincaré Conjecture related to the idea of a "3-sphere"?
+4. Why is this conjecture important or significant?
+5. How do mathematicians prove or disprove such a conjecture?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " Fermat's Last Theorem states that there are no three positive integers a, b, and c that can satisfy the equation aⁿ + bⁿ = cⁿ for any integer value of n greater than 2", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering Fermat's Last Theorem for the first time:
+
+1. What does it mean for an equation to be satisfied? How do I know if a, b, and c are actually fulfilling the equation?
+2. Why is it only true for integers greater than 2? Is there a reason why this theorem doesn't apply to smaller values of n?
+3. How did Pierre de Fermat come up with this statement? Did he use any special methods or techniques to prove it?
+4. Is there a way
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The Mandelbrot set is the set of complex numbers c for which the function fₙ₊₁ = fₙ² + c does not diverge when iterated from f₀ = 0", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Mandelbrot set for the first time:
+
+1. What is the significance of the number 0? Why is it important in the definition of the Mandelbrot set?
+2. What is the relationship between the function fₙ₊₁ and the Mandelbrot set? How do they relate to each other?
+3. Can you provide examples of complex numbers that do and don't belong to the Mandelbrot set? How can you determine whether a given complex number is in or out of
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The Heisenberg Uncertainty Principle in quantum mechanics implies that it is impossible to simultaneously measure the exact position and momentum of a particle", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Heisenberg Uncertainty Principle for the first time:
+
+1. What does it mean that it's "impossible" to measure these things exactly? Is there a limit to how accurately I can measure them?
+2. Why is this principle only true for particles, and not for larger objects like balls or books?
+3. How does this principle relate to the idea of wave-particle duality? Is a particle somehow behaving like a wave, or vice versa?
+4. If I know the position
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " A torus can be described as a doughnut-shaped surface of revolution generated by revolving a circle in three-dimensional space", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up for someone encountering the concept of a torus for the first time:
+
+1. What does it mean to "revolve" a circle in three-dimensional space? How do I visualize this process?
+2. Why is a torus shaped like a doughnut? Is there a particular reason why it doesn't just look like a flat circle?
+3. How do I determine the size and shape of a torus? Are there any specific parameters I need to know?
+4. Can I find real-world examples of tori
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " Gödel's Incompleteness Theorems suggest that within any sufficiently powerful logical system, there are propositions that cannot be proved or disproved using the axioms of that system", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering Gödel's Incompleteness Theorems for the first time:
+
+1. What does it mean for a logical system to be "sufficiently powerful"?
+2. How do the Incompleteness Theorems relate to the idea of "axiomatic systems"?
+3. Can you give an example of a proposition that cannot be proved or disproved using the axioms of a particular system?
+4. How does this theorem impact our understanding of the limits of mathematical proof and reasoning?
+5. Are there
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The Schwarz lantern paradox shows that a sequence of polyhedral approximations to a smooth surface can converge to the surface in shape but diverge in surface area", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Schwarz Lantern Paradox for the first time:
+
+1. What is a polyhedral approximation?
+2. How does the sequence of approximations converge to the surface in shape?
+3. Why does the surface area diverge despite the convergence in shape?
+4. Is there a specific example or scenario where this paradox occurs?
+5. How does this paradox relate to other concepts in physics or mathematics?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The Collatz Conjecture posits that the sequence defined by n → n/2 if n is even, and n → 3n + 1 if n is odd, will eventually reach 1 for any positive integer n", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are the top 5 questions that might come to mind when encountering the Collatz Conjecture for the first time:
+
+1. What does it mean for a sequence to "eventually reach 1"? How do we know when this happens?
+2. Why does the conjecture only apply to positive integers? Can it also be applied to other types of numbers?
+3. How can we prove that the sequence reaches 1 for any positive integer n, without actually proving it?
+4. Are there any examples or counterexamples to the conjecture? If so, how can we use
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The concept of mathematical proof involves deriving a statement from axioms and previously established statements using the rules of logic", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the concept of mathematical proof for the first time:
+
+1. What are axioms?
+2. How do we use logic to derive statements?
+3. What are some common rules of logic used in mathematical proofs?
+4. How do we know that a proof is valid?
+5. Can I use this method to prove my own statements or ideas?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The dot product of two vectors is a scalar quantity that measures the cosine of the angle between them and the product of their magnitudes", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The dot product of two vectors is a scalar quantity that measures the cosine of the angle between them and the product of their magnitudes" for the first time:
+
+1. What is the dot product?
+2. Why does the dot product measure the cosine of the angle between two vectors?
+3. How do I calculate the dot product of two vectors?
+4. What is the difference between the dot product and other types of vector operations (e.g. vector addition)?
+5. How is the dot product used
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " Euler's characteristic for a convex polyhedron is given by V - E + F = 2, where V is the number of vertices, E is the number of edges, and F is the number of faces", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering Euler's characteristic for the first time:
+
+1. What does it mean for a polyhedron to be "convex"?
+2. How do I determine the number of vertices, edges, and faces of a polyhedron?
+3. Why is the formula V - E + F = 2 important or useful?
+4. How does Euler's characteristic relate to other mathematical concepts, such as geometry or topology?
+5. Can I use Euler's characteristic to solve any particular problems or applications in physics or
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The area of a sector of a circle with radius r and angle θ (in radians) is ½r²θ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up for someone encountering the statement "The area of a sector of a circle with radius r and angle θ (in radians) is ½r²θ" for the first time:
+
+1. What does it mean by "sector"? How is it different from the whole circle?
+2. Why is the formula for the area of a sector ½r²θ, and not just r²θ like the area of a circle?
+3. How do I know what the value of r and θ are in this equation?
+4. Can
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " A function f(x) is said to be invertible if there exists a function g(x) such that f(g(x)) = x for all x in the domain of g", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the concept of invertibility for the first time:
+
+1. What does it mean for a function to be invertible?
+2. How do I know if a function is invertible?
+3. Why is invertibility important in physics and other fields?
+4. How does invertibility relate to other concepts in mathematics, like linearity or continuity?
+5. Can I use invertibility to solve problems or prove theorems in physics?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The number e is the base of the natural logarithm and is approximately equal to 2.71828. It is the limit of (1 + 1/n)ⁿ as n approaches infinity", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement for the first time:
+
+• What is the natural logarithm?
+• Why is e important?
+• How do I calculate (1 + 1/n)ⁿ?
+• What does it mean for n to approach infinity?
+• Can I relate this to anything I already know?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " A matrix is said to be orthogonal if its transpose is equal to its inverse", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A matrix is said to be orthogonal if its transpose is equal to its inverse" for the first time:
+
+1. What does it mean for a matrix to be "orthogonal"?
+2. Why is it important that the transpose of a matrix is equal to its inverse?
+3. How do I determine if a matrix is orthogonal?
+4. Are there any real-world applications or examples where orthogonality is important?
+5. How does this concept relate to other mathematical concepts or techniques, such as linear
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The Brouwer Fixed Point Theorem states that any continuous function from a compact convex set to itself has at least one fixed point", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Brouwer Fixed Point Theorem for the first time:
+
+1. What does it mean for a function to be "continuous"?
+2. What is a "compact convex set"? How do I know if a set is compact or convex?
+3. Why is it important that the theorem only applies to functions that take their input from a compact convex set?
+4. How does this theorem relate to other concepts in mathematics, such as optimization problems or dynamical systems?
+5. Can I use this theorem to solve real-
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The harmonic mean of a set of numbers is the reciprocal of the arithmetic mean of the reciprocals of the numbers", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up in my mind when I encounter the statement for the first time:
+
+1. What is the difference between the harmonic mean and the arithmetic mean?
+2. Why is the harmonic mean the reciprocal of the arithmetic mean of the reciprocals?
+3. How do I calculate the harmonic mean of a set of numbers?
+4. Is there a formula or method for calculating the harmonic mean quickly?
+5. Are there any real-world applications or examples where the harmonic mean is used?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " A set is countably infinite if its elements can be put into a one-to-one correspondence with the natural numbers", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the concept of a countably infinite set for the first time:
+
+1. What does it mean for an element to be "in a one-to-one correspondence" with the natural numbers?
+2. How do I know if a set is countably infinite or not? Are there any examples of sets that are not countably infinite?
+3. Can all sets be put into a one-to-one correspondence with the natural numbers? Or are there some sets that cannot?
+4. Is being countably infinite the same thing
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " A topological space is compact if every open cover has a finite subcover", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A topological space is compact if every open cover has a finite subcover" for the first time:
+
+1. What does it mean for an open cover to have a finite subcover?
+2. How can I determine if a topological space is compact using this statement?
+3. Is there a way to prove that a topological space is compact without using this statement?
+4. Are there any examples of topological spaces that are not compact according to this definition?
+5. How does this statement relate to other concepts in mathematics, such
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " Liouville's Theorem states that any bounded entire function must be constant", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering Liouville's Theorem for the first time:
+
+1. What does it mean for a function to be "entire"?
+2. How do we know if a function is "bounded"?
+3. What does it mean for a function to be "constant"?
+4. Why is this theorem important or useful?
+5. How does Liouville's Theorem relate to other concepts in mathematics, such as complex analysis or differential equations?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The spectral theorem provides conditions under which a matrix can be diagonalized", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Spectral Theorem for the first time:
+
+1. What does it mean for a matrix to be diagonalizable?
+2. How do I know if my matrix is diagonalizable?
+3. Why is it important to diagonalize a matrix?
+4. What is the connection between the Spectral Theorem and other mathematical concepts (e.g. linear algebra, calculus)?
+5. How can I use the Spectral Theorem to solve real-world problems (e.g. signal processing, data analysis)?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " In probability theory, Bayes' Theorem describes the probability of an event, based on prior knowledge of conditions that might be related to the event", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up for someone encountering Bayes' Theorem for the first time:
+
+1. What does "prior knowledge" mean in this context? How do I determine what information to consider as prior knowledge?
+2. How do I calculate the probability of an event using Bayes' Theorem? Can you give me an example?
+3. What is the difference between conditional probability and unconditional probability? Why is it important to distinguish between these two concepts?
+4. How does Bayes' Theorem relate to other statistical concepts, such as hypothesis testing or regression analysis? Are
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " A group is abelian if it satisfies the commutative property for all group elements", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the concept of an abelian group for the first time:
+
+1. What does it mean for a group to satisfy the commutative property?
+2. How do I know if a group is abelian or not?
+3. Why is it important to distinguish between abelian and non-abelian groups?
+4. Can every group be made into an abelian group, or are there some groups that cannot?
+5. How does the concept of abelian groups relate to other mathematical concepts, such as rings or fields?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The derivative of the function f(x) = ln(x) is f'(x) = 1/x", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement for the first time:
+
+1. What does it mean for the derivative of a function to be equal to something?
+2. Why is the derivative of the logarithm function important?
+3. How do I calculate the derivative of a function using this formula?
+4. What does the notation'means in this context?
+5. Can I use this formula to find the derivative of other functions?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The volume of a sphere is given by (4/3)πr³", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The volume of a sphere is given by (4/3)πr³" for the first time:
+
+1. What does the symbol "r" represent?
+2. What is the meaning of "sphere"?
+3. Why is the volume of a sphere described using a mathematical formula?
+4. How do I calculate the volume of a sphere if I know its radius?
+5. What are some real-world applications of the formula for the volume of a sphere?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " A bipartite graph is a graph whose vertices can be divided into two disjoint sets such that every edge connects a vertex in one set to a vertex in the other set", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the concept of a bipartite graph for the first time:
+
+1. What does it mean for vertices to be "disjoint"? How do you determine if two sets of vertices are disjoint?
+2. Why would I want to divide a graph into two sets like this? Are there any real-world applications or examples where this is useful?
+3. How does a bipartite graph differ from an ordinary graph? Are there any key properties or characteristics that make it unique?
+4. Can you give me some examples of bipart
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " Stirling's approximation provides a formula for approximating the factorial of a large number n, showing that n! is approximately √(2πn)(n/e)^n", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering Stirling's Approximation for the first time:
+
+1. What is the purpose of this formula? Why do we need an approximation for the factorial of a large number?
+2. How does the formula relate to the actual value of the factorial? Is it accurate for all values of n?
+3. Can I use this formula to simplify complex calculations involving large numbers? How does it compare to other methods of calculating the factorial?
+4. What are some real-world applications of Stirling's Approxim
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " A vector field is conservative if it is the gradient of some scalar function", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the concept of a conservative vector field for the first time:
+
+1. What does it mean for a vector field to be "conservative"? Why is this important?
+2. How can I determine if a given vector field is conservative? Are there any common examples or techniques?
+3. What is the relationship between a conservative vector field and its gradient? Can I use the gradient to find the direction of the field?
+4. How do conservative vector fields relate to other mathematical concepts, such as potential functions or energy?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The divergence theorem relates the flux of a vector field through a surface to the divergence of the field in the volume enclosed", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the divergence theorem for the first time:
+
+1. What does it mean for a vector field to have a non-zero divergence? How can I visualize or interpret this concept?
+2. How is the divergence of a vector field related to the flux of the field through a surface? Can you give an example or analogy to help me understand this connection?
+3. What is the difference between the divergence theorem and other theorems in physics, such as the Stokes theorem? How do they relate to each other?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " A manifold is a topological space that locally resembles Euclidean space near each point", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the concept of a manifold for the first time:
+
+1. What does it mean for a topological space to "locally resemble" Euclidean space? How do we measure this similarity?
+2. How is a manifold different from other types of topological spaces, such as a sphere or a torus?
+3. Can you give some examples of manifolds that I might be familiar with in everyday life? (e.g. a sphere, a torus, a doughnut)
+4. How do mathematicians define and study
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The Cauchy-Schwarz inequality states that for all vectors u and v of an inner product space, the absolute value of the inner product of u and v is less than or equal to the product of the norms of u and v", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Cauchy-Schwarz inequality for the first time:
+
+1. What does it mean for the absolute value of the inner product to be less than or equal to the product of the norms? How can I use this inequality to compare the magnitudes of different vectors?
+2. Why is this inequality important? Are there any real-world applications or examples where it comes in handy?
+3. Can I use the Cauchy-Schwarz inequality to prove other inequalities or results in mathematics? If so,
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " Euler's totient function φ(n) is defined as the number of positive integers up to n that are relatively prime to n", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering Euler's totient function for the first time:
+
+1. What does it mean for two numbers to be "relatively prime"?
+2. How do I determine whether a given integer is relatively prime to another integer?
+3. Is there a way to compute φ(n) efficiently for large values of n?
+4. Are there any interesting patterns or properties of the function φ(n)?
+5. How does Euler's totient function relate to other areas of mathematics, such as number theory, combinator
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " A Boolean algebra is a mathematical structure that captures the essence of logical operations and binary variables", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the concept of a Boolean algebra for the first time:
+
+1. What is a Boolean algebra, exactly? Can you give me an example?
+2. Why do we need a special mathematical structure to represent logical operations and binary variables? Can't we just use regular math?
+3. How does a Boolean algebra relate to computer science and programming? Are there any practical applications I should know about?
+4. Can you explain the difference between a Boolean algebra and other mathematical structures like groups or rings?
+5. How can I learn more about
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The Fundamental Theorem of Algebra states that every non-constant single-variable polynomial with complex coefficients has at least one complex root", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Fundamental Theorem of Algebra for the first time:
+
+1. What does it mean by "non-constant single-variable polynomial"?
+2. What do they mean by "complex coefficients"?
+3. How do they know there's at least one complex root?
+4. Why is this theorem important or useful?
+5. Can I use this theorem to solve other problems in math or science?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The area of a trapezoid is given by ½(a + b)h, where a and b are the lengths of the parallel sides, and h is the height", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up for someone encountering the statement "The area of a trapezoid is given by ½(a + b)h" for the first time:
+
+1. What does it mean for two sides of a shape to be "parallel"?
+2. How do I find the length of the "height" of a trapezoid?
+3. Why is the formula for the area of a trapezoid written as ½(a + b)h instead of just a+bh or something else?
+4. Can I use this formula
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " A Hamiltonian path in a graph is a path that visits each vertex exactly once", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the concept of a Hamiltonian path for the first time:
+
+1. What does it mean for a path to visit each vertex "exactly once"? Is there a specific rule or definition I need to understand?
+2. How do I know if a graph has a Hamiltonian path or not? Are there any common techniques or algorithms for finding one?
+3. Why is this concept important in physics? Are there real-world applications or examples where Hamiltonian paths come into play?
+4. Can a Hamiltonian path be guaranteed in certain types of graphs? For
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " The Chinese Remainder Theorem provides conditions under which a system of linear congruences has a solution", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Chinese Remainder Theorem for the first time:
+
+1. What does it mean for a system of linear congruences to have a solution?
+2. How do I know if the conditions for the Chinese Remainder Theorem are met?
+3. Can I use the Chinese Remainder Theorem to solve other types of equations?
+4. How does the Chinese Remainder Theorem relate to other areas of mathematics, such as number theory or algebraic geometry?
+5. Are there any examples or case studies that illustrate how the Chinese Rem
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it " A group in abstract algebra is a set equipped with an operation that combines any two elements to form a third element, satisfying four conditions: closure, associativity, identity, and invertibility.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement for the first time:
+
+1. What does it mean for an operation to combine any two elements to form a third element? How flexible is the operation?
+2. Can you give examples of groups in different contexts (e.g., rotations of objects in space, permutations of a deck of cards, etc.)?
+3. What do you mean by "closure"? Is it related to the idea of a function being continuous or differentiable?
+4. How do you define "associativity"? Is it similar to the
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Generalized Stokes Theorem generalizes several theorems from vector calculus, including the classical Stokes' theorem and the divergence theorem.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The Generalized Stokes Theorem generalizes several theorems from vector calculus, including the classical Stokes' theorem and the divergence theorem" for the first time:
+
+1. What is the classical Stokes' theorem?
+2. What is the divergence theorem?
+3. How does the generalized Stokes theorem relate to these other theorems?
+4. Why is it important to generalize these theorems?
+5. Can I use this theorem to solve real-world problems?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Homology and cohomology are concepts in algebraic topology that measure the 'holes' in a topological space, offering insight into its structure.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the concept of homology and cohomology for the first time:
+
+1. What exactly do these terms mean by "holes" in a topological space? How are they defined?
+2. Why are homology and cohomology important tools for understanding the structure of a topological space? What kind of insights can they provide?
+3. How do homology and cohomology relate to each other? Are they complementary in some way?
+4. Can you give an example of how homology and cohomology are used in
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Galois theory explains the solvability of polynomial equations in terms of the symmetry group of their roots.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up for someone encountering Galois theory for the first time:
+
+1. What is a symmetry group? How does it relate to the roots of a polynomial equation?
+2. Why is it important to understand the symmetry group of a polynomial equation? What are some real-world applications of Galois theory?
+3. How do you determine the symmetry group of a given polynomial equation? Are there any general methods or techniques?
+4. Can you give an example of a polynomial equation whose symmetry group is non-trivial? How does its symmetry group affect the solv
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Nash Equilibrium presents a solution concept in non-cooperative games, where no player can benefit by changing strategies if the others remain unchanged.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up when encountering the Nash Equilibrium for the first time:
+
+1. What does it mean for a game to be "non-cooperative"?
+2. How does the Nash Equilibrium ensure that no player can benefit from changing their strategy?
+3. Can the Nash Equilibrium be applied to games with more than two players?
+4. How does the Nash Equilibrium handle situations where multiple players have similar strategies?
+5. Is the Nash Equilibrium a fixed point or a range of possible outcomes?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A metric space is a set where a notion of distance (the metric) between elements of the set is defined.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up for someone encountering the concept of a metric space for the first time:
+
+1. What does it mean for two points to be close together in a set?
+2. How do I measure the distance between two points in a set?
+3. Is there a way to define a distance between more than two points in a set?
+4. Can I use the distance metric to compare different sets?
+5. How does the concept of a metric space relate to other mathematical concepts I've learned, like topology or calculus?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Banach Fixed Point Theorem guarantees the existence and uniqueness of fixed points in certain spaces, underpinning many areas of mathematical analysis.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Banach Fixed Point Theorem for the first time:
+
+1. What does it mean for a space to "guarantee the existence and uniqueness of fixed points"?
+2. How does the theorem apply to different types of spaces (e.g., complete, separable, metric)?
+3. What are some examples of areas of mathematical analysis where the Banach Fixed Point Theorem is used?
+4. How does the theorem relate to other concepts in mathematics, such as continuity and convergence?
+5. Are there any limitations
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Langlands Program aims to connect number theory and harmonic analysis through a web of relationships between different areas of mathematics.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Langlands Program for the first time:
+
+1. What is the connection between number theory and harmonic analysis?
+2. How does the Langlands Program aim to connect these two areas of mathematics?
+3. What is the significance of the "web of relationships" mentioned in the statement?
+4. Are there any specific results or theorems that are central to the Langlands Program?
+5. How has the Langlands Program influenced other areas of mathematics, such as algebraic geometry or representation theory?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Cryptography relies on number theory and computational complexity to secure communication, illustrating applied mathematical principles.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Cryptography relies on number theory and computational complexity to secure communication" for the first time:
+
+1. What is number theory?
+2. What is computational complexity?
+3. How do these concepts relate to communication security?
+4. Why are they important for cryptography?
+5. Can you give me some examples of how number theory and computational complexity are used in real-world cryptographic systems?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Knot theory studies mathematical knots, which are embeddings of circles in 3-dimensional space, with applications in various scientific fields.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "knot theory studies mathematical knots, which are embeddings of circles in 3-dimensional space, with applications in various scientific fields" for the first time:
+
+1. What is a mathematical knot?
+2. How are mathematical knots different from regular circles?
+3. Why do scientists study mathematical knots?
+4. Can you give some examples of scientific fields where knot theory has applications?
+5. How does studying mathematical knots help us understand other areas of science and mathematics?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The concept of mathematical beauty relates to the aesthetic and intellectual appeal of certain mathematical proofs or results, reflecting the subjective experience of mathematical discovery.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The concept of mathematical beauty relates to the aesthetic and intellectual appeal of certain mathematical proofs or results, reflecting the subjective experience of mathematical discovery" for the first time:
+
+1. What exactly do you mean by "aesthetic appeal"? How does math become beautiful?
+2. Can you give examples of specific mathematical concepts or results that are considered beautiful? Why?
+3. How does the subjective experience of mathematical discovery relate to the concept of beauty? Is it just personal taste, or is there something
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The concept of eigenvalues and eigenvectors is crucial in understanding linear transformations and their properties.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The concept of eigenvalues and eigenvectors is crucial in understanding linear transformations and their properties" for the first time:
+
+1. What are eigenvalues and eigenvectors?
+2. Why are they important in understanding linear transformations?
+3. How do eigenvalues and eigenvectors relate to each other?
+4. Can you give an example of how eigenvalues and eigenvectors are used in real-world applications?
+5. How can I learn more about eigenvalues and eigenvectors, and how can I apply them in my own
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "In topology, a space is compact if every open cover has a finite subcover, a fundamental property affecting continuity and convergence.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the concept of compactness for the first time:
+
+1. What does it mean for an open cover to have a "finite subcover"? How do I know if my open cover has one?
+2. Why is it important that a compact space has this property? Are there any real-world applications or examples where this matters?
+3. How does the concept of compactness relate to other mathematical concepts, such as connectedness or separability?
+4. Can you give me some examples of spaces that are not compact, and why they are
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Schwarz lemma in complex analysis offers insights into the behavior of holomorphic functions, demonstrating the constraints on their growth.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Schwarz Lemma for the first time:
+
+1. What does it mean for a function to be "holomorphic"? How is this different from other types of functions?
+2. Why do we care about the growth of holomorphic functions? Are there any practical applications or implications of this constraint?
+3. Can you give an example of a holomorphic function that violates the constraints imposed by the Schwarz Lemma? How does this challenge our understanding of holomorphic functions?
+4. How does the Schwarz Lemma relate to other concepts
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Differential geometry studies curves, surfaces, and manifolds using the techniques of calculus and linear algebra.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Differential geometry studies curves, surfaces, and manifolds using the techniques of calculus and linear algebra" for the first time:
+
+1. What is differential geometry?
+2. Why do we need to use calculus and linear algebra to study curves, surfaces, and manifolds?
+3. How do curves, surfaces, and manifolds relate to each other?
+4. What kind of problems can differential geometry help solve?
+5. How does differential geometry connect to other areas of mathematics, such as topology, geometry, and analysis
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The prime number theorem gives a general description of the distribution of prime numbers among the integers.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Prime Number Theorem for the first time:
+
+1. What is the Prime Number Theorem and how does it describe the distribution of prime numbers?
+2. Why is the Prime Number Theorem important or significant?
+3. How does the Prime Number Theorem relate to other areas of mathematics, such as number theory or probability theory?
+4. Can I use the Prime Number Theorem to make predictions or estimates about the distribution of prime numbers in specific ranges of numbers?
+5. Are there any limitations or assumptions underlying the Prime Number Theorem, and how do they
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Graph coloring involves assigning colors to elements of a graph, such as vertices or edges, under certain constraints, with applications in scheduling and problem solving.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come up in my mind when I encounter the concept of graph coloring for the first time:
+
+1. What are the different types of graph coloring? Are there any common ones?
+2. What are the constraints that are typically considered in graph coloring? Why are they important?
+3. How does graph coloring relate to other areas of mathematics, such as combinatorics or optimization?
+4. Can you give some examples of real-world problems where graph coloring comes into play?
+5. How do we determine if a graph can be colored efficiently?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "In mathematical logic, Gödel's incompleteness theorems assert limitations on the provability of truths within formal systems.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering Gödel's incompleteness theorems for the first time:
+
+1. What is a "formal system"?
+2. Why do the theorems say that truths can't be proved?
+3. How does this relate to math and logic?
+4. Can't we just prove everything anyway?
+5. What are some real-world implications of these theorems?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Quantum computing utilizes the principles of quantum mechanics to process information in ways fundamentally different from classical computing.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Quantum computing utilizes the principles of quantum mechanics to process information in ways fundamentally different from classical computing" for the first time:
+
+1. What are the "principles of quantum mechanics"?
+2. How does quantum computing differ from classical computing?
+3. Why is this difference important?
+4. Can you give an example of how quantum computing could be used?
+5. How does quantum computing work at a high level?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Monty Hall problem, a probability puzzle, reveals counterintuitive results about decision-making and probability.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Monty Hall problem for the first time:
+
+1. What is the problem actually asking?
+2. Why does the probability seem to change mid-problem?
+3. How does the host's announcement affect my chances of winning?
+4. Is there a way to use logic to increase my chances of winning?
+5. Can I apply this problem to real-life situations where I make decisions?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Catastrophe theory studies how small changes in conditions can cause sudden shifts or 'catastrophes' in the behavior of a system, applicable in various scientific fields.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the concept of catastrophe theory for the first time:
+
+1. What kind of systems does catastrophe theory apply to?
+2. How do small changes in conditions lead to sudden shifts or catastrophes?
+3. Are there any examples of catastrophe theories in action?
+4. How is catastrophe theory related to other scientific fields, such as chaos theory or complexity science?
+5. Can catastrophe theory be used to predict or prevent catastrophic events?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Bessel function of the first kind satisfies the differential equation x²y'' + xy' + (x² - n²)y = 0", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the Bessel function differential equation for the first time:
+
+1. What is the meaning of "Bessel function of the first kind"?
+2. Why does the differential equation have the form it does? (e.g., why are there two terms on the left-hand side?)
+3. How do I determine the solutions to this equation? (e.g., what methods can I use to find y(x)?)
+4. Are there any special cases or patterns that I should know about in the solution? (e.g
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Every non-empty set of positive integers has a least element, by the well-ordering principle", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "Every non-empty set of positive integers has a least element" for the first time:
+
+1. What does it mean for a set to be "non-empty"?
+2. What is a "least element"? How do I find it?
+3. Why is this statement called the "well-ordering principle"?
+4. How does this statement relate to other concepts in mathematics, such as sequences and number patterns?
+5. Can I use this statement to solve any problems or prove any other mathematical statements?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Hausdorff dimension of the Cantor set is log(2)/log(3)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The Hausdorff dimension of the Cantor set is log(2)/log(3)":
+
+1. What is the Cantor set?
+2. What is Hausdorff dimension?
+3. Why is the dimension of the Cantor set important?
+4. How do I calculate log(2)/log(3)?
+5. What are some real-world applications of the Hausdorff dimension of the Cantor set?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A smooth manifold is orientable if it has a globally defined nonvanishing volume form", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "A smooth manifold is orientable if it has a globally defined nonvanishing volume form" for the first time:
+
+1. What does it mean for a manifold to be orientable?
+2. What is a volume form, and how can it be used to define orientation on a manifold?
+3. Why is having a globally defined nonvanishing volume form important for orientation?
+4. How does the existence of a nonvanishing volume form relate to other properties of a manifold, such as its topology or geometry?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Hilbert space L²([a, b]) consists of all square-integrable functions over the interval [a, b]", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "The Hilbert space L²([a, b]) consists of all square-integrable functions over the interval [a, b]" for the first time:
+
+1. What is a Hilbert space?
+2. What is square-integrability?
+3. Why do we care about functions over a specific interval like [a, b]?
+4. How does this relate to other mathematical concepts I've learned? (e.g. linear algebra, calculus)
+5. What kind of problems can
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "In the context of Riemannian geometry, the Ricci curvature tensor is the trace of the Riemann curvature tensor", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "In the context of Riemannian geometry, the Ricci curvature tensor is the trace of the Riemann curvature tensor" for the first time:
+
+1. What is the Riemann curvature tensor?
+2. Why is the trace of the Riemann curvature tensor important?
+3. How does the Ricci curvature tensor relate to the curvature of a manifold?
+4. Can you give an example of a situation where understanding the Ricci curvature tensor is crucial?
+5. How do I go about computing the Ric
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might come to mind when encountering the statement "the laws of physics are universal and apply everywhere":
+
+1. What does it mean for laws to be "universal"?
+2. How do we know these laws apply everywhere?
+3. Are there any exceptions to these laws?
+4. How can I use this information to understand the world around me?
+5. Can I test or observe these laws in different situations?
+
