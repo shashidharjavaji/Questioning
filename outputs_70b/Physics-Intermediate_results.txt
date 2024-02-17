@@ -1,0 +1,796 @@
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The energy of a photon is directly proportional to its frequency.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about the relationship between the energy of a photon and its frequency:
+
+* What is a photon?
+* How is the energy of a photon related to its frequency?
+* What is the unit of measurement for the energy of a photon?
+* Can you give an example of how this relationship plays out in real-world situations?
+* How does this relationship impact our understanding of light and its interactions with matter?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The principle of superposition states that when two or more waves overlap, the resulting wave is the sum of the individual waves.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the principle of superposition:
+
+* What do we mean by "waves" in this context?
+* Can you give an example of how the principle of superposition works in practice?
+* How does the resulting wave formed by superposition differ from the individual waves?
+* Are there any limitations or restrictions on the applicability of the principle of superposition?
+* Can you explain why the principle of superposition is important or useful in physics?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The uncertainty principle suggests that the more precisely the position of some particle is determined, the less precisely its momentum can be known, and vice versa.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might be helpful in learning about the uncertainty principle:
+
+* What does it mean for a particle's position to be "precisely determined"?
+* How does the uncertainty principle relate to the idea of measuring a particle's momentum?
+* Is there a fundamental limit to our ability to know both a particle's position and momentum simultaneously?
+* Can the uncertainty principle be applied to other physical quantities, like energy or spin?
+* Are there any real-world examples or applications of the uncertainty principle that I can use to better understand it?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "In a vacuum, all objects fall at the same rate regardless of their mass.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about the physics statement "In a vacuum, all objects fall at the same rate regardless of their mass":
+
+* What is meant by "in a vacuum"?
+* Why does the object's mass not affect its falling rate?
+* Are there any exceptions to this rule?
+* How does air resistance affect the falling rate of objects?
+* Can this principle be applied to other phenomena besides falling objects?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Electricity and magnetism are two aspects of a single electromagnetic force.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about the relationship between electricity and magnetism:
+
+* What is the electromagnetic force?
+* How are electricity and magnetism related to each other?
+* Are there any examples or applications of this relationship in everyday life?
+* Can you explain the concept of electromagnetic induction?
+* How does this relationship impact our understanding of the behavior of charged particles and electrical currents?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The period of a pendulum is independent of its mass and depends only on the length of the pendulum and the acceleration due to gravity.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might be useful for learning about the physics statement you provided:
+
+* What is a pendulum?
+* How does the length of a pendulum affect its period?
+* What is the acceleration due to gravity, and how does it affect the period of a pendulum?
+* Are there any other factors that can affect the period of a pendulum?
+* Can this statement be applied to all types of pendulums, or are there any exceptions?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Capacitors store electrical energy in an electric field, while inductors store energy in a magnetic field.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for a human who is encountering the statement about capacitors and inductors for the first time:
+
+* What is an electric field?
+* What is a magnetic field?
+* How do capacitors store electrical energy?
+* How do inductors store energy in a magnetic field?
+* Can you give an example of how each is used in a real-world application?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Doppler effect causes the frequency of a wave to be higher in the direction of movement and lower in the direction away from movement.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be helpful for a beginner to understand the Doppler effect:
+
+* What is a wave, and how does it relate to the Doppler effect?
+* What do you mean by "direction of movement" and "direction away from movement"?
+* Can you give an example of how the Doppler effect works in real life?
+* How does the Doppler effect differ between sound waves and light waves?
+* Is the Doppler effect only applicable to waves, or can it also affect other physical phenomena?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Ferromagnetic materials can become permanently magnetized when exposed to a strong magnetic field.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about ferromagnetic materials and their ability to become permanently magnetized:
+
+* What are ferromagnetic materials?
+* What is a strong magnetic field, and how does it differ from a weak magnetic field?
+* How do ferromagnetic materials become permanently magnetized when exposed to a strong magnetic field?
+* Are there any specific conditions or parameters that need to be met for a ferromagnetic material to become permanently magnetized?
+* Can ferromagnetic materials lose their magnetization over time, and if so, under what circumstances?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The buoyant force on an object submerged in a fluid is equal to the weight of the fluid that the object displaces.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might be helpful in learning about the buoyant force on an object submerged in a fluid:
+
+* What is the definition of "buoyant force"?
+* What does it mean for an object to be "submerged" in a fluid?
+* How do I calculate the weight of the fluid that the object displaces?
+* Is the buoyant force always equal to the weight of the fluid displaced, or are there exceptions?
+* Can you give me an example of how this concept applies in real life?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The efficiency of a heat engine is the ratio of the work it does to the heat input at the high temperature.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the efficiency of a heat engine:
+
+* What is a heat engine?
+* What is meant by "work" in this context?
+* What is meant by "heat input" and how is it related to the temperature?
+* How do you calculate the efficiency of a heat engine?
+* Can you give an example of a real-world heat engine and its efficiency?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A photon's energy can be transferred to an electron in the photoelectric effect, ejecting the electron from its material.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about the photoelectric effect:
+
+* What is a photon?
+* What is an electron?
+* What is the photoelectric effect?
+* How does the energy transfer occur between the photon and the electron?
+* What are the applications of the photoelectric effect in real-world scenarios?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The phase of matter can be changed not just by temperature but also by adjusting the pressure.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the statement "The phase of matter can be changed not just by temperature but also by adjusting the pressure":
+
+* What is meant by "phase of matter"?
+* How does temperature affect the phase of matter?
+* How does pressure affect the phase of matter?
+* Are there any specific examples of materials whose phase can be changed by adjusting temperature and pressure?
+* What are some real-world applications of this concept, such as in industry or technology?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Lenses and mirrors form images through refraction and reflection, respectively, which can be real or virtual.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about the physics statement:
+
+* What is refraction?
+* What is reflection?
+* What is the difference between real and virtual images?
+* How do lenses and mirrors form images?
+* Can you give an example of a situation where refraction and reflection occur simultaneously?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The resonance frequency of an object is the frequency at which it vibrates with the greatest amplitude.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about the resonance frequency of an object:
+
+* What does it mean for an object to vibrate with the greatest amplitude?
+* How is the resonance frequency of an object determined?
+* What are some examples of objects that exhibit resonance?
+* How does the resonance frequency relate to the natural frequency of an object?
+* Can you give an example of how resonance frequency is used in real-world applications?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The principle of conservation of momentum states that the total momentum of a closed system is constant if no external forces are acting on it.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about the principle of conservation of momentum:
+
+* What is momentum and how is it defined?
+* What does it mean for a system to be closed?
+* Can you give an example of a situation where the principle of conservation of momentum applies?
+* How does the principle of conservation of momentum relate to other physical principles, such as the law of conservation of energy?
+* Are there any limitations or exceptions to the principle of conservation of momentum?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Thermal conductivity is a property of a material that determines the rate at which heat passes through it.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be helpful for someone new to the concept of thermal conductivity:
+
+* What is thermal conductivity, and how is it measured?
+* How does thermal conductivity differ between materials?
+* What factors affect thermal conductivity?
+* How is thermal conductivity used in real-world applications?
+* Can thermal conductivity be improved or modified in materials?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Polarization of light can occur through reflection, refraction, or by passing the light through a polarizing filter, affecting its direction of oscillation.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the polarization of light:
+
+* What does it mean for light to be polarized?
+* How does reflection, refraction, and passing light through a polarizing filter affect the direction of oscillation?
+* Why is the direction of oscillation important for light?
+* How does polarization relate to other properties of light, such as intensity and wavelength?
+* Are there any real-world applications of polarization in everyday life or technology?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Harmonic oscillators, like springs and pendulums, exhibit motion that repeats itself in a regular cycle known as harmonic motion.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might be useful for someone new to the concept of harmonic oscillators:
+
+* What is a harmonic oscillator?
+* What is meant by "regular cycle" in the context of harmonic motion?
+* How do springs and pendulums exhibit harmonic motion?
+* Are there any other examples of harmonic oscillators in physics?
+* How does the frequency of the harmonic motion relate to the period of the oscillation?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The magnus effect explains how spinning objects traveling through a fluid, or the air, experience a force that acts perpendicular to the direction of motion and the spin axis.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the Magnus effect:
+
+* What is the definition of "fluid" in this context?
+* Can you give an example of a spinning object that exhibits the Magnus effect?
+* How does the speed of the object affect the magnitude of the force?
+* Is the force always perpendicular to the direction of motion and the spin axis, or are there exceptions?
+* Can you explain why the Magnus effect occurs?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Optical fibers transmit light signals over long distances with minimal loss, using total internal reflection.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about optical fibers and total internal reflection:
+
+* What is total internal reflection and how does it work?
+* How do optical fibers manage to transmit light signals over such long distances?
+* What kind of materials are used to make optical fibers and why?
+* How does the diameter of the fiber affect the signal transmission?
+* Are there any limitations or challenges when using optical fibers for signal transmission?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The greenhouse effect is caused by atmospheric gases trapping heat radiated from Earth's surface, preventing it from escaping into space.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for a human who is encountering the concept of the greenhouse effect for the first time:
+
+* What are the specific gases in the atmosphere that trap heat?
+* How does the greenhouse effect differ from the natural temperature regulation of the Earth's surface?
+* What is the role of carbon dioxide and other greenhouse gases in the greenhouse effect?
+* How does the greenhouse effect relate to climate change and global warming?
+* What are some potential consequences of an increased greenhouse effect on the Earth's climate and
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Doppler radar uses the change in frequency of a radio wave reflected from a moving object to measure its speed.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the Doppler radar statement:
+
+* What is the Doppler effect and how does it relate to radar?
+* How does the radar wave's frequency change when reflected from a moving object?
+* How does the radar system measure the change in frequency?
+* What information can be gained from measuring the change in frequency?
+* Are there any limitations or assumptions involved in using the Doppler radar method?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A transformer changes the voltage of an alternating current by using two coils of wire, known as the primary and secondary coils, which are wound around a common core.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about the physics statement you provided:
+
+* What is an alternating current (AC)?
+* What is a transformer, and how does it work?
+* What are the primary and secondary coils, and how do they relate to each other?
+* What is the purpose of the common core, and how does it affect the transformation of voltage?
+* How can the transformer change the voltage of the AC current, and what are the limitations of this process?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Coriolis effect causes moving air and water to turn left in the Southern Hemisphere and right in the Northern Hemisphere due to Earth's rotation.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the Coriolis effect:
+
+* What is the Coriolis effect?
+* Why does the air and water turn left in the Southern Hemisphere and right in the Northern Hemisphere?
+* How fast does the air or water need to be moving for the Coriolis effect to be noticeable?
+* Does the Coriolis effect only occur on Earth, or does it happen on other planets too?
+* Can the Coriolis effect be observed in other natural phenomena, such as ocean currents or weather patterns?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Geostationary satellites orbit the Earth at a speed matching the Earth's rotation, appearing stationary relative to the ground.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about geostationary satellites:
+
+* How does a satellite manage to stay stationary relative to the ground while the Earth is rotating?
+* What is the significance of the satellite's orbital speed matching the Earth's rotation?
+* How high above the Earth's surface do geostationary satellites typically orbit?
+* Can any object be in a geostationary orbit, or are there specific requirements for an object to be considered a geostationary satellite?
+* Are there any practical applications or uses
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The principle of relativity states that the laws of physics are the same for all non-accelerating observers, regardless of their relative motion.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about the principle of relativity:
+
+* What does it mean for an observer to be non-accelerating?
+* How do the laws of physics change for accelerating observers?
+* What is the difference between relative motion and absolute motion?
+* Can you give an example of a situation where the principle of relativity applies?
+* How does the principle of relativity relate to other concepts in physics, such as Newton's laws of motion or quantum mechanics?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Photochromic lenses darken on exposure to UV light, due to a reversible chemical reaction in the lens material.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about photochromic lenses:
+
+* How do photochromic lenses work?
+* What is the chemical reaction that causes the lenses to darken?
+* Is the reaction reversible, and if so, how does it reverse?
+* What type of materials are used to make photochromic lenses?
+* Are there any limitations or drawbacks to using photochromic lenses?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Bernoulli's principle explains why an airplane wing generates lift: the faster air moves over the wing, the lower the air pressure above it.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for someone new to Bernoulli's principle and its application to airplane wings:
+
+* How does the speed of the air affect the air pressure above the wing?
+* Why does the air pressure above the wing decrease when the air moves faster over it?
+* What is the relationship between the shape of the wing and the way it generates lift?
+* How does the angle of attack of the wing affect the lift generated?
+* Can you explain the concept of lift in simpler terms, without using technical jargon?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Van Allen radiation belts are zones of energetic charged particles that surround the Earth, trapped by its magnetic field.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the Van Allen radiation belts:
+
+* What are the characteristics of the charged particles in the radiation belts?
+* How did the charged particles get trapped in the Earth's magnetic field?
+* What is the extent of the radiation belts around the Earth?
+* Are the radiation belts dangerous to humans and electronic systems?
+* How do the radiation belts affect satellite operations and space exploration?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Mpemba effect is the observation that, in some circumstances, warmer water can freeze faster than colder water.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the Mpemba effect:
+
+* What are the circumstances under which warmer water can freeze faster than colder water?
+* Is this effect a general phenomenon or does it only occur under specific conditions?
+* Can you provide examples or experiments that demonstrate the Mpemba effect?
+* How does the Mpemba effect relate to the laws of thermodynamics?
+* Are there any practical applications or implications of the Mpemba effect in fields such as engineering, chemistry, or physics?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Fiber optics technology uses the principle of total internal reflection to transmit light over long distances with minimal loss.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about fiber optics technology and the principle of total internal reflection:
+
+* What is total internal reflection and how does it work?
+* How does fiber optics technology use total internal reflection to transmit light?
+* What are the benefits of using fiber optics technology compared to other methods of transmitting light?
+* What are some common applications of fiber optics technology?
+* How does the principle of total internal reflection apply to other areas of physics or engineering?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A heat pump transfers thermal energy from a cooler space to a warmer space, contrary to the natural direction of heat flow.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the concept of a heat pump:
+
+* How does a heat pump transfer thermal energy from a cooler space to a warmer space?
+* What is the difference between a heat pump and a traditional heating system?
+* How efficient is a heat pump compared to other heating systems?
+* Can a heat pump also cool a space, or is it only used for heating?
+* Are there any environmental benefits to using a heat pump instead of a traditional heating system?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Piezoelectric materials generate an electric charge in response to applied mechanical stress.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about piezoelectric materials:
+
+* What are piezoelectric materials?
+* How do they generate an electric charge?
+* What kind of mechanical stress can trigger the generation of an electric charge?
+* Are there any specific types of materials that exhibit piezoelectric properties?
+* Can piezoelectric materials be used in practical applications, and if so, what are some examples?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Michelson-Morley experiment provided evidence for the constancy of the speed of light and the absence of the "aether", leading to the development of special relativity.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about the Michelson-Morley experiment and its significance in the development of special relativity:
+
+* What is the "aether" and why was it thought to be important in understanding the nature of light?
+* What was the main goal of the Michelson-Morley experiment, and how did it test for the presence or absence of the aether?
+* Why was the discovery of the constancy of the speed of light such an important finding, and how did it challenge existing theories of physics at the time?
+* How did the Michelson
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Interference patterns from light waves occur when two or more waves overlap, creating a pattern of alternating bright and dark bands due to constructive and destructive interference.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for a human who is encountering the concept of interference patterns from light waves for the first time:
+
+* What do you mean by "light waves"? Are they like ocean waves?
+* What is constructive interference? How does it differ from destructive interference?
+* Can you show me an example of an interference pattern? How do the bright and dark bands form?
+* How do the properties of the light source, such as its frequency or amplitude, affect the interference pattern?
+* Are there any real-world applications of interference
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "An object's center of mass is the point where it can be balanced without rotation, depending on the distribution of its mass.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the concept of an object's center of mass:
+
+* What does it mean for an object to be balanced without rotation?
+* How do you determine the center of mass of an object?
+* Does the center of mass have to be located within the object itself?
+* Can the center of mass of an object change depending on how the object is oriented or moved?
+* How is the center of mass related to other concepts in physics, such as momentum and torque?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Critical angle is the angle of incidence above which total internal reflection occurs for light passing from a medium with a higher refractive index to one with a lower refractive index.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about the concept of critical angle and total internal reflection:
+
+* What is refractive index and how does it relate to the speed of light?
+* How does the angle of incidence affect the path of light as it passes through a medium?
+* What is total internal reflection and how does it differ from regular reflection?
+* What are some real-world applications of total internal reflection?
+* How can I calculate the critical angle for a given pair of media?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Gyroscopic effect explains why a spinning top does not fall over; the angular momentum of the spinning object keeps it upright.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the gyroscopic effect and its role in keeping a spinning top upright:
+
+* What is angular momentum, and how does it relate to the spinning top?
+* How does the gyroscopic effect differ from other forces that act on the spinning top, such as gravity or friction?
+* Can you demonstrate the gyroscopic effect with a simple experiment or animation?
+* How does the speed and direction of the spinning top's rotation affect its stability?
+* Are there any real-world applications
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Venturi effect describes how fluid speed increases and pressure decreases in areas where the flow passage narrows.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the Venturi effect:
+
+* What is a fluid, and how does its speed and pressure change in different situations?
+* How does the shape of a flow passage affect the flow of a fluid through it?
+* Can you give an example of a situation where the Venturi effect occurs in real life?
+* How does the Venturi effect relate to other concepts in physics, such as Bernoulli's principle or the conservation of energy?
+* Is there a way to calculate or predict the increase in fluid speed and decrease in pressure due to
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Superposition in quantum mechanics allows particles such as electrons to exist in multiple states simultaneously until measured.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about superposition in quantum mechanics:
+
+* What does it mean for a particle to exist in multiple states simultaneously?
+* How can a particle be in multiple places at once?
+* What happens when we measure a particle that is in a superposition state?
+* Is superposition only applicable to small particles like electrons, or can larger objects also exhibit this behavior?
+* Are there any practical applications of superposition in technology or everyday life?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The photoelectric effect demonstrates that light can be thought of as particles (photons) when it causes electrons to be ejected from a metal surface.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the photoelectric effect as a newcomer to the topic:
+
+* What is the photoelectric effect?
+* How do photons eject electrons from a metal surface?
+* What is the relationship between the energy of the photons and the energy of the ejected electrons?
+* Can you explain the difference between thinking of light as waves versus thinking of it as particles (photons)?
+* How does the photoelectric effect support or challenge our understanding of the nature of light and its interactions with matter?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Liquid crystals, found in LCD screens, change their optical properties in response to electric fields, allowing them to display images.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about liquid crystals and their use in LCD screens:
+
+* What are liquid crystals, and how do they differ from solid crystals?
+* How do electric fields affect the optical properties of liquid crystals?
+* What are the advantages of using liquid crystals in LCD screens compared to other display technologies?
+* How do the liquid crystals in an LCD screen actually change their orientation in response to electric fields?
+* Can liquid crystals be used in other applications beyond LCD screens, and
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Stefan-Boltzmann law states that the total energy radiated per unit surface area of a black body is proportional to the fourth power of its temperature.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about the Stefan-Boltzmann law:
+
+* What is a black body?
+* What is meant by "total energy radiated"?
+* Why is the temperature raised to the fourth power?
+* How does the Stefan-Boltzmann law relate to other laws of thermodynamics?
+* Are there any real-world applications of the Stefan-Boltzmann law?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Rayleigh scattering is why the sky is blue; molecules in the atmosphere scatter sunlight, and blue light is scattered more than other colors due to its shorter wavelength.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might pop up in your head as a human encountering the concept of Rayleigh scattering for the first time:
+
+* What is Rayleigh scattering?
+* Why does the atmosphere scatter sunlight?
+* Why is blue light scattered more than other colors?
+* How does the scattering of light make the sky appear blue?
+* Is Rayleigh scattering the only reason the sky appears blue, or are there other factors involved?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The principle of conservation of energy states that energy cannot be created or destroyed, only transformed from one form to another.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for someone who is new to the concept of conservation of energy:
+
+* What does "energy" mean in this context?
+* How does energy get transformed from one form to another?
+* Are there any examples of energy transformation that I can relate to?
+* Does this principle apply to all types of energy (e.g. thermal, kinetic, potential)?
+* Can you provide an example of a situation where energy is conserved, but its form is changed?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Polarized sunglasses reduce glare by blocking light waves oriented in certain directions.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about polarized sunglasses and their effect on glare:
+
+* How do polarized sunglasses block light waves?
+* What are the certain directions that polarized sunglasses block?
+* Why does blocking light waves in certain directions reduce glare?
+* Are all types of sunglasses polarized, or just some?
+* Can I wear polarized sunglasses for extended periods of time without harming my eyes?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The triple point of a substance is the unique temperature and pressure at which its solid, liquid, and gas phases coexist in equilibrium.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might be helpful in learning about the triple point of a substance:
+
+* What is meant by "equilibrium" in this context?
+* How does the triple point relate to the phase diagram of a substance?
+* What are some examples of substances that exhibit a triple point?
+* How does the triple point change with changes in pressure or temperature?
+* Can the triple point be affected by the presence of impurities or other substances?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Heisenberg Uncertainty Principle states that it is impossible to simultaneously know the exact position and momentum of a particle.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might be helpful in learning about the Heisenberg Uncertainty Principle:
+
+* What does it mean to know the exact position and momentum of a particle?
+* Why is it impossible to simultaneously know these two properties?
+* Are there any exceptions to this principle, or does it apply universally to all particles?
+* How does the uncertainty principle relate to the concept of wave-particle duality?
+* What implications does the uncertainty principle have for our understanding of the behavior of particles at the quantum level?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Laminar flow is characterized by smooth, constant fluid motion, whereas turbulent flow is chaotic and irregular.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for someone new to the concept of laminar and turbulent flow:
+
+* What does "smooth, constant fluid motion" mean in the context of laminar flow?
+* How does turbulent flow differ from laminar flow in terms of its chaotic and irregular nature?
+* Can you provide an example of a situation where laminar flow might occur, and another where turbulent flow might occur?
+* How do the velocity and pressure of a fluid change during transition from laminar to turbulent flow?
+*
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Raman effect is the inelastic scattering of photons by molecules, which results in a change in their energy and is used to study vibrational, rotational, and other low-frequency modes in a system.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the Raman effect as a human who has never encountered it before:
+
+* What is inelastic scattering, and how does it differ from elastic scattering?
+* What are the characteristics of the photons that are scattered in the Raman effect, and how do they change after scattering?
+* How does the Raman effect allow us to study vibrational, rotational, and other low-frequency modes in a system?
+* What kinds of systems can the Raman effect be used to study, and what are some
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Ferrofluids are liquids that become strongly magnetized in the presence of a magnetic field due to the suspension of magnetic nanoparticles.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about ferrofluids:
+
+* What are magnetic nanoparticles and how do they behave in a liquid?
+* How does the presence of a magnetic field affect the behavior of the nanoparticles in the liquid?
+* What kind of properties do ferrofluids exhibit that are different from regular liquids?
+* Can ferrofluids be used in any practical applications, such as in technology or industry?
+* How do the properties of ferrofluids change when the strength of the magnetic field is increased or decreased?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A Foucault pendulum demonstrates the rotation of the Earth through its apparent change in swinging direction over time.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the Foucault pendulum and its demonstration of the Earth's rotation:
+
+* What is a Foucault pendulum?
+* How does the pendulum's swing appear to change direction over time?
+* Why does the pendulum's swing appear to change direction?
+* How can the Foucault pendulum demonstrate the rotation of the Earth?
+* What are some real-world applications of the Foucault pendulum's demonstration of the Earth'
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Supercooling occurs when a liquid is cooled below its freezing point without becoming a solid.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might be helpful in learning about supercooling:
+
+* What does it mean for a liquid to be "below its freezing point"?
+* How is supercooling different from regular cooling?
+* What conditions are necessary for supercooling to occur?
+* Can any liquid be supercooled, or are certain liquids more susceptible to this phenomenon?
+* What are some real-world applications or examples of supercooling?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Hall effect is the generation of a voltage across an electrical conductor, transverse to an electric current in the conductor and a magnetic field perpendicular to the current.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about the Hall effect:
+
+* What is the Hall effect used for?
+* How does the magnetic field affect the voltage generated?
+* What types of materials exhibit the Hall effect?
+* Can the Hall effect be used to measure the strength of a magnetic field?
+* How does the direction of the current and magnetic field affect the voltage generated?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Gibbs free energy change of a process predicts whether a reaction will proceed spontaneously at constant temperature and pressure.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might be helpful for someone new to the concept of Gibbs free energy change and its relationship to spontaneous reactions:
+
+* What is Gibbs free energy, and how is it related to the energy changes in a reaction?
+* What does it mean for a reaction to be spontaneous, and how does the Gibbs free energy change determine whether a reaction will proceed spontaneously?
+* How does the temperature and pressure of a system affect the Gibbs free energy change, and why do these factors matter in determining whether a reaction will proceed spontaneously
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Optical tweezers use a highly focused laser beam to manipulate microscopic particles, including cells, without physical contact.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about optical tweezers:
+
+* How does the laser beam manipulate microscopic particles?
+* What kind of particles can be manipulated with optical tweezers?
+* How small can the particles be that are manipulated with optical tweezers?
+* Is the manipulation of particles with optical tweezers gentle or can it cause damage to the particles?
+* Are there any limitations or challenges to using optical tweezers in certain situations or applications?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Zeeman effect is the splitting of a spectral line into several components in the presence of a static magnetic field.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about the Zeeman effect:
+
+* What is a spectral line and how does it relate to light?
+* What is a static magnetic field and how does it interact with light?
+* How does the Zeeman effect cause a spectral line to split into multiple components?
+* What are some examples of situations where the Zeeman effect occurs in nature or in technology?
+* How does the strength and direction of the magnetic field affect the splitting of the spectral line?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Quantum dots are semiconductor particles a few nanometers in size, having optical and electronic properties that differ from larger particles due to quantum mechanics.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about quantum dots:
+
+* What are quantum mechanics and how do they affect the properties of quantum dots?
+* How do the optical and electronic properties of quantum dots differ from those of larger particles?
+* What are some potential applications of quantum dots in technology and industry?
+* How are quantum dots synthesized and fabricated?
+* Can quantum dots be used for biomedical imaging and sensing applications?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Seebeck effect describes the conversion of temperature differences directly into electricity at the junction of different types of metal.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about the Seebeck effect:
+
+* What types of metals are involved in the Seebeck effect?
+* How does the Seebeck effect convert temperature differences into electricity?
+* What are the conditions necessary for the Seebeck effect to occur?
+* What are some practical applications of the Seebeck effect?
+* How efficient is the Seebeck effect in converting temperature differences into electricity?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Doppler Effect not only affects sound waves but also light waves, which is why stars moving away from us appear redder (redshift).", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might pop up in your head when learning about the Doppler Effect and its effect on light waves:
+
+* What is the Doppler Effect and how does it work?
+* Why do stars moving away from us appear redder?
+* How does the Doppler Effect affect the color of light emitted by moving objects?
+* Are there any other examples of the Doppler Effect in action, aside from redshift in stars?
+* Can the Doppler Effect be observed in everyday life, or is it only noticeable in extreme cases like starlight
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A soap bubble shows colors due to thin-film interference, where light waves reflected from the outer and inner surfaces of the bubble film interfere with each other.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the physics of soap bubbles:
+
+* What is thin-film interference?
+* How do light waves reflect off the outer and inner surfaces of the bubble film?
+* What causes the colors to appear on the surface of the bubble?
+* Why does the bubble film act like a mirror for light waves?
+* Can I observe this phenomenon in real life, and if so, how can I see it?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Bioluminescence in deep-sea creatures is a form of chemiluminescence where chemical reactions within the organism produce light.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about bioluminescence in deep-sea creatures:
+
+* What are the chemical reactions involved in bioluminescence?
+* How do deep-sea creatures use bioluminescence to communicate or attract mates?
+* What are some examples of deep-sea creatures that exhibit bioluminescence?
+* How does the environment affect the production and visibility of bioluminescence in deep-sea creatures?
+* Are there any other forms of lum
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The principle of Archimedes explains not only why ships float but also how submarines can dive and surface by changing their buoyancy.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the principle of Archimedes:
+
+* What is buoyancy?
+* How does the principle of Archimedes relate to ship floating?
+* How do submarines use the principle of Archimedes to dive and surface?
+* What are some real-world applications of the principle of Archimedes?
+* Can you explain the concept of displacement and how it relates to buoyancy and the principle of Archimedes?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Cryogenics involves the study of the behavior of materials at very low temperatures, often leading to unusual physical properties like superconductivity.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for a human who is encountering the concept of cryogenics for the first time:
+
+* What is superconductivity and how does it relate to cryogenics?
+* How low do temperatures need to be for a material to exhibit unusual physical properties?
+* What kinds of materials can exhibit these unusual properties at low temperatures?
+* Are there any practical applications for cryogenics in technology or industry?
+* How do researchers achieve such low temperatures in their experiments, and what challenges do they face in doing so?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Thermoelectric materials generate electricity directly from temperature differences through the Seebeck effect, which can be used for power generation or cooling.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about thermoelectric materials and the Seebeck effect:
+
+* What are thermoelectric materials?
+* How does the Seebeck effect work?
+* What kind of temperature differences are needed for the Seebeck effect to occur?
+* Can you give an example of a real-world application of thermoelectric materials?
+* How efficient is the process of generating electricity through the Seebeck effect compared to other methods?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Non-Newtonian fluids change their viscosity in response to applied stress, behaving as a liquid under low stress and as a solid under high stress.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about non-Newtonian fluids:
+
+* What are some examples of non-Newtonian fluids?
+* How do non-Newtonian fluids change their viscosity in response to applied stress?
+* Why do non-Newtonian fluids behave as a liquid under low stress and as a solid under high stress?
+* How does the viscosity of a non-Newtonian fluid compare to that of a Newtonian fluid?
+* What are some practical applications of non-Newtonian fluids?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The greenhouse effect, while necessary for life on Earth by trapping heat in the atmosphere, is exacerbated by increased levels of greenhouse gases, leading to global warming.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for a human who is encountering the concept of the greenhouse effect and global warming for the first time:
+
+* What are greenhouse gases?
+* How do greenhouse gases trap heat in the atmosphere?
+* Why is the greenhouse effect necessary for life on Earth?
+* What causes increased levels of greenhouse gases in the atmosphere?
+* How does global warming impact the environment and human societies?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Magnus effect explains how spinning balls or cylinders curve away from their principal flight path due to differences in air pressure.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the Magnus effect:
+
+* What is the principle behind the Magnus effect?
+* How does the spin of a ball or cylinder create differences in air pressure?
+* Can the Magnus effect be observed in other objects besides balls and cylinders?
+* How does the speed and direction of the object affect the Magnus effect?
+* Are there any real-world applications of the Magnus effect, such as in sports or engineering?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Fiber optic cables work by bouncing light off the walls of a very thin glass or plastic tube, allowing for high-speed data transmission over long distances.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about fiber optic cables:
+
+* How does the light get into the tube in the first place?
+* What material are the walls of the tube made of, and why is that important?
+* How does the light bounce off the walls without being absorbed or lost?
+* Can the signal be affected by any external factors, such as temperature or humidity?
+* How do fiber optic cables compare to other methods of data transmission, such as copper wires or wireless communication?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Venturi effect causes fluid pressure to decrease as the fluid speeds up when flowing through a narrowed section of a tube.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the Venturi effect:
+
+* What is the Venturi effect?
+* How does the fluid speed up when flowing through a narrowed section of a tube?
+* Why does the fluid pressure decrease as the fluid speeds up?
+* What are some real-world applications of the Venturi effect?
+* How can I visualize or demonstrate the Venturi effect to better understand it?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Phase diagrams illustrate the conditions of temperature and pressure under which different phases (solid, liquid, gas) of a substance exist.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about phase diagrams:
+
+* What are the different phases of a substance?
+* How do temperature and pressure affect the phase of a substance?
+* What is the relationship between the three phases (solid, liquid, gas) of a substance?
+* How does the phase diagram change when different variables are introduced (e.g. impurities, pressure changes)?
+* Can you give an example of a common substance and its phase diagram?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Superposition principle in physics states that, for all linear systems, the net response at a given place and time caused by two or more stimuli is the sum of the responses that would have been caused by each stimulus individually.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about the superposition principle in physics:
+
+* What does "linear system" mean in this context?
+* Can you give an example of a situation where the superposition principle applies?
+* How does the principle of superposition relate to the concept of waves?
+* Are there any limitations or restrictions on the applicability of the superposition principle?
+* How can the superposition principle be used to predict the behavior of complex physical systems?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Birefringence is an optical property of a material having a refractive index that depends on the polarization and propagation direction of light.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about birefringence:
+
+* What is refractive index, and how does it relate to the speed of light?
+* What is polarization, and how does it affect the way light behaves?
+* What is propagation direction, and how does it impact the behavior of light?
+* How does birefringence differ from other optical properties, such as refraction or diffusion?
+* Are there any real-world applications of birefringence, and if so, what are they?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "A Schrödinger's cat thought experiment illustrates the concept of superposition in quantum mechanics, suggesting a cat in a box could be simultaneously alive and dead until observed.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for a human encountering the concept of Schrödinger's cat for the first time:
+
+* What is superposition in quantum mechanics?
+* Who is Schrödinger and why did he come up with this thought experiment?
+* How can something be both alive and dead at the same time?
+* What does it mean to observe the cat in the box?
+* Does this have any real-world implications or applications?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Leidenfrost effect occurs when a liquid, in near contact with a mass significantly hotter than the liquid's boiling point, produces an insulating vapor layer keeping that liquid from boiling rapidly.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the Leidenfrost effect:
+
+* What is the Leidenfrost effect?
+* How does the vapor layer form?
+* Why does the vapor layer prevent rapid boiling?
+* What types of liquids exhibit the Leidenfrost effect?
+* Are there any practical applications of the Leidenfrost effect?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Chromatic aberration in lenses is a type of distortion in which there is a failure of a lens to focus all colors to the same convergence point, occurring because lenses have a different refractive index for different wavelengths of light.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about chromatic aberration in lenses:
+
+* What is refractive index and how does it relate to lenses?
+* Why do different wavelengths of light affect the focusing of a lens?
+* How does chromatic aberration differ from other types of lens distortion?
+* Can chromatic aberration be corrected or mitigated in some way?
+* Are there certain types of lenses or materials that are more prone to chromatic aberration than others?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The piezoelectric effect causes certain materials to generate an electric charge in response to applied mechanical stress.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about the piezoelectric effect:
+
+* What materials exhibit the piezoelectric effect?
+* How does the application of mechanical stress cause an electric charge to be generated?
+* Can the piezoelectric effect be reversed, meaning can an electric charge cause mechanical stress on a material?
+* What are some common applications of the piezoelectric effect in technology and industry?
+* Are there any limitations or challenges associated with using the piezoelectric effect in practical applications?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Sonoluminescence is the phenomenon by which sound waves in a liquid create small pockets of gas that collapse, emitting short bursts of light.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might be useful for learning about sonoluminescence:
+
+* How do sound waves create pockets of gas in a liquid?
+* What kind of liquids can exhibit sonoluminescence?
+* How do the properties of the sound wave (e.g. frequency, amplitude) affect the emission of light?
+* Can sonoluminescence be observed in other types of media besides liquids (e.g. solids, gases)?
+* Are there any practical applications of sonoluminescence, such as in medical
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Mpemba effect is the counterintuitive observation that hot water can sometimes freeze faster than cold water under certain conditions.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the Mpemba effect:
+
+* What are the "certain conditions" under which hot water can freeze faster than cold water?
+* Is this effect only observed in water, or does it apply to other liquids as well?
+* Can you provide examples or demonstrations of the Mpemba effect in action?
+* How does the Mpemba effect relate to the laws of thermodynamics?
+* Are there any practical applications or implications of the Mpemba effect in fields such as engineering or science?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Fresnel lenses use multiple concentric rings to focus light, allowing for a much thinner lens that can be used in lighthouses and projectors.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful in learning about Fresnel lenses:
+
+* How do the concentric rings work together to focus light?
+* What is the advantage of using a Fresnel lens over a traditional lens?
+* Can Fresnel lenses be used for other applications beyond lighthouses and projectors?
+* How does the thickness of a Fresnel lens compare to a traditional lens of the same focal length?
+* Are there any limitations or challenges when using Fresnel lenses in certain situations?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Coriolis effect influences the flow of air and water across the Earth, causing the direction of winds and ocean currents to curve relative to the Earth's rotation.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the Coriolis effect:
+
+* What is the Coriolis effect?
+* How does the Earth's rotation affect the flow of air and water?
+* Why do winds and ocean currents curve?
+* How does the Coriolis effect differ between the Northern and Southern Hemispheres?
+* What are some real-world examples of the Coriolis effect in action?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Quantum tunneling allows particles like electrons to pass through a barrier that they classically shouldn't be able to, a principle used in the operation of tunnel diodes.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about quantum tunneling:
+
+* What is quantum tunneling?
+* How does quantum tunneling work?
+* What kind of particles can use quantum tunneling?
+* What is the purpose of tunnel diodes?
+* Can quantum tunneling be applied to other areas beyond electronics?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Kelvin-Planck statement of the second law of thermodynamics states that it is impossible to devise a cyclically operating device whose sole effect is the absorption of heat from a reservoir and the complete conversion of that heat into work.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about the Kelvin-Planck statement of the second law of thermodynamics:
+
+* What is a cyclically operating device?
+* What is a reservoir in this context?
+* What does it mean for a device to absorb heat from a reservoir?
+* How does the device convert heat into work?
+* Why is it impossible to devise such a device?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Metamaterials are engineered to have properties not found in naturally occurring materials, such as negative refractive index, enabling applications like cloaking devices.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for someone new to the concept of metamaterials:
+
+* What are negative refractive indexes and how do they differ from positive refractive indexes?
+* How do metamaterials achieve negative refractive indexes?
+* What are some potential applications of cloaking devices made possible by metamaterials?
+* How do metamaterials interact with light and other forms of electromagnetic radiation?
+* Are there any limitations or challenges associated with using metamaterials in practical applications?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The gyroscopic effect stabilizes spinning objects, making it difficult to change the orientation of their rotation axis, a principle used in bicycles and spacecraft navigation.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the gyroscopic effect:
+
+* What is a gyroscope and how does it work?
+* How does the gyroscopic effect stabilize spinning objects?
+* Can you give an example of how the gyroscopic effect is used in bicycles?
+* How does the gyroscopic effect apply to spacecraft navigation?
+* Are there any other applications of the gyroscopic effect beyond bicycles and spacecraft?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Brewster's angle is the angle of incidence at which light with a particular polarization is perfectly transmitted through a transparent dielectric surface, with no reflection.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about Brewster's angle:
+
+* What is the definition of "polarization" in the context of light?
+* How does the angle of incidence affect the transmission of light through a dielectric surface?
+* What is the difference between reflection and transmission of light?
+* How does Brewster's angle relate to the refractive index of the dielectric surface?
+* Are there any real-world applications of Brewster's angle in optics or photonics?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Stefan-Boltzmann law relates the energy radiated by a black body to the fourth power of its temperature, explaining why objects at higher temperatures emit more radiation.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure! Here are five questions that might be useful for learning about the Stefan-Boltzmann law:
+
+* What is a black body?
+* What is meant by "temperature" in this context?
+* How does the Stefan-Boltzmann law relate to the emission of radiation?
+* What is the significance of the fourth power of temperature in the law?
+* Are there any real-world applications of the Stefan-Boltzmann law?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Critical damping occurs in an oscillating system when the damping is strong enough to return the system to equilibrium in the shortest time without oscillating.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about critical damping:
+
+* What is an oscillating system?
+* What is damping, and how does it affect an oscillating system?
+* What is equilibrium, and how does it relate to critical damping?
+* How can critical damping be achieved in an oscillating system?
+* Are there any real-world examples of critical damping in action?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The photoelectric effect demonstrates that light can eject electrons from a metal surface, suggesting that light behaves as both a wave and a particle.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the photoelectric effect as a newcomer to the topic:
+
+* What is the photoelectric effect?
+* How does light eject electrons from a metal surface?
+* Why does this suggest that light behaves as both a wave and a particle?
+* What are the implications of this phenomenon for our understanding of light and matter?
+* How has the discovery of the photoelectric effect contributed to the development of modern physics?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Optical fibers transmit information using pulses of light, taking advantage of total internal reflection to guide light along the fiber's length without significant loss.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about optical fibers and total internal reflection:
+
+* What is total internal reflection and how does it work?
+* How do optical fibers use total internal reflection to guide light along their length?
+* What are the advantages of using optical fibers to transmit information?
+* How do optical fibers compare to other methods of information transmission, such as copper wires or radio waves?
+* What are some common applications of optical fibers in everyday life?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Bernoulli principle explains why aircraft wings are shaped to create lift: faster-moving air above the wing reduces pressure, lifting the wing upward.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for a human who is new to the Bernoulli principle and its application to aircraft wings:
+
+* How does the shape of the wing affect the speed of the air flowing over it?
+* What is the difference in pressure between the upper and lower surfaces of the wing?
+* How does the reduction in pressure above the wing create lift?
+* What is the relationship between the angle of attack of the wing and the amount of lift generated?
+* How does the airfoil shape of the wing contribute to the creation of lift?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Superconductors are materials that can conduct electricity with zero resistance below a certain temperature, leading to applications like magnetic levitation.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about superconductors:
+
+* What is meant by "zero resistance"?
+* How does the temperature factor come into play?
+* What are some examples of applications that use magnetic levitation?
+* How do superconductors compare to regular conductors in terms of efficiency and cost-effectiveness?
+* Can superconductors be used for energy storage or generation, and if so, how?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The Doppler radar measures the speed of objects, such as vehicles or weather fronts, by observing the change in frequency of the returned radar signal due to the Doppler effect.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the Doppler radar statement as a human with no previous knowledge:
+
+* What is the Doppler effect?
+* How does the Doppler radar measure the speed of objects?
+* What kind of objects can the Doppler radar measure the speed of?
+* How accurate is the Doppler radar in measuring speed?
+* Are there any limitations or restrictions on using the Doppler radar?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Thermal expansion is the tendency of matter to change its shape, area, and volume in response to a change in temperature, explaining why bridges have expansion joints.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about thermal expansion:
+
+* What is thermal expansion, and how does it work?
+* Why do bridges need expansion joints, and how do they help?
+* What other materials or structures are affected by thermal expansion?
+* How does thermal expansion relate to phase transitions, such as melting or boiling?
+* Can thermal expansion be used in any practical applications, such as energy harvesting or cooling systems?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The concept of wave-particle duality in quantum mechanics suggests that all particles exhibit both wave-like and particle-like properties, depending on the experimental setup.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for someone new to the concept of wave-particle duality in quantum mechanics:
+
+* What does it mean for a particle to exhibit wave-like properties?
+* How can a particle also exhibit particle-like properties?
+* What determines whether a particle behaves like a wave or a particle in a given experiment?
+* Are there any specific experiments that demonstrate wave-particle duality?
+* How does wave-particle duality relate to other concepts in quantum mechanics, such as superposition and entanglement?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Geiger counters detect ionizing radiation by measuring the ionization of a gas within a tube, indicating the presence of radioactive particles.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about Geiger counters and ionizing radiation:
+
+* What is ionizing radiation?
+* How does a Geiger counter measure the ionization of a gas?
+* What kind of gas is used in a Geiger counter?
+* How do radioactive particles interact with the gas in a Geiger counter?
+* Can Geiger counters detect all types of radiation, or are there certain limitations?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "The principle of a heat engine involves converting thermal energy into mechanical work, as seen in car engines and power plants, governed by the laws of thermodynamics.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for learning about the principle of a heat engine:
+
+* What is thermal energy?
+* What is mechanical work?
+* What are the laws of thermodynamics?
+* How does a heat engine convert thermal energy into mechanical work?
+* What are some examples of heat engines and how do they work?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "In ferromagnetic materials, domains align to strengthen a magnetic field when magnetized, a principle used in the design of permanent magnets and electronic devices.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that could be useful in learning about the physics statement you provided:
+
+* What are ferromagnetic materials?
+* What are domains in ferromagnetic materials?
+* How do domains align to strengthen a magnetic field?
+* What is the difference between permanent magnets and electronic devices?
+* Can you give an example of a device that uses this principle?
+
+[INST]Imagine you are a human, this is the first time you are coming across this Physics statement, you have no previous knowledge of it "Electromagnetic induction is the process by which a changing magnetic field within a coil generates an electric current through the coil, fundamental to the operation of generators and transformers.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them[/INST]  Sure, here are five questions that might be useful for a human who is encountering the concept of electromagnetic induction for the first time:
+
+* What is a changing magnetic field, and how does it differ from a constant magnetic field?
+* How does the changing magnetic field generate an electric current within the coil?
+* What is the role of the coil in electromagnetic induction, and how does its geometry affect the process?
+* Can you give an example of a device that uses electromagnetic induction, such as a generator or transformer?
+* How does electromagnetic induction relate to
+
