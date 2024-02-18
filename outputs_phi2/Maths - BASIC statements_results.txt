@@ -1,0 +1,872 @@
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "5 + 3 x 2 = 11", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does the symbol '+' mean?
+2. What does the symbol 'x' mean?
+3. How do I know when to use multiplication and addition together?
+4. Can you give an example of how to solve this equation?
+5. Is there a specific order in which to perform operations in an equation like this one?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "1/2 + 1/3 = 5/6", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 
+- What does '+' mean?
+- What does '/' mean?
+- How do I add fractions together?
+- How do I find equivalent fractions?
+- Can you give an example using these symbols and numbers?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "a^2 + b^2 = c^2", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'a', 'b' and 'c' represent?
+2. How do I know if a triangle is right-angled using this equation?
+3. Can I use this equation for any type of triangle?
+4. Are there other ways to prove that a triangle is right-angled?
+5. Can I apply this equation to solve real-world problems involving triangles?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "12 inches = 1 foot", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 12 inches equal?
+2. How many feet are there in 12 inches?
+3. Can I convert other units using this equation?
+4. Are there any exceptions to this conversion rule?
+5. Is this formula applicable for all measurements and not just length?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "x + 7 = 10", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'x' represent?
+2. How do I isolate 'x'?
+3. What operation should I use to solve for 'x'?
+4. Can I apply the same method to other similar equations?
+5. Are there any special rules or properties I need to know when solving for 'x'?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The angles of a triangle add up to 180°", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a triangle?
+2. How do I know if a shape is a triangle?
+3. What does "180°" mean?
+4. Why do the angles of a triangle always add up to 180°?
+5. Can you give an example of how this applies in real life?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "If a = b and b = c, then a = c (Transitive property)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'a' represent? 
+2. What does 'b' represent? 
+3. What does 'c' represent? 
+4. How do I know if 'a' equals 'b' and 'b' equals 'c'? 
+5. Can you give an example of how this equation works?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The area of a rectangle is length × width", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a rectangle?
+2. How do I calculate its area?
+3. Can you give an example of how to use this formula?
+4. Are there any special cases where this formula doesn't work?
+5. Is there another way to find the area of a rectangle?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "2^3 = 8", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does '^' mean?
+2. What does '3' represent?
+3. What does '8' represent?
+4. How do I interpret 2^3?
+5. Can you provide an example of another exponentiation equation?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The circumference of a circle is 2πr", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does π represent?
+2. How do I calculate the radius (r) of a circle given its circumference?
+3. Can you provide an example of how to use the formula for calculating the circumference of a circle?
+4. Are there any other formulas related to circles and their properties?
+5. Where can I find more resources on understanding the concept of circumference and its applications?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "An even number can be divided by 2 without leaving a remainder", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'even' mean?
+2. How do I determine if a number is divisible by another number?
+3. Can an odd number also be divided by 2 without leaving a remainder?
+4. Are there any other rules for determining if a number is even or odd?
+5. How can I use this information to solve problems involving even numbers?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The median of a set of numbers is the middle value when they are ordered from least to greatest", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does'median' mean?
+2. How do I find the median of a set of numbers?
+3. Can you give an example of finding the median?
+4. Are there any special cases for finding the median?
+5. How can knowing how to find the median help me in real life situations?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The sum of the probabilities of all possible outcomes in an experiment is 1", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: - What does probability mean?
+- How can we calculate the probability of an event?
+- Can we use probability to make predictions?
+- Are there any real-world applications for probability?
+- How do we know if our calculations are correct?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A square's perimeter is four times the length of one side", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a square?
+2. How do I calculate the perimeter of a square?
+3. Can you give an example of how to use this equation?
+4. Are there any other formulas related to squares and their perimeters?
+5. How can I apply this formula in real-world situations?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Multiplying a number by its reciprocal equals 1", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does multiplying a number by its reciprocal mean?
+2. How can I find the reciprocal of a number?
+3. Can any number multiplied by its reciprocal equal 1?
+4. Are there any exceptions to this rule?
+5. How can I apply this concept in real-life situations?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Angles around a point add up to 360°.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'add up' mean? 
+2. How many degrees are there in a circle? 
+3. What is a point? 
+4. Can angles exist without a point? 
+5. Why do angles around a point add up to 360°?
+
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The volume of a cube is given by side³.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does'side' mean?
+2. How do I calculate the volume of a cube?
+3. Can you give an example of how to use this equation?
+4. Are there any other shapes for which we can use this formula?
+5. Is there a way to find the length of one side if I know the volume of the cube?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A percentage represents a fraction of 100.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'percentage' mean?
+2. How do I calculate percentages?
+3. Can you give an example of how percentages work?
+4. When should I use percentages and when shouldn't I?
+5. Are there any common mistakes people make when working with percentages?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "To find the average of a set of numbers, sum the numbers and divide by the count.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'average' mean?
+2. How do I calculate the sum of a set of numbers?
+3. How do I count the number of items in a set?
+4. How do I divide a sum by a count?
+5. Can you provide an example of how to use this equation?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The number of diagonals in a polygon can be found using the formula n(n-3)/2, where n is the number of sides.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'polygon' mean? 
+2. How do I find the number of sides for a polygon? 
+3. Can you give an example of how to use the formula? 
+4. Are there any exceptions to the formula? 
+5. Is there another way to calculate the number of diagonals in a polygon?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A polygon with all sides and angles equal is called a regular polygon.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a polygon?
+2. How many sides does a regular polygon have?
+3. What is an angle?
+4. How do I calculate the measure of each interior angle in a regular polygon?
+5. Can you give examples of regular polygons?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The concept of borrowing in subtraction explains how to subtract one number from another when the top number is smaller than the bottom number in a given place value.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "borrowing" mean?
+2. How do I know when to borrow?
+3. Can you give an example of borrowing in subtraction?
+4. Is there any other way to solve subtraction problems without borrowing?
+5. Are there any tips or tricks for remembering when to borrow?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Doubling the dimensions of a cube quadruples its surface area but increases its volume by eight times.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does doubling the dimensions of a cube mean? 
+2. How does quadrupling the surface area affect the cube's shape and size? 
+3. Why does increasing the volume by eight times happen when we double the dimensions? 
+4. Can you provide an example with numbers to illustrate these concepts? 
+5. Are there any other properties or relationships between the surface area, volume, and dimensions of a cube that I should know about?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The greatest common divisor (GCD) of two numbers is the largest number that divides both of them without leaving a remainder.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does GCD stand for?
+2. How do I find the GCD of two numbers?
+3. Can you give an example of finding the GCD?
+4. Are there any real-world applications of GCD?
+5. Is there a formula or algorithm to calculate GCD?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "An acute angle is an angle smaller than 90°.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'angle' mean? 
+2. How do I measure angles? 
+3. What is a right angle and how does it differ from other types of angles? 
+4. Can you give examples of acute angles? 
+5. How can I use acute angles in real life situations?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A reflex angle is greater than 180° but less than 360°.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "greater than" mean?
+2. What does "less than" mean?
+3. What is an angle?
+4. How do I measure angles?
+5. Can you give me some examples of reflex angles?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The decimal system is based on powers of 10.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'decimal' mean? 
+2. How does the decimal system work? 
+3. Why is it called 'powers of 10'? 
+4. Can you give an example of how the decimal system works with numbers? 
+5. How can I use the decimal system in my daily life?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Multiples of 9 add up to 9 when their digits are summed.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does'multiples' mean?
+2. How do I find multiples of 9?
+3. Can you give an example of multiples of 9?
+4. How can I check if a number is a multiple of 9?
+5. Why do multiples of 9 add up to 9 when their digits are summed?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The concept of rounding numbers to the nearest ten, hundred, etc., simplifies calculations and estimations.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "rounding" mean?
+2. How do I round numbers to the nearest ten, hundred, etc.?
+3. Why would I want to round numbers?
+4. Can you give an example of how to round numbers?
+5. Are there any rules for rounding numbers?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The difference between the circumference and diameter of any circle is known as π (Pi).", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'π' stand for?
+2. How can I calculate the circumference and diameter of a circle using π?
+3. Can you give an example of how π is used in real-world applications?
+4. Are there different values for π depending on the context?
+5. Is there a formula to find the area of a circle using π?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A hexagon has six sides and six angles.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a hexagon?
+2. How many sides does a hexagon have?
+3. How many angles does a hexagon have?
+4. Can you draw a hexagon?
+5. Are there any real-world examples of hexagons?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The Associative Property states that (a + b) + c = a + (b + c) for addition.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does the Associative Property mean? 
+2. How can I apply the Associative Property to solve problems? 
+3. Can you give an example of how the Associative Property works with numbers? 
+4. Are there any exceptions or limitations to the Associative Property? 
+5. How does understanding the Associative Property help me in other areas of math?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Subtracting a negative number is the same as adding its positive counterpart.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does subtracting a negative mean?
+2. How can I add a positive number to a negative one?
+3. Can you give an example of how to apply this rule?
+4. Are there any exceptions to this rule?
+5. How can I use this rule in real-life situations?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The Distributive Property combines addition and multiplication, stating a(b + c) = ab + ac.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'a' represent? 
+2. What does 'b' represent? 
+3. What does 'c' represent? 
+4. How do I apply the distributive property? 
+5. Can you give an example of how to use the distributive property?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The concept of place value indicates the value of a digit based on its position within a number.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'place value' mean?
+2. How does the position of a digit affect its value?
+3. Can you give an example of how place value works?
+4. Why is understanding place value important in mathematics?
+5. Are there any real-world applications for using place value?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Identifying prime numbers is fundamental to number theory.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What are prime numbers?
+2. How can I identify if a number is prime?
+3. Can you give me some examples of prime numbers?
+4. Are there any patterns or rules for identifying prime numbers?
+5. Why are prime numbers important in mathematics and other fields?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A composite number can be factored into smaller integers, excluding 1 and the number itself.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: - What does 'composite' mean?
+- How do I know if a number is composite?
+- Can you give an example of a composite number?
+- How do I factorize a composite number?
+- Is there any other way to find out if a number is composite?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The concept of symmetry in shapes includes reflectional and rotational symmetry.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does'symmetry' mean?
+2. How can I identify if a shape has reflectional symmetry?
+3. Can you give an example of a shape with rotational symmetry?
+4. How do I calculate the number of lines of symmetry for a given shape?
+5. Are there any real-world applications of symmetry in geometry?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The least common multiple (LCM) of two numbers is the smallest number that is a multiple of both.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does LCM stand for?
+2. How do I find the LCM of two numbers?
+3. Can you give an example of finding the LCM?
+4. Is there a formula to calculate the LCM?
+5. Are there any real-world applications for finding the LCM?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Converting between fractions, decimals, and percentages is a fundamental skill in mathematics.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a fraction?
+2. What is a decimal?
+3. What is a percentage?
+4. How do I convert a fraction to a decimal?
+5. How do I convert a decimal to a percentage?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A rectangle's area is calculated by multiplying its length by its width.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a rectangle?
+2. How do I calculate the area of a rectangle?
+3. Can you give an example of how to use this formula?
+4. Are there any other formulas related to rectangles?
+5. How can I apply this concept in real-life situations?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Knowing the days of the week involves modular arithmetic.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is modular arithmetic?
+2. How does it relate to the days of the week?
+3. Can you give an example of how it works with the days of the week?
+4. Are there any other applications for modular arithmetic besides the days of the week?
+5. How can I practice and improve my understanding of modular arithmetic?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A factor of a number divides that number without leaving a remainder.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'factor' mean?
+2. How do I find factors of a number?
+3. Can a number have more than one factor?
+4. Are there any rules for finding factors?
+5. Why is knowing about factors important?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The angles in a quadrilateral add up to 360 degrees.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a quadrilateral?
+2. How many angles does a quadrilateral have?
+3. What is the sum of all the angles in a quadrilateral?
+4. Can you give an example of a quadrilateral?
+5. How can I use this information in real-life situations?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The concept of 'more than' or 'less than' introduces inequalities.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does ">" and "<" mean?
+2. How do I use these symbols in an equation?
+3. Can you give me some examples of how to solve inequalities?
+4. Are there any special rules for solving inequalities?
+5. How can I apply inequalities in real-life situations?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The rule of divisibility by 3 states that a number is divisible by 3 if the sum of its digits is divisible by 3.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "divisible" mean?
+2. How do I find the sum of the digits of a number?
+3. Can you give an example of a number that is divisible by 3 using this rule?
+4. Are there any exceptions to this rule?
+5. How can I use this rule to check if a large number is divisible by 3 quickly?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Understanding fractions involves recognizing a part of a whole.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'fraction' mean?
+2. How do I recognize a fraction?
+3. Can you give an example of a fraction?
+4. How can I add or subtract fractions?
+5. How do I multiply or divide fractions?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A regular hexagon can be divided into six equilateral triangles.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a regular hexagon?
+2. How many sides does a regular hexagon have?
+3. What is an equilateral triangle?
+4. How do we divide a regular hexagon into six equilateral triangles?
+5. Can you provide an example of how to divide a regular hexagon using this method?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The area of a parallelogram is calculated as base times height.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a parallelogram?
+2. How do I calculate its area?
+3. Can you provide an example?
+4. Are there any special properties of a parallelogram?
+5. How does this relate to other shapes and formulas?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Estimation techniques, such as rounding, are crucial for making quick guesses.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "estimation" mean?
+2. Why is estimation important?
+3. How do I round numbers?
+4. Can you give an example of when I might use estimation?
+5. Are there any other estimation techniques besides rounding?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The sum of any two odd numbers is even.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'odd' mean?
+2. What does 'even' mean?
+3. How do I add two numbers together?
+4. Can you give an example of adding two odd numbers?
+5. Why is the result always even when adding two odd numbers?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A triangle with two equal sides is called an isosceles triangle.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is an isosceles triangle?
+2. How do I identify if a triangle is isosceles?
+3. Can all triangles be classified as isosceles?
+4. Are there any special properties of isosceles triangles?
+5. How can I use this information in real-world applications?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The product of any number and zero is zero.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "product" mean? 
+2. How can I multiply any number by 0? 
+3. Why does the result always end up being 0? 
+4. Can I use this rule for negative numbers too? 
+5. Are there any exceptions to this rule?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A whole number divided by itself equals one.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'whole number' mean?
+2. How do I divide numbers?
+3. Can you give an example of division with whole numbers?
+4. What does 'equals one' mean?
+5. Why is this statement important in mathematics?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The exterior angles of a polygon sum up to 360°.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'polygon' mean?
+2. How do I calculate the sum of exterior angles for any polygon?
+3. Can you give an example of how to use this equation?
+4. Are there any exceptions or special cases with this formula?
+5. How can I apply this concept to real-world problems?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The volume of a rectangular prism is length × width × height.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'volume' mean? 
+2. How do I calculate the volume of a rectangular prism? 
+3. Can you give an example of a real-world object that can be modeled using a rectangular prism? 
+4. Are there any formulas or equations related to calculating the volume of a rectangular prism? 
+5. Is there anything else I should know about calculating the volume of a rectangular prism?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Adding zero to any number does not change the number.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is the definition of adding zero to a number? 
+2. How can I apply this rule when solving mathematical problems? 
+3. Can you give an example of how adding zero changes a number? 
+4. Are there any exceptions to this rule? 
+5. How does this concept relate to other mathematical concepts such as multiplication and division?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The opposite angles of a parallelogram are equal.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a parallelogram? 
+2. How do I know if two angles are opposite angles? 
+3. Why are opposite angles equal in a parallelogram? 
+4. Can you give an example of a real-world application for this concept? 
+5. Are there any other properties of parallelograms that I should know about?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A number multiplied by its inverse equals one.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'inverse' mean?
+2. How do I find the inverse of a number?
+3. Can any number's inverse exist?
+4. Why does multiplying a number and its inverse equal one?
+5. Are there any exceptions to this rule?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The sum of the angles around a point is 360°.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "sum" mean?
+2. How many degrees are there in a circle?
+3. Why do we need to know the sum of angles around a point?
+4. Can you give an example of when I might use this information?
+5. Is there any other way to represent this concept besides using degrees?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Area of a circle = πr².  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'π' represent?
+2. How do I calculate the radius (r) given the area (A)?
+3. Can you provide an example of how to use this equation?
+4. Are there any real-world applications for calculating the area of a circle?
+5. Is there a specific formula or method for finding the area of a circle?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A number's multiples are obtained by multiplying the number by whole numbers.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "number" mean? 
+2. What do we mean when we say "whole numbers"? 
+3. How can I find the multiples of a given number? 
+4. Can you give an example of finding multiples? 
+5. Why is knowing about multiples important?
+
+
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Subtracting a number from itself yields zero.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does subtracting a number from itself mean? 
+2. How can I use this concept in real-life situations? 
+3. Can you give an example of how this works with numbers? 
+4. Are there any exceptions or special cases for this rule? 
+5. Is there a formula or equation I can use to solve problems involving this concept?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A line segment's midpoint divides it into two equal parts.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a line segment?
+2. How do I find the midpoint of a line segment?
+3. Why is finding the midpoint important?
+4. Can I use any formula to calculate the midpoint?
+5. Are there any real-world applications for finding the midpoint of a line segment?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Opposite sides of a rectangle are equal in length.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "opposite sides" mean? 
+2. How do I know if two sides are opposite? 
+3. Can you give an example of a rectangle with opposite sides of equal length? 
+4. Is there any other way to describe rectangles where opposite sides are equal? 
+5. How can I use this information to solve problems involving rectangles?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The product of two negative numbers is positive.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "product" mean?
+2. What do we mean by "negative numbers"?
+3. How can multiplying two negative numbers result in a positive number?
+4. Can you give an example of how this works?
+5. Why is this concept important in mathematics and other fields?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Two lines perpendicular to the same line are parallel to each other.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "perpendicular" mean?
+2. How do two lines become parallel when they are perpendicular to the same line?
+3. Can you give an example of two lines that are perpendicular and parallel to each other?
+4. Are there any real-world applications for understanding this concept?
+5. How can I practice and improve my understanding of this topic?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The length of a circle's diameter is twice its radius.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a circle?
+2. What is the difference between diameter and radius?
+3. How can I calculate the diameter from the radius?
+4. Can you give an example of how to use this formula?
+5. Are there any other formulas related to circles that I should know?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Any number raised to the power of one is itself.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "raised to the power of" mean?
+2. How do I know if a number is being raised to the power of another number?
+3. Can any number be raised to the power of one?
+4. Is there a specific order for raising numbers to powers?
+5. Are there any exceptions to the rule that any number raised to the power of one is itself?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A triangle with all sides of different lengths is called a scalene triangle.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a triangle? 
+2. How do I identify a scalene triangle? 
+3. Can a triangle have more than one type of side length? 
+4. Are there any other types of triangles besides scalene and equilateral? 
+5. How can I use this information in real-world applications?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The area of a square is side².  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does'side' mean?
+2. How do I calculate the area of a square?
+3. Can you give an example of how to use this equation?
+4. Are there any other formulas related to squares and areas?
+5. Where can I find more information on this topic?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "In a right-angled triangle, the side opposite the right angle is called the hypotenuse.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a right-angled triangle? 
+2. How do I identify the hypotenuse? 
+3. Can you give an example of a real-world application for the hypotenuse? 
+4. How can I calculate the length of the hypotenuse using Pythagorean theorem? 
+5. Are there any other properties or formulas related to the hypotenuse?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A circle's diameter passes through its center.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'circle' mean?
+2. What is a 'diameter'?
+3. How can I find the center of a circle?
+4. Can you provide an example of how the diameter passes through the center of a circle?
+5. Are there any real-world applications for understanding this concept?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Any number raised to the power of zero is one.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'raised to the power of' mean? 
+2. How do I know if a number can be raised to the power of 0? 
+3. Can any number be raised to the power of 0? 
+4. Why is the result always 1 when a number is raised to the power of 0? 
+5. Are there any exceptions to this rule?
+
+
+Answer: 1. 'Raised to the power of' means multiplying the base number by itself for the given number of times. For example, 2^3 = 2 x 2 x 2 = 8. 
+2.
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The larger of two fractions with the same denominator is the one with the larger numerator.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'numerator' mean?
+2. What does 'denominator' mean?
+3. How do I compare two fractions with the same denominator?
+4. Can you give an example of comparing two fractions with the same denominator?
+5. Is there any other way to compare fractions besides using their numerators and denominators?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Dividing a number by one yields the number itself.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does dividing a number by one mean? 
+2. How can I apply this rule when solving equations? 
+3. Can you give an example of how this rule works with different numbers? 
+4. Are there any exceptions to this rule? 
+5. How can I use this rule to simplify expressions and solve problems more efficiently?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Two angles that add up to 90° are called complementary angles.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "complementary" mean?
+2. How do I identify complementary angles?
+3. Can complementary angles be adjacent (next to each other)?
+4. Are there any real-world examples of complementary angles?
+5. How can I use complementary angles in geometry problems?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The smallest two-digit number is 10.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "two-digit" mean?
+2. How do I find the smallest two-digit number?
+3. Can you give an example of a two-digit number?
+4. Is there any other way to express the statement?
+5. How can I apply this concept in real life situations?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The largest single-digit number is 9.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "largest" mean?
+2. What is a "single-digit number"?
+3. How do we compare numbers?
+4. What is the value of 9?
+5. Can we use this information for any other purposes?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Two angles that add up to 180° are called supplementary angles.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does'supplementary' mean? 
+2. How do I identify supplementary angles? 
+3. Can you give an example of two supplementary angles? 
+4. Are there any other types of angle pairs? 
+5. How can I use this information in real-life situations?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The reflection of a number about zero on the number line is its negative.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does it mean for a number to reflect about zero? 
+2. How do I find the negative of a number? 
+3. Can you give an example of a number and its reflection about zero? 
+4. Is there any other way to represent a negative number besides using -1? 
+5. How can I use this concept in real-life situations?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A polygon with five sides is called a pentagon.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a polygon?
+2. How many sides does a pentagon have?
+3. Can you give an example of a real-life object that resembles a pentagon?
+4. Are there any other polygons besides a pentagon?
+5. How can I learn more about polygons and their properties?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Zero divided by any non-zero number is zero.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "divided" mean?
+2. What does "non-zero" mean?
+3. Why is 0 divided by anything equal to 0?
+4. Can I use this rule for all numbers?
+5. How can I apply this rule in real life situations?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The successor of a number is one more than the number.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "successor" mean? 
+2. How do I find the successor of a given number? 
+3. Can you give an example of finding the successor of a number? 
+4. Are there any special rules for finding the successor of a number? 
+5. Is there a shortcut or formula for finding the successor of a number?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A number less its negative equals twice the number.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "number" mean?
+2. What does "less than" mean?
+3. What does "negative" mean?
+4. How do I solve for "x"?
+5. Can you give an example using real-life situations?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The sum of a number and its negative is zero.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "sum" mean?
+2. How do I find the negative of a number?
+3. Can you give an example of how to use this equation?
+4. Is there any other way to write this equation?
+5. How can I apply this equation in real-life situations?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Three points lie on a straight line if they are collinear.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 
+1. What does "collinear" mean?
+2. How can I determine if three points are collinear?
+3. Can you give an example of three collinear points?
+4. Are there any other properties related to collinearity?
+5. How can I use this information in real-world applications?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A polygon with four sides is called a quadrilateral.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a polygon? 
+2. How many sides does a quadrilateral have? 
+3. Can you give an example of a quadrilateral? 
+4. Are there any other types of polygons besides quadrilaterals? 
+5. How do I identify a quadrilateral from other shapes?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The reciprocal of a fraction is obtained by swapping its numerator and denominator.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "reciprocal" mean?
+2. How do I swap the numerator and denominator of a fraction?
+3. Can you give an example of finding the reciprocal of a fraction?
+4. Are there any rules for simplifying fractions before finding their reciprocals?
+5. Is there a shortcut or formula for finding the reciprocal of a fraction?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Any non-zero number raised to the power of two is positive.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "non-zero" mean? 
+2. What does "raised to the power of 2" mean? 
+3. How can I tell if a number is positive or negative? 
+4. Can any number be raised to the power of 2 and still be positive? 
+5. Is there an easier way to understand this concept?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A polygon with eight sides is called an octagon.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'polygon' mean? 
+2. How many sides does an octagon have? 
+3. Can you give more examples of polygons? 
+4. Is there any special name for a polygon with 8 sides? 
+5. Are there any other shapes similar to an octagon?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The sum of an even number and an odd number is odd.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'even' mean? 
+2. What does 'odd' mean? 
+3. How do I add numbers together? 
+4. Can you give me an example of how this works? 
+5. Is there anything else I should know about this concept?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A set containing no elements is called an empty set or null set.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does'set' mean? 
+2. How do I define an empty set? 
+3. Can an empty set contain any element? 
+4. Is there a difference between an empty set and null set? 
+5. Are there any real-life applications for an empty set?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Doubling a number is the same as multiplying the number by two.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does doubling mean? 
+2. How do I multiply a number by 2? 
+3. Can you give an example of doubling a number? 
+4. Is there another way to express doubling mathematically? 
+5. How can I use this concept in real-life situations?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Halving a number is the same as dividing the number by two.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does halve mean? 
+2. How do I divide a number by 2? 
+3. Can you give an example of how to halve a number? 
+4. Is there another way to express halving a number mathematically? 
+5. How can I use halving in real-life situations?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The perimeter of a circle is also known as its circumference.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'perimeter' mean?
+2. How is 'circumference' related to 'perimeter'?
+3. Can you provide an example of how to calculate the perimeter and/or circumference of a circle?
+4. Are there any formulas or equations I should know for calculating these values?
+5. Where can I find more information on circles and their properties?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A shape with all angles equal and all sides equal is called a regular shape.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What is a regular shape?
+2. How do I identify a regular shape?
+3. Can you give examples of regular shapes?
+4. What are the properties of regular shapes?
+5. How can I use regular shapes in real life?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The number of vertices in a cube is eight.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does "vertices" mean?
+2. How many sides does a cube have?
+3. What is the formula for finding the number of vertices in a polyhedron?
+4. Can you give an example of another polyhedron and its number of vertices?
+5. How can I apply this concept to solve other problems involving polygons?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A fraction represents a part of a whole.  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'part of a whole' mean? 
+2. How do I represent fractions mathematically? 
+3. Can you give an example of a fraction? 
+4. How can I simplify fractions? 
+5. How do I add and subtract fractions?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The difference between the largest and smallest values in a set is called the range.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does 'difference' mean?
+2. How do I find the largest and smallest values in a set?
+3. Can you give an example of how to calculate the range?
+4. Why is knowing the range important?
+5. Are there any other terms related to finding the range?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does the equation represent? 
+2. How do I solve for the variable? 
+3. Can you give an example of how to use this equation? 
+4. Are there any special rules or properties associated with this equation? 
+5. Where can I find more information on this topic?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does the equation mean?
+2. How do I solve for X?
+3. Can you give an example of how to use this equation?
+4. Are there any common mistakes people make when using this equation?
+5. Where can I find more resources to learn about this equation?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does the equation mean?
+2. How can I solve for the variable?
+3. Can you give an example of how to use this equation?
+4. Are there any real-world applications for this equation?
+5. Is there a simpler way to understand this concept?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does the equation mean?
+2. How do I solve for X?
+3. Can you give an example of how to use this equation?
+4. Are there any real-world applications for this equation?
+5. Is there anything else I should know about this equation?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does the equation mean?
+2. How do I solve for X?
+3. Can you give an example of how to use this equation?
+4. Are there any common mistakes people make when using this equation?
+5. Where can I find more resources to learn about this equation?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does the equation mean?
+2. How do I solve for x?
+3. Can you give an example of how to use this equation?
+4. Are there any real-world applications for this equation?
+5. Is there anything else I should know about this equation?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does the equation mean?
+2. How do I solve for the variable?
+3. Can you give an example of how to use this equation?
+4. Are there any real-world applications for this equation?
+5. Is there anything else I should know about this equation?
+
+
+Instruct: Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them
+ Output: 1. What does the equation mean?
+2. How do I solve for X?
+3. Can you give an example of how to use this equation?
+4. Are there any real-world applications for this equation?
+5. Is there anything else I should know about this equation?
+
+
