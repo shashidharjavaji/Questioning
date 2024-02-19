@@ -1,0 +1,642 @@
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "y = mx + b", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What do the variables y, m, x, and b represent?
+- How is this equation used in mathematics?
+- What is the significance of the slope (m) and y-intercept (b)?
+- Are there any real-life applications of this equation?
+- How can I solve for y, m, x, or b in this equation?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " πr² (Area of a circle)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is π?
+- What is r?
+- How do I calculate r²?
+- Why is π multiplied by r²?
+- How is the area of a circle calculated using πr²?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " x² - 5x + 6 = 0", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What does "x" represent in the equation?
+- How do I solve for "x" in this equation?
+- Why are there squared and linear terms in the equation?
+- What does it mean for the equation to equal zero?
+- How can I apply this equation to real-world scenarios?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " d/dx x² = 2x (Basic derivative)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What does "d/dx" mean?
+- What is a derivative?
+- What is x²?
+- How do you find the derivative of x²?
+- Why is the derivative of x² equal to 2x?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " sin²(θ) + cos²(θ) = 1", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What are sin and cos? 
+- What does the "²" symbol mean? 
+- How are sin and cos related to each other? 
+- How is this equation used in mathematics? 
+- Why is this equation important or significant?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " √(-1) = i", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.1. What does the symbol "√" signify in this equation?
+2. What does the symbol "i" represent in this context?
+3. How can a negative number be within a square root?
+4. Why is "i" being used to represent the square root of -1?
+5. How is this equation relevant or useful in mathematics?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " |a+b| ≤ |a| + |b| (Triangle Inequality)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What does the symbol "|" represent in math?
+- What do "a" and "b" stand for in this equation?
+- What does "≤" mean in math?
+- Why is this called the Triangle Inequality?
+- How is this equation used in math or real life situations?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " f(x) = x³ - 3x + 2", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What does "f(x)" mean?
+- What does "x" represent?
+- What does the "^" symbol indicate in "x^3"?
+- What is the purpose of the "- 3x + 2" in the equation?
+- How can this equation be solved or manipulated?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " logₐ(x * y) = logₐ(x) + logₐ(y)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What does "log" mean?
+- What does the subscript "a" represent in "logₐ"?
+- What is the purpose of "logₐ(x * y)"?
+- How does the equation relate to multiplication?
+- How can I apply this equation to solve mathematical problems?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " (σ²) = Σ(xᵢ - μ)²/N (Variance of a population)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What does each symbol in the equation represent?
+- How is the variance calculated?
+- Why is variance important in statistics?
+- How is variance different from standard deviation?
+- How can variance be used to analyze data?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The slope of a line is Δy/Δx", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a slope?
+- What does Δy and Δx represent?
+- How is the slope equation derived?
+- In what context is the slope of a line useful?
+- How is the slope of a line calculated using the equation?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " A prime number is only divisible by 1 and itself", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a prime number?
+- How do you determine if a number is prime?
+- Why can prime numbers only be divided by 1 and itself?
+- Can all numbers be categorized as either prime or not prime?
+- What are some examples of prime numbers?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " sin(θ) = opposite/hypotenuse", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is sin?
+- What is θ?
+- What is opposite in relation to a right triangle?
+- What is hypotenuse in relation to a right triangle?
+- How are sin, opposite, and hypotenuse related in a right triangle?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The sum of the interior angles of a polygon is (n-2)×180°", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a polygon?
+- What are interior angles of a polygon?
+- How do you calculate the sum of the interior angles of a polygon?
+- Why is the formula (n-2)×180° used?
+- Can this formula be applied to all polygons?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " To solve a system of equations, you can use substitution or elimination", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a system of equations?
+- What is substitution in math?
+- What is elimination in math?
+- How do you know when to use substitution or elimination?
+- What are the steps to solve a system of equations using substitution or elimination?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The discriminant of a quadratic equation indicates the nature of its roots", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a discriminant?
+- What is a quadratic equation?
+- What are roots in mathematics?
+- How does the discriminant indicate the nature of the roots?
+- Why is this information important in mathematics?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The LCM of two numbers is the smallest number that is a multiple of both", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is LCM?
+- How do you find the LCM of two numbers?
+- Why is the LCM considered as the smallest number?
+- How is LCM different from GCF?
+- Can you give examples of finding the LCM of two numbers?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " In a proportional relationship, the ratio between two quantities remains constant", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a proportional relationship?
+- How do you determine if two quantities are in a proportional relationship?
+- How do you find the constant ratio in a proportional relationship?
+- Can you give an example of a proportional relationship?
+- What are some real-life applications of proportional relationships?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " An isosceles triangle has two sides of equal length", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is an isosceles triangle?
+- What does it mean for two sides to be of equal length?
+- How are isosceles triangles different from other types of triangles?
+- How can I identify an isosceles triangle?
+- What are some properties or characteristics of an isosceles triangle?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The compound interest formula calculates the amount of interest earned on an investment over time", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- How is compound interest different from simple interest?
+- What are the variables involved in the compound interest formula?
+- How is compound interest calculated?
+- How does the amount of time affect the amount of interest earned?
+- Are there any limitations or specific scenarios where the compound interest formula is not applicable?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The absolute value of a number is its distance from zero on the number line", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is absolute value?
+- How is the distance from zero calculated on a number line?
+- What does it mean for a number to be negative?
+- How do positive and negative numbers relate to absolute value?
+- How can absolute value be applied in real-life situations?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " An annulus is the region between two concentric circles", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is an annulus?
+- What are concentric circles?
+- How is the region between two concentric circles defined?
+- How is the area of an annulus calculated?
+- What are some real-world applications of annuli?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The sum of exterior angles of any polygon equals 360°", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a polygon?
+- What are exterior angles?
+- How do you calculate the sum of exterior angles?
+- Why does the sum of exterior angles of a polygon equal 360°?
+- What are some examples of polygons and their exterior angles?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The nth term of an arithmetic sequence is given by aₙ = a₁ + (n-1)d", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is an arithmetic sequence?
+- What does "nth term" mean?
+- What do the variables a₁, aₙ, n, and d represent?
+- How is the formula aₙ = a₁ + (n-1)d used in finding the nth term of an arithmetic sequence?
+- Can you provide an example of how to apply this formula in solving a problem?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " A parallelogram's opposite sides are equal in length and parallel", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a parallelogram?
+- What does it mean for sides to be parallel?
+- How can I determine if sides are equal in length?
+- Why is this property true for parallelograms?
+- Can you show me an example of a parallelogram demonstrating this property?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The exterior angle of a triangle is equal to the sum of the two opposite interior angles", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.1. What is an exterior angle of a triangle?
+2. What are interior angles of a triangle?
+3. How do you find the sum of two angles?
+4. Why is the exterior angle equal to the sum of the two opposite interior angles?
+5. Are there any examples or visualizations to help understand this concept better?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " A rhombus is a type of parallelogram with all four sides of equal length", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a rhombus?
+- What is a parallelogram?
+- How are rhombuses different from other shapes?
+- How do you identify all four sides of a rhombus are of equal length?
+- What are some real-life examples of a rhombus?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The distance between two points (x₁, y₁) and (x₂, y₂) in a plane is given by √((x₂ - x₁)² + (y₂ - y₁)²)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What are points (x₁, y₁) and (x₂, y₂)?
+- What is a plane in this context?
+- What does √ symbol mean?
+- How do you calculate (x₂ - x₁)² and (y₂ - y₁)²?
+- How do you apply this formula to find the distance between two points?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The Law of Sines relates the lengths of the sides of a triangle to the sines of its angles", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is the Law of Sines?
+- How is the Law of Sines used in triangles?
+- How do you calculate the lengths of the sides using the Law of Sines?
+- What role do the angles play in the Law of Sines?
+- How does the Law of Sines differ from the Law of Cosines?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " A geometric sequence is characterized by each term being a constant factor of the previous term", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a geometric sequence?
+- How is each term related to the previous term in a geometric sequence?
+- How do you identify a geometric sequence?
+- What is a constant factor in a geometric sequence?
+- What is the significance of a geometric sequence in mathematics?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " A convex polygon has all interior angles less than 180°", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a convex polygon?
+- What are interior angles?
+- Why are all interior angles less than 180° in a convex polygon?
+- How is the measure of an interior angle determined?
+- Can you give an example of a convex polygon with all interior angles less than 180°?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " When two lines are cut by a transversal, corresponding angles are equal", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a transversal?
+- What are corresponding angles?
+- How are corresponding angles measured or determined?
+- What does it mean for corresponding angles to be equal?
+- Why are corresponding angles important in geometry?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The surface area of a cylinder is 2πrh + 2πr²", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a cylinder?
+- What do the variables "r" and "h" represent?
+- Why is surface area important?
+- How is the formula derived?
+- Can this formula be applied to other shapes besides a cylinder?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " An exponential function has the form f(x) = a⋅b^x, where b is a positive constant", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is an exponential function?
+- What does the variable "a" represent in the function?
+- How does the value of "b" affect the shape of the graph?
+- How is an exponential function different from a linear function?
+- Can you give an example of an exponential function?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The sum of the interior angles of a hexagon is 720°", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a hexagon?
+- What are interior angles?
+- How do you calculate the sum of interior angles?
+- Why is the sum of interior angles of a hexagon 720°?
+- Are there any other shapes with the same sum of interior angles?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The interior angles of a parallelogram are supplementary to each adjacent angle", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a parallelogram?
+- What are interior angles?
+- What does it mean for angles to be supplementary?
+- How are adjacent angles related?
+- How does this property apply to parallelograms?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " In an arithmetic sequence, the difference between consecutive terms is constant", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is an arithmetic sequence?
+- What does it mean for the difference between consecutive terms to be constant?
+- How do you determine the common difference in an arithmetic sequence?
+- What are some examples of arithmetic sequences?
+- How is an arithmetic sequence different from other types of sequences?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The Pythagorean identity states that sin²θ + cos²θ = 1 for any angle θ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is the Pythagorean identity?
+- What do sin, cos, and θ represent in the equation?
+- How does the equation sin²θ + cos²θ = 1 apply to all angles?
+- What is the significance or practical applications of this identity?
+- Are there any real-life examples or situations where this identity is used?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " A quadratic equation can be solved by completing the square or using the quadratic formula", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a quadratic equation?
+- What is completing the square?
+- What is the quadratic formula?
+- How do you solve a quadratic equation using completing the square method?
+- How do you solve a quadratic equation using the quadratic formula?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The ratio of the circumference of a circle to its diameter is π, regardless of the circle's size", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a circumference?
+- What is a diameter?
+- What is π?
+- How is the ratio of the circumference to the diameter always π?
+- Can this be proven or demonstrated visually?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The sum of the squares of the legs of a right triangle is equal to the square of the hypotenuse (Pythagorean theorem)", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a right triangle?
+- What are the legs of a right triangle?
+- What is the hypotenuse of a right triangle?
+- How do you calculate the sum of the squares of the legs of a right triangle?
+- How do you calculate the square of the hypotenuse of a right triangle?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " A rational number can be expressed as a fraction where both the numerator and the denominator are integers", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a rational number?
+- What is a fraction?
+- What are integers?
+- How do I determine if a number is rational?
+- Can you give an example of a rational number expressed as a fraction?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The concept of slope describes the steepness and direction of a line, defined as rise over run", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is "slope"?
+- How is the steepness of a line measured?
+- What is "rise over run"?
+- How is the direction of a line determined?
+- How does slope help define a line?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " Compound interest is calculated by adding interest to the principal sum of a deposit or loan, compounding over time", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is compound interest?
+- How is compound interest calculated?
+- What is the difference between compound interest and simple interest?
+- How does compounding over time affect the total amount of interest earned?
+- What is the importance of compound interest in financial planning?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The discriminant in a quadratic equation reveals the nature of its roots—whether they are real or complex", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a quadratic equation?
+- What is the discriminant in a quadratic equation?
+- What does it mean for roots to be real or complex?
+- How do you find the discriminant in a quadratic equation?
+- How does the discriminant determine the nature of the roots in a quadratic equation?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " Similar triangles have the same shape but not necessarily the same size, illustrating the concept of similarity in geometry", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What are similar triangles?
+- How can triangles have the same shape but different sizes?
+- What is the concept of similarity in geometry?
+- How can I identify if two triangles are similar?
+- Why is understanding similarity in geometry important?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The principle of mathematical induction is a powerful tool for proving statements about natural numbers", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is the principle of mathematical induction?
+- How does mathematical induction work?
+- What kind of statements can be proven using mathematical induction?
+- Why is it considered a powerful tool in mathematics?
+- How can I apply mathematical induction to prove statements about natural numbers?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " An irrational number cannot be expressed as a simple fraction, illuminating the diversity of number types", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is an irrational number?
+- How is a simple fraction defined?
+- What are some examples of irrational numbers?
+- How are irrational numbers different from rational numbers?
+- Why is it significant that irrational numbers cannot be expressed as simple fractions?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " A tangent to a circle is perpendicular to the radius at the point of tangency, a key property in circle geometry", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a tangent?
+- What is a radius?
+- What is a point of tangency?
+- What does it mean for a tangent to be perpendicular to a radius?
+- How is this property useful in circle geometry?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " Logarithms are the inverse operation of exponentiation, linking multiplication and exponentiation to addition", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is exponentiation?
+- How does logarithms relate to exponentiation?
+- How do logarithms link multiplication to addition?
+- What are some examples of logarithmic calculations?
+- How can I apply logarithms in real-life situations?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The law of cosines generalizes the Pythagorean theorem for any triangle, not just right triangles", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is the Pythagorean theorem?
+- How does the law of cosines apply to all triangles?
+- What is the formula for the law of cosines?
+- How is the law of cosines different from the Pythagorean theorem?
+- Can the law of cosines be used to solve real-world problems involving triangles?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " An annulus is the area of a ring-shaped object, calculated as the difference between the area of two circles", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is an annulus?
+- How do you calculate the area of a circle?
+- What are the formulas for finding the area of two circles?
+- How do you find the difference between two areas?
+- Can you provide examples or practical applications of annulus in real life?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The concept of function composition, where one function's output becomes another function's input, demonstrates the chaining of mathematical operations", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a function in mathematics?
+- How do you compose functions?
+- What is the purpose of function composition?
+- Can you provide an example of function composition?
+- How does function composition relate to mathematical operations?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " A scatter plot displays values for typically two variables for a set of data, providing", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a scatter plot?
+- How are values displayed on a scatter plot?
+- What are variables in the context of a scatter plot?
+- Why is a scatter plot useful for analyzing data?
+- How do I interpret a scatter plot effectively?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " a visual representation of correlation", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.1. What is correlation?
+2. How is correlation represented visually?
+3. What does a strong correlation look like?
+4. What does a weak correlation look like?
+5. How is correlation used in math or science?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it " The binomial theorem describes the algebraic expansion of powers of a binomial, illustrating the power of algebraic formulas", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a binomial?
+- How is the binomial theorem used to expand powers?
+- What are the key components of the binomial theorem?
+- What are some examples of applying the binomial theorem?
+- Why is the binomial theorem important in algebra?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The area of an ellipse is πab where a and b are the semi-major and semi-minor axes  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is an ellipse?
+- What are semi-major and semi-minor axes?
+- How do you calculate the area of an ellipse?
+- Why is the formula for the area of an ellipse πab?
+- Can you show an example of calculating the area of an ellipse using this formula?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The sum of any two sides of a triangle is greater than the third side  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a triangle?
+- What are the sides of a triangle?
+- What is meant by "the sum of any two sides"?
+- How can I determine if the sum of two sides is greater than the third side?
+- Why is this statement important in mathematics?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The volume of a cone is (1/3)πr²h  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a cone?
+- What does "volume" mean in this context?
+- What do "r" and "h" represent in the equation?
+- Why is there a fraction and the value of π in the equation?
+- How can this equation be applied or used in real life situations?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A cyclic quadrilateral is a quadrilateral with all its vertices on a single circle  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a quadrilateral?
+- What is a vertex?
+- What is a circle?
+- How can all vertices of a quadrilateral be on a single circle?
+- What is the significance of a quadrilateral being cyclic?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The square root of a negative number is not defined in the set of real numbers  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a square root?
+- What does it mean for a number to be negative?
+- What are real numbers?
+- Why can't the square root of a negative number be defined?
+- Are there other sets of numbers where the square root of a negative number can be defined?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The area of a sector of a circle is ½r²θ where θ is in radians  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a sector of a circle?
+- What is a radian?
+- How is the area of a sector calculated?
+- What does r represent in the equation?
+- How can I apply this formula in real-life situations?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The sum of any two angles in a cyclic quadrilateral is 180°  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a cyclic quadrilateral?
+- What are angle sums in general?
+- Why do the sum of any two angles in a cyclic quadrilateral add up to 180°?
+- How can I identify a cyclic quadrilateral?
+- Are there any real-life applications of this concept?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The product of the gradients of two perpendicular lines is -1  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What are gradients in math?
+- What does perpendicular mean in terms of lines?
+- How do you find the product of two numbers?
+- Why is the product of the gradients of perpendicular lines -1?
+- What are the implications of this statement in mathematics?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The volume of a pyramid is (1/3)Bh where B is the area of the base and h is the height  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a pyramid?
+- How do you calculate the area of a base?
+- What is the height of a pyramid?
+- Why is the volume of a pyramid calculated as (1/3)Bh?
+- What are examples of real-life situations where this formula would be used?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "An angle inscribed in a semicircle is a right angle  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is an angle? 
+- What is a semicircle? 
+- How is an angle inscribed in a semicircle? 
+- What is a right angle? 
+- Why is an angle inscribed in a semicircle a right angle?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The equation of a parabola with focus (a,b) and directrix y = k is (x-a)² = 4p(y-b)  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a parabola?
+- What is a focus in mathematics?
+- What is a directrix in mathematics?
+- What is the significance of the equation given?
+- How does the value of p affect the shape of the parabola?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The sum of the reciprocals of the roots of a quadratic equation ax² + bx + c = 0 is -b/a  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a quadratic equation?
+- What are reciprocals?
+- How do you find the roots of a quadratic equation?
+- How do you calculate the sum of reciprocals?
+- Why is the sum of reciprocals equal to -b/a?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The coefficient of x^n in the expansion of (a + b)^n is given by nCk a^(n-k)b^k  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What does "coefficient" mean in this context?
+- What is "x^n" referring to?
+- What is an "expansion" in mathematics?
+- What is "nCk"?
+- How do "a" and "b" relate to each other in this equation?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The harmonic mean of two numbers is 2ab/(a+b)  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is the harmonic mean?
+- How is the harmonic mean calculated?
+- What are the two numbers being referred to in the equation?
+- What is the significance of the variables a and b?
+- Are there any specific conditions or limitations for this equation to be applicable?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The remainder when a polynomial f(x) is divided by (x-a) is f(a)  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a polynomial?
+- What does it mean to divide a polynomial by (x-a)?
+- What is a remainder in this context?
+- How do you find f(a)?
+- Why is f(a) considered the remainder?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The angle between two vectors a and b is cos⁻¹((a·b)/(|a||b|))  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is the significance of the angle between two vectors?
+- What does the dot product (a·b) represent?
+- How do you calculate the magnitude of a vector?
+- What is the meaning of cos⁻¹? 
+- How can this equation be used in practical applications?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The area of a rhombus is 1/2(d1d2) where d1 and d2 are the lengths of the diagonals  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a rhombus?
+- What are diagonals in geometry?
+- How do you find the length of a diagonal?
+- Why is the area of a rhombus calculated using half the product of its diagonals?
+- How can I use this formula to solve problems involving rhombuses?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The centroid of a triangle divides each median into segments with a ratio of 2:1  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a centroid?
+- What is a triangle median?
+- What does it mean to divide a segment into a ratio of 2:1?
+- How does the centroid relate to the medians of a triangle?
+- How is this ratio important in geometry or math in general?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The equation of an ellipse with center at (h, k) is ((x-h)²/a²) + ((y-k)²/b²) = 1  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is an ellipse? 
+- How is the center of an ellipse determined? 
+- What do 'a' and 'b' represent in the equation? 
+- How does changing 'a' and 'b' affect the shape of the ellipse? 
+- How is the equation of an ellipse different from other shapes like circles or parabolas?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The nth root of a product ab is equal to the nth root of a times the nth root of b  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is an nth root?
+- How do you calculate an nth root?
+- What does it mean by "product ab"?
+- How is the nth root of a product related to the nth root of a and b?
+- Can you provide an example to illustrate this concept?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The lateral surface area of a cylinder is 2πrh  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a lateral surface area?
+- What is a cylinder?
+- What does "2πrh" represent in this equation?
+- How is lateral surface area calculated?
+- What is the significance of lateral surface area in relation to a cylinder?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The diagonal of a cube is √3 times the length of a side  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a cube?
+- What is a diagonal?
+- How do you calculate the length of a diagonal?
+- How do you calculate the length of a side?
+- Why is the diagonal of a cube √3 times the length of a side?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The sum of an infinite arithmetic series is given by S = a/(1 - r) where |r| < 1  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is an arithmetic series?
+- What does S represent in the equation?
+- What do 'a' and 'r' stand for in the equation?
+- Why is |r| less than 1?
+- How is the sum of an infinite arithmetic series calculated using this equation?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "Pascal's triangle is used to find the coefficients of the expansion of (a + b)^n  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is Pascal's triangle?
+- How is Pascal's triangle constructed?
+- What are coefficients in the expansion of (a + b)^n?
+- How does Pascal's triangle help in finding coefficients?
+- How is (a + b)^n expanded using Pascal's triangle?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The interior angle of a regular polygon is (n-2)×180°/n where n is the number of sides  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a regular polygon?
+- What is an interior angle of a polygon?
+- How does the formula relate to the number of sides of a polygon?
+- What does (n-2) represent in the formula?
+- Why do we multiply by 180° and divide by n in the formula?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The volume of a frustum of a cone is (1/3)πh(r1² + r1r2 + r2²)  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a frustum of a cone? 
+- How do you calculate the volume of a frustum of a cone? 
+- What do the variables h, r1, and r2 represent in the equation? 
+- Why is there a π in the equation? 
+- Can you provide an example or scenario where this equation would be used?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The ratio of the areas of two similar triangles is equal to the square of the ratio of their corresponding sides  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a ratio?
+- What are similar triangles?
+- How do you calculate the area of a triangle?
+- What is the square of a number?
+- How do you find the corresponding sides of two similar triangles?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The equation of a hyperbola with foci along the x-axis is (x²/a²) - (y²/b²) = 1  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.1. What is a hyperbola? 
+2. What do "foci along the x-axis" mean? 
+3. How do I graph this equation? 
+4. What do "a" and "b" represent in the equation? 
+5. What are the properties of a hyperbola with this equation?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The sum of the interior angles of an n-sided convex polygon is (n-2)×180°  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is an interior angle in a polygon?
+- What does it mean for a polygon to be convex?
+- How do you calculate the sum of the interior angles of a polygon?
+- What does the formula (n-2)×180° represent?
+- Is this formula applicable to all polygons?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The surface area of a sphere is 4πr²  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is the definition of surface area?
+- What is a sphere?
+- What does the symbol π represent?
+- What is the meaning of r in the equation?
+- How do you calculate the surface area of a sphere using this equation?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "To find the inverse of a function f(x), solve the equation y = f(x) for x  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a function in mathematics?
+- What does it mean to find the inverse of a function?
+- How does solving the equation y = f(x) for x help in finding the inverse?
+- Why is finding the inverse of a function important?
+- Can you provide an example to demonstrate this concept?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The midpoint formula for the midpoint of a segment with endpoints (x1, y1) and (x2, y2) is ((x1+x2)/2, (y1+y2)/2)  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a midpoint in math?
+- How do you find the endpoints of a segment?
+- What do the variables x1, y1, x2, and y2 represent?
+- How do you calculate the midpoint using the formula?
+- Can you give an example to illustrate how the formula works?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The radius of the incircle of a triangle with sides a, b, c, and area T is T/s where s is the semiperimeter  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is an incircle of a triangle?
+- How do you calculate the semiperimeter of a triangle?
+- How are the sides a, b, c related to the area T of a triangle?
+- What is the relationship between the radius of the incircle and the area of a triangle?
+- How do you use the given equation to find the radius of the incircle of a triangle?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The height of an equilateral triangle of side length a is √3/2 a  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is an equilateral triangle?
+- How is the side length of a triangle measured?
+- What does the symbol √3/2 mean?
+- How is the height of a triangle calculated?
+- What is the relationship between the side length and height of an equilateral triangle?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The area of a regular hexagon with side length a is (3√3/2)a²  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a regular hexagon? 
+- What does side length mean in this context? 
+- How do you calculate the area of a regular hexagon?
+- What does (3√3/2)a² mean in terms of the area of the hexagon?
+- Why is this formula used for calculating the area of a regular hexagon?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The volume of a torus is (πr²)(2πR) where r is the radius of the tube and R is the distance from the center of the tube to the center of the torus  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a torus?
+- How are the radius of the tube and distance to the center related in this equation?
+- Why is pi (π) involved in the equation?
+- How do I calculate the volume using this equation?
+- What are the real-world applications of this equation?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The distance formula in 3D space for points (x1, y1, z1) and (x2, y2, z2) is √((x2-x1)² + (y2-y1)² + (z2-z1)²)  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is the purpose of the distance formula in 3D space?
+- How is the distance formula different from calculating distance in 2D space?
+- What do x1, y1, z1, x2, y2, z2 represent in the formula?
+- How do I apply the distance formula in real-life situations?
+- Are there any practical examples or exercises I can use to understand the formula better?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The lateral surface area of a pyramid is 1/2pl where p is the perimeter of the base and l is the slant height  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is lateral surface area?
+- What is a pyramid?
+- What is the perimeter of a base?
+- What is slant height?
+- How is the formula derived or proven?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The equation of a circle in parametric form is x = r cos(t) and y = r sin(t)  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What does "parametric form" mean?
+- How is the radius of the circle represented in the equation?
+- What is the purpose of the variable "t" in the equations?
+- How do the values of "t" correspond to points on the circle?
+- How can these equations be utilized to graph a circle?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The sum of the exterior angles, one at each vertex, of any polygon is 360°  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is an exterior angle?
+- What is a vertex?
+- What is a polygon?
+- How do you find the sum of angles in a polygon?
+- Why is the sum of exterior angles of a polygon always 360°?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A line segment bisected by the perpendicular bisector is divided into two equal parts  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a line segment?
+- What is a perpendicular bisector?
+- What does it mean to bisect something?
+- How does a perpendicular bisector divide a line segment?
+- Why does dividing a line segment with a perpendicular bisector result in two equal parts?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The volume of a hemisphere is (2/3)πr³  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a hemisphere?
+- What is volume?
+- What is r?
+- What is π?
+- How is (2/3)πr³ related to the volume of a hemisphere?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The equation of a line in point-slope form is y - y1 = m(x - x1)  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What does each variable represent in the equation?
+- How do I determine the slope of the line from this equation?
+- How do I find the coordinates of the given point (x1, y1)?
+- Can this equation be written in a different form, such as slope-intercept form?
+- How is this equation used in graphing a line?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The area of a kite is 1/2(d1d2) where d1 and d2 are the lengths of the diagonals  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a kite in geometry?
+- How do you calculate the lengths of the diagonals?
+- What does "1/2" mean in this context?
+- Is there a specific formula for finding the area of other shapes similar to this?
+- How can I apply this formula in real-life situations?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "If two angles of one triangle are congruent to two angles of another triangle, the triangles are similar  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What does "congruent" mean in this context?
+- What is a triangle?
+- What does it mean for two triangles to be similar?
+- Are there any specific conditions that need to be met for this statement to be true?
+- How is this statement relevant or useful in mathematics?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The equation for calculating interest compounded annually is A = P(1 + r/n)^(nt)  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What does each variable in the equation represent?
+- How is this equation different from simple interest?
+- Why is the interest compounded annually?
+- Can this equation be used for different compounding periods?
+- How is this equation used in real-life financial scenarios?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The arc length of a circle is θr where θ is the central angle in radians  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is an arc length?
+- What is a circle?
+- What is a central angle?
+- What are radians?
+- How do you calculate the arc length of a circle?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The surface area of a rectangular prism is 2lw + 2lh + 2wh  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a rectangular prism?
+- How is surface area different from volume?
+- What do the variables l, w, and h represent?
+- How is the surface area formula derived?
+- Can you provide a real-world example of when this formula would be used?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "A line parallel to the x-axis has an equation of the form y = k  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is a line parallel to the x-axis?
+- What does the symbol "k" represent in the equation?
+- How does the value of "k" affect the position of the line?
+- How can I graph this equation on a coordinate plane?
+- What are some real-life examples of a line parallel to the x-axis?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The base angles of an isosceles triangle are equal  ", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is an isosceles triangle?
+- What are base angles?
+- How do you measure angles?
+- Why are the base angles of an isosceles triangles equal?
+- Are all isosceles triangles the same?
+
+Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "The trapezoidal rule is used to approximate the integral of a function.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them.- What is an integral?
+- What is a function?
+- What is the trapezoidal rule?
+- How does the trapezoidal rule work?
+- What is the purpose of approximating the integral of a function?
+
