@@ -72,9 +72,6 @@ Imagine you are a human, and this is the first time you are encountering the abo
 - Coherence: 3.0/5
 - Diversity: 3.0/5
 
-## Key Findings
-The AI-generated questions demonstrated strong relevance and coherence, with particularly high scores in connecting to the core concept. However, the disparity between AI evaluation scores and human validation suggests potential areas for refinement in the question generation process.
-
 ## Contact Information
 
 For inquiries or further information, please contact shashi ( sjavaji@stevens.edu ).
