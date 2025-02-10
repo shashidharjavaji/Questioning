@@ -18,7 +18,7 @@ This project evaluates large language models (LLMs) on their ability to generate
 
 ## Environment Setup
 
-Ensure Python and necessary libraries (Pandas, Numpy, shutil) are installed:
+Ensure Python and necessary libraries (Pandas, Numpy, shutil, transformers, accelerate, torch, tqdm) are installed:
 
 ## Execution Instructions
 
