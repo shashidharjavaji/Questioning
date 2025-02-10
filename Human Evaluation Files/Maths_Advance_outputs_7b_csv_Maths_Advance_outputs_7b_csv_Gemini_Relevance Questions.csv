@@ -1,0 +1,200 @@
+Instruction,LLM Answer,Changed,Gemini Output,Relevance Score,Coherence Score,Diversity Score,Human Relevance,Human Coherence,Human Diversity
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The concept of eigenvalues and eigenvectors is crucial in understanding linear transformations and their properties."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['1. What is the formula for pie?', '2. How do I find an eigenvalue?', '3. What is an eigenvector?', ""4. What is Friedmann's equation in cosmology?"", '5. How can I use eigenvalues and eigenvectors to solve problems in other areas of mathematics or science?']",2.0,"{
+ ""relevance"": 1.33,
+ ""coherence"": 1,
+ ""diversity"": 2
+}
+Justification:
+
+- **Relevance**: Two out of the five questions are directly relevant to the concept of eigenvalues and eigenvectors. However, the remaining three questions are completely unrelated, which significantly detracts from the overall relevance of the response.
+
+- **Coherence**: The questions lack a logical connection or coherent line of inquiry. They jump from one topic to another, with no clear progression between them. This makes it difficult for a beginner to follow a structured inquiry into the concept of eigenvalues and eigenvectors.
+
+- **Diversity**: Three out of five questions address the main topic, demonstrating some diversity in exploration. However, the two irrelevant questions limit the overall diversity of the response.",1.33,1.0,2.0,3.0,2.0,2.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" Liouville's Theorem states that any bounded entire function must be constant"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""What does it mean for a function to be 'entire'?"", 'What is the history of mathematical tools?', ""How do we determine if a function is 'bounded'?"", 'Who won the last Olympics games?', ""Are there any examples of functions that violate Liouville's Theorem, or are all entire functions constant by necessity?""]",2.0,"```
+{
+  ""relevance"": 2,
+  ""coherence"": 2,
+  ""diversity"": 3,
+  ""justification"": ""After considering all the scorings and their justifications, the final scores are:\n\n- **Relevance**: 2\n   The questions are somewhat relevant to Liouville's Theorem, but they include some unrelated topics. Only one or two questions directly address the core concepts of the theorem.\n\n- **Coherence**: 2\n   The questions lack a clear logical connection or progression. They jump between different topics without a cohesive flow, making it difficult to follow a structured exploration of the theorem.\n\n- **Diversity**: 3\n   The questions cover a diverse range of aspects related to the theorem, although some questions are irrelevant. The questions touch on topics such as the definition of an entire function, the boundedness of functions, and potential counterexamples.""
+}
+```",2.0,2.0,3.0,3.0,2.0,3.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" The Cauchy-Schwarz inequality states that for all vectors u and v of an inner product space, the absolute value of the inner product of u and v is less than or equal to the product of the norms of u and v"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What does it mean for the absolute value of the inner product of two vectors to be less than or equal to the product of their norms?', 'What is your favorite fruit?', 'Is there a specific context or situation where the Cauchy-Schwarz inequality is particularly useful?', 'How does the Cauchy-Schwarz inequality relate to other mathematical concepts?', ""What's the time now?""]",2.0,"``` JSON
+{
+  ""relevance"": 2,
+  ""coherence"": 1,
+  ""diversity"": 1,
+  ""justification"": ""The relevance score is 2 because only one question is directly related to the Cauchy-Schwarz inequality. The coherence score is 1 because the questions do not connect logically and do not form a coherent line of inquiry. The diversity score is 1 because the questions cover a narrow range of aspects, only exploring the definition of the inequality.""
+}
+```",2.0,1.0,1.0,3.0,2.0,2.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" Euler's totient function φ(n) is defined as the number of positive integers up to n that are relatively prime to n"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the history of Mathematics?', 'Can I have an ice cream?', ""Why is this function called 'Euler's totient function'?"", 'How is this function related to other mathematical concepts, such as prime numbers and modular arithmetic?', ""Can I use Euler's totient function to solve any particular problem or prove any specific result?""]",2.0,"``` JSON
+{
+""relevance"": 1.33,
+""coherence"": 1,
+""diversity"": 2.33
+}
+```",1.33,1.0,2.33,2.0,2.0,2.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" The dot product of two vectors is a scalar quantity that measures the cosine of the angle between them and the product of their magnitudes"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the dot product?', 'How can I make a good cup of coffee?', 'How do I calculate the dot product of two vectors?', 'What is the difference between the dot product and other types of vector products (e.g. vector addition)?', 'What are some good books to read in 2022?']",2.0,"{
+  ""relevance"": 1.33,
+  ""coherence"": 1,
+  ""diversity"": 1.33,
+  ""justification"": 
+    ""After considering the three human assessments, I have determined the following final scores:\n\n"" +
+    ""**Relevance**: 1.33\n"" +
+    "" - Human 1 gave the lowest relevance score of 1, as only one question directly pertains to the statement about the dot product of vectors.\n"" +
+    "" - Humans 2 and 3 also gave low relevance scores of 2 and 1, respectively, due to the presence of irrelevant and off-topic questions.\n"" +
+    "" - Considering these evaluations, I give a final relevance score of 1.33, reflecting the low relevance of the questions to the given statement.\n\n"" +
+    "" **Coherence**: 1\n"" +
+    "" - All three human assessors agreed that the questions lack coherence and do not form a logical progression related to understanding the given statement. \n"" +
+    "" - Therefore, I give a final coherence score of 1.\n\n"" +
+    ""  **Diversity**: 1.33\n"" +
+    "" - Humans 1, 2, and 3 gave diversity scores of 1, 1, and 3, respectively.\n"" +
+    "" - While the questions cover various topics, they are all irrelevant to the original statement and fail to explore different aspects or dimensions related to the dot product of vectors.\n"" +
+    "" - Thus, I give a final diversity score of 1.33, indicating that the questions lack true diversity in exploring the given concept.""
+}",1.33,1.0,1.33,3.0,2.0,2.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" The Heisenberg Uncertainty Principle in quantum mechanics implies that it is impossible to simultaneously measure the exact position and momentum of a particle"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the color of a typical quantum particle?', 'How does the uncertainty principle relate to the idea of wave-particle duality?', 'What does the speed of sound has to do with uncertainty principle?', 'How does the uncertainty principle limit our ability to predict the behavior of particles at the atomic scale?', 'Are there any exceptions or limitations to the uncertainty principle?']",2.0,"```JSON
+{
+ ""relevance"": {
+  ""score"": 1.67,
+  ""justification"": ""The average score for relevance is 1.67. While some questions are directly relevant to the Heisenberg Uncertainty Principle, others are more peripheral and do not contribute significantly to understanding it.""
+ },
+ ""coherence"": {
+  ""score"": 2,
+  ""justification"": ""The average score for coherence is 2. The questions lack a clear logical sequence and do not build upon each other, making it difficult to form a coherent line of inquiry.""
+ },
+ ""diversity"": {
+  ""score"": 2.67,
+  ""justification"": ""The average score for diversity is 2.67. The questions cover a variety of aspects of the uncertainty principle, including its relation to wave-particle duality, limitations, and implications for prediction; however, they do not delve deeply into any particular area.""
+}
+}
+```",1.67,2.0,2.67,3.0,2.0,2.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" If a series ∑a_n converges, then lim_(n→∞) a_n = 0"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What color schemes can be employed in graphing a series?', 'How do I know if a series is converging or diverging?', 'What is the best dessert?', 'Why is it important to determine whether a series converges or diverges?', 'How can I use this statement to solve problems involving infinite series?']",2.0,"```json
+{
+  ""Relevance"": 2,
+  ""Coherence"": 1,
+  ""Diversity"": 3,
+  ""Justification"": ""After considering the justifications provided by all three human scorers, it becomes evident that the questions lack relevance to the mathematical statement in question. The questions fail to explore the concepts of convergence and limits mentioned in the statement and instead focus on unrelated topics such as graphing, desserts, and problem-solving. Additionally, the questions lack coherence, as they do not form a logical progression or line of inquiry. While there is some diversity in the questions, with some covering different aspects, their overall relevance and coherence hinder their usefulness in learning about the mathematical statement.""
+}
+```",2.0,1.0,3.0,3.0,2.0,3.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" The concept of mathematical proof involves deriving a statement from axioms and previously established statements using the rules of logic"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the color of mathematics?', 'How do we use logic to derive statements?', 'What are some common rules of logic used in mathematical proofs?', ""What's the fundamental frequency of a violin string?"", 'Can we use mathematical proof to prove anything?']",2.0,"```json
+{
+  ""metrics"": {
+    ""relevance"": 1,
+    ""coherence"": 1,
+    ""diversity"": 1
+  },
+  ""justification"": ""Upon careful consideration of the justifications provided by the three scorers, it is evident that the questions lack relevance to the concept of mathematical proof. Questions such as the color of mathematics and the fundamental frequency of a violin string are clearly unrelated to the topic. Furthermore, the questions are not connected logically and fail to explore diverse aspects of mathematical proof. Therefore, a final score of 1 is appropriate for all three metrics: relevance, coherence, and diversity.""
+}
+```",1.0,1.0,1.0,2.0,2.0,2.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" ∇ × F = 0 (Curl of a vector field F)"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What color is the sky?', 'What is a vector field, and why is it important?', 'How do I interpret this equation as a whole? Is it a statement or an instruction?', ""What's for dinner tonight?"", 'How can I learn more about this topic and understand it better?']",2.0,"```json
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 2,
+  ""justification"": ""The questions provided show irrelevance to the topic, lack a logical connection or progression, and are generally not beneficial for understanding the concept of the curl of a vector field. The only question that holds some relevance is 'What is a vector field, and why is it important?,' but it is limited in its scope and does not address the specific mathematical statement given.""
+}
+```",1.0,1.0,2.0,2.0,1.0,2.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" lim(x -> 0) sin(x)/x = 1"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""What's the weather like today?"", ""What is the purpose of the '/' symbol in the equation?"", ""What is the relationship between 'sin(x)' and 'x'?"", ""Why is there a '0' in the equation?"", 'What is your favorite color?']",2.0,"``` JSON
+{
+  ""relevance"": 1.33,
+  ""coherence"": 1,
+  ""diversity"": 2,
+  ""justification"": ""After considering the justifications provided by all three human scorers, it is clear that none of the questions are directly relevant to the mathematical statement or seek to clarify or explore its elements. Additionally, there is no logical connection between the questions, and they do not form a coherent line of inquiry. While the questions cover a limited range of aspects, they fail to offer a broad exploration of the statement due to the inclusion of irrelevant questions. Therefore, the final scores are as follows:
+  
+**Relevance:** 1.33 (average of 2, 1, and 1)
+**Coherence:** 1 (average of 1, 1, and 1)
+**Diversity:** 2 (average of 2, 1, and 3)"" 
+}
+```",1.33,1.0,2.0,3.0,2.0,3.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" The eigenvalues of a matrix are roots of its characteristic equation"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is a matrix?', 'What is an eigenvalue?', 'What is the capital of France?', 'Why is the sky blue?', 'How can I use eigenvalues to solve problems in other areas of math and science?']",2.0,"```json
+{
+  ""relevance"": 1.33,
+  ""coherence"": 1,
+  ""diversity"": 1.67,
+  ""justification"": ""Relevance: Two out of three scorers agreed that only two questions are relevant to the given statement. One scorer gave a score of 1, while the other two gave a score of 2. Therefore, the final score for relevance is 1.33.\nCoherence: All three scorers agreed that the questions do not form a coherent line of inquiry and are not logically connected to each other. Therefore, the final score for coherence is 1.\nDiversity: Two out of three scorers agreed that the questions do not cover a range of aspects related to the statement and do not provide a broad exploration of the topic. However, one scorer gave a score of 3 for diversity. Therefore, the final score for diversity is 1.67.""
+}
+```",1.33,1.0,1.67,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" The Sylow theorems provide conditions under which a finite group contains subgroups of a given order"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the color of a typical mathematics textbook?', 'How do the Sylow theorems help us understand the structure of finite groups?', 'Can you give an example of a group that satisfies one of the Sylow theorems?', 'Who are some famous mathematicians in history?', 'Are there any applications or real-world examples of the use of Sylow theorems?']",2.0,"```json
+{
+  ""relevance"": 2,
+  ""coherence"": 2,
+  ""diversity"": 2,
+  ""justification"": ""After considering all the scorings and their justifications, I have decided to give a final score of 2 for relevance, coherence, and diversity. The questions are somewhat related to the topic of the Sylow theorems and understanding finite groups, but they do not form a coherent line of inquiry and lack a clear progression or logical sequence. Additionally, while the questions cover various aspects of mathematics and its related fields, only one is directly relevant to the Sylow theorems. The other questions deviate significantly from the primary topic, reducing their overall diversity in relation to the statement.""
+}
+```",2.0,2.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""A smooth manifold is orientable if it has a globally defined nonvanishing volume form"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them",,,"```json
+{
+  ""relevance"": 2,
+  ""coherence"": 2,
+  ""diversity"": 3,
+  ""justification"": ""After considering all three evaluations, it's evident that the set of questions lacks relevance to the provided mathematical statement. The questions don't effectively explore the core concepts of orientability and nonvanishing volume forms. While they cover different aspects, the overall organization and progression could be improved. Therefore, the final scores are as follows:
+
+- **Relevance**: 2 out of 5 - The questions show limited relevance to the core mathematical statement.
+- **Coherence**: 2 out of 5 - The questions are not well-connected and don't provide a clear structure for learning.
+- **Diversity**: 3 out of 5 - The questions address various dimensions of the statement, but they could delve deeper into different perspectives and applications.""
+}
+```",2.0,2.0,3.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" The Fibonacci sequence is defined by the recurrence relation F(n) = F(n-1) + F(n-2), with seed values F(0) = 0, F(1) = 1"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the color of the sequence in a rainbow spectrum?', 'Why does the sequence start with those particular numbers (0 and 1)? Is there a reason for that?', 'How do I know if my favorite TV show will be renewed next year?', 'Can I use the Fibonacci sequence in baking a cake?', 'What animals can run faster than a cheetah?']",2.0,"```json
+{
+  ""scores"": {
+    ""relevance"": 1,
+    ""coherence"": 1,
+    ""diversity"": 2
+  },
+  ""justification"": ""Based on the justifications provided by all three human scorers, it's evident that the questions are not relevant to the topic of the Fibonacci sequence, lack a logical connection, and cover a narrow range of unrelated topics. Therefore, the final scores are:\n\nRelevance: 1 (Irrelevant)\nCoherence: 1 (Incoherent)\nDiversity: 2 (Limited Diversity)""
+}
+```",1.0,1.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The Nash Equilibrium presents a solution concept in non-cooperative games, where no player can benefit by changing strategies if the others remain unchanged."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the color of a typical chess board?', 'How does the Nash Equilibrium help us understand solutions to non-cooperative games?', 'Favorite ice cream flavor?', 'How do we determine whether a Nash Equilibrium exists for a given game?', 'What are some common applications of the Nash Equilibrium outside of game theory?']",2.0,"{
+ ""relevance"": 2,
+ ""coherence"": 2,
+ ""diversity"": 2,
+ ""justification"": ""After considering all the scorings and their justifications, I've decided to give a final score of 2 for each category. \n\n**Relevance:** While some questions (Q2 and Q4) are directly relevant to the Nash Equilibrium concept, others (Q1, Q3, and Q5) are not. Irrelevant questions detract from the overall understanding of the topic.\n\n**Coherence:** The questions lack a clear logical connection and do not form a coherent line of inquiry. Questions like \""What is the color of a typical chess board?\"" and \""Favorite ice cream flavor?\"" are completely unrelated to the topic.\n\n**Diversity:** The questions cover a narrow range of aspects related to the Nash Equilibrium concept. While questions like \""How do we determine whether a Nash Equilibrium exists for a given game?\"" are essential, others like \""What are some common applications of the Nash Equilibrium outside of game theory?\"" are too broad and could lead to a scattered understanding of the topic.\n\nIn summary, while some questions are useful for understanding the Nash Equilibrium concept, the overall set lacks relevance, coherence, and diversity, hindering a comprehensive exploration of the topic.""
+}",2.0,2.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" Nabla . F = 0 (Divergence of a vector field)"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What color is the Sun?', 'Why is the divergence of a vector field equal to zero?', 'Which continent is the largest?', 'What is the context in which this equation is used?', 'Are there any real-world applications or examples where this equation comes into play?']",2.0,"``` JSON
+{
+  ""relevance"": 2.66, 
+  ""coherence"": 2, 
+  ""diversity"": 2.33,
+  ""justification"": ""The average score for relevance, coherence, and diversity is 2.66, 2.00, and 2.33, respectively. However, considering the justifications provided by each human scorer, it is evident that question sets lack a focused exploration of the statement and fail to demonstrate a clear understanding of the mathematical concept. Thus, it is appropriate to adjust the scores accordingly.
+
+- Relevance: The initial question set includes irrelevant questions that do not contribute to the exploration of the statement. Therefore, the relevance score is reduced to **2.0**.
+
+- Coherence: The questions are disjointed and lack a logical progression, making it difficult for a beginner to follow a coherent path towards understanding the concept. Hence, the coherence score is set to **1.5**.
+
+- Diversity: While the questions cover a range of topics, the majority of them are unrelated to the statement's context. Consequently, the diversity score is adjusted to **2.0**.
+
+These adjusted scores provide a more accurate assessment of the question sets' effectiveness in guiding a beginner's understanding of the mathematical statement."" 
+}
+```",2.66,2.0,2.33,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""Catastrophe theory studies how small changes in conditions can cause sudden shifts or 'catastrophes' in the behavior of a system, applicable in various scientific fields."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the history of the Game of Thrones?', 'How do small changes in conditions lead to sudden shifts or catastrophes?', 'What are some popular chocolate brands?', 'How is catastrophe theory used in different scientific fields?', 'Can catastrophe theory help us predict or prevent future catastrophes?']",2.0,"```JSON
+{
+  ""relevance"": 2,
+  ""coherence"": 2,
+  ""diversity"": 2,
+  ""justification"": ""After considering all the scorings and their justifications, the final scores are as follows:\n\n**Relevance: 2**\nWhile some questions are relevant to the statement about catastrophe theory, others are not. The questions that are relevant provide useful starting points for learning about the topic, but the irrelevant questions detract from the overall relevance of the set.\n\n**Coherence: 2**\nThe questions lack a clear logical connection and progression. Some questions are unrelated to the topic and disrupt the flow of inquiry. The transitions between questions could be smoother.\n\n**Diversity: 2**\nThe questions cover a somewhat diverse range of aspects, but the inclusion of unrelated questions limits the overall diversity of the set. Some questions explore core concepts, while others speculate on potential applications or are completely unrelated.\n\nOverall, the set of questions has some strengths and weaknesses. The relevant questions can help learners explore the topic further, but the irrelevant questions and lack of coherence limit the effectiveness of the set.""
+}
+```",2.0,2.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""A metric space is a set where a notion of distance (the metric) between elements of the set is defined."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What types of coffee are available in a cafe?', 'How do we define and measure distance between objects in a set?', 'Why is it important to define a distance metric in a set?', 'Can you explain the water cycle?', ""How does the concept of a metric space relate to other mathematical concepts I've learned, like geometry or calculus?""]",2.0,"``` JSON 
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 2,
+  ""justification"": ""After considering all the scorings and their justifications, the final scores are as follows:\n\n* **Relevance**: 1 - Only one question (""How do we define and measure distance between objects in a set?"") is directly relevant to the statement about metric spaces, justifying the score of 1.\n\n* **Coherence**: 1 - The questions do not follow a logical sequence and do not build upon each other, covering unrelated topics, leading to a score of 1 for coherence.\n\n* **Diversity**: 2 - The questions cover a range of topics, but none of them are related to metric spaces, resulting in a score of 2 despite the diversity in topics explored.""
+}
+```",1.0,1.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" P(A ∩ B) = P(A)P(B) for independent events A and B"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What does it mean for events A and B to be independent?', 'How old is the field of probability theory?', 'Can you give an example of two events that are independent?', 'Have you ever seen a rainbow after it rains?', 'Is there a way to use this equation to calculate the probability of more than two events happening simultaneously?']",2.0,"```json
+{
+  ""relevance"": 2,
+  ""coherence"": 1,
+  ""diversity"": 3,
+  ""justification"": ""The first scorer gave a low relevance score because the questions are not directly related to the equation and its significance, which is true. However, the third scorer gave a higher relevance score because the first question is relevant to the concept of independence between events and the third question is relevant again, asking for an example. The second scorer gave a low coherence score because the questions do not have a coherent flow or logical progression, which is also true. The third scorer gave a higher coherence score because the questions cover various aspects of the statement, such as the definition of independence, examples, and potential extensions to multiple events. The first scorer gave a low diversity score because the questions cover a limited range of aspects with only one question directly related to the concept of independent events, which is true. The second scorer gave a higher diversity score because the questions cover a wide range of topics, going beyond the statement's context, which is also true. The third scorer gave a higher diversity score because the questions cover various aspects of the statement, such as the definition of independence, examples, and potential extensions to multiple events. Considering all the justifications, the final scores are: relevance: 2, coherence: 1, diversity: 3.""
+}
+```",2.0,1.0,3.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" The Möbius strip is a surface with only one side and only one boundary component"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What does it mean for a beach to have only one side? How can a beach have only one side if we typically think of beaches as having multiple sides?', 'What is the significance of Jupiter’s moon Europa being a non-orientable surface?']",2.0,"```json
+{
+  ""relevance"": 1.67,
+  ""coherence"": 1.67,
+  ""diversity"": 1.67,
+  ""justification"": ""After reviewing the three scorings and their justifications, the final scores for relevance, coherence, and diversity are as follows:\n\n**Relevance:** 1.67\nThe questions are loosely relevant to the concept of a Möbius strip but do not directly address its core aspects. They introduce extraneous ideas that may confuse someone who is new to the topic.\n\n**Coherence:** 1.67\nThe questions are somewhat related but do not follow a clear line of inquiry. They seem more like separate thoughts rather than a coherent exploration of the topic.\n\n**Diversity:** 1.67\nThe questions touch on two different dimensions of the Möbius strip but do not cover other important aspects such as its mathematical properties, construction, or real-world examples.""
+}
+```",1.67,1.67,1.67,,,

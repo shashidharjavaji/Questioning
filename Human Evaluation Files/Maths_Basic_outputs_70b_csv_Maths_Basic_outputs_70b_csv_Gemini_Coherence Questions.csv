@@ -1,0 +1,237 @@
+Instruction,LLM Answer,Changed,Gemini Output,Relevance Score,Coherence Score,Diversity Score,Human Relevance,Human Coherence,Human Diversity
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The smallest two-digit number is 10.  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['Can this statement be proven or disproven through mathematical analysis?', ""What does 'smallest' mean in this context?"", 'Is 10 actually the smallest two-digit number?', 'What kind of music do you like?', ""How can a number be both 'two-digit' and 'smallest'?""]",2,"```JSON
+{
+  ""relevance"": 3,
+  ""coherence"": 2,
+  ""diversity"": 3,
+  ""justification"": ""After considering the scorings and justifications from all three human scorers, I have decided on the following final scores:\n\n**Relevance: 3**\n\nWhile two of the five questions are directly relevant to the math statement, the inclusion of an irrelevant question about musical preferences brings down the overall relevance score. However, the remaining questions do demonstrate a good attempt to understand the meaning of the statement and its implications.\n\n**Coherence: 2**\n\nAlthough there is some connection between the first three questions, the inclusion of the fourth question about musical preferences breaks the flow and detracts from the overall coherence of the set. The questions could be better structured to form a more logical line of inquiry.\n\n**Diversity: 3**\n\nThe questions cover a somewhat diverse range of aspects related to the statement. They focus on the definition and properties of the smallest two-digit number as well as its implications. However, they could be further expanded to explore broaderapplications and connections."" 
+}
+```",3.0,2.0,3.0,4.0,3.0,3.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""An even number can be divided by 2 without leaving a remainder"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What does it mean for a number to be even?', 'Are there any other numbers that can be divided by 2 without leaving a remainder?', 'What does it mean to divide a number by 2?', 'Can this statement be applied to any other mathematical operations or concepts?', ""What is a remainder, and why can't an even number leave one when divided by 2?""]",2,"```json
+{
+  ""Relevance"": 5,
+  ""Coherence"": 4,
+  ""Diversity"": 5,
+  ""Justification"": ""All three human scorers gave high relevance scores, indicating that the questions directly relate to understanding the definition and implications of the statement about even numbers and division by 2. \n\nFor coherence, two scorers gave a score of 4, and one gave a score of 3. The questions follow a logical progression to build understanding, but some may be repetitive or overlapping in exploring the concept. \n\nFinally, for diversity, two scorers gave a score of 5, and one gave a score of 4. The questions cover a range of aspects, including the definition of even numbers, the operation of division by 2, and the concept of a remainder.""
+}
+```",5.0,4.0,5.0,5.0,4.0,4.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""x + 7 = 10"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""What does the 'x' represent?"", 'Can I use this equation to solve real-world problems?', ""How do I solve for 'x' in this equation?"", 'Is there a specific method or strategy for solving this type of equation?', ""What is the value of the expression 'x + 7'?""]",2,"``` JSON
+{
+  ""Relevance"": 4.5,
+  ""Coherence"": 4.2,
+  ""Diversity"": 4
+}
+```
+
+The final scores are as follows:
+
+ **Relevance**: 4.5
+- The questions are directly related to the equation provided, asking for clarification on variables, potential applications, problem-solving strategies, and alternative representations.
+- Overall, the questions effectively capture the essence of the equation and its various dimensions. 
+
+**Coherence**: 4.2
+- The questions follow a logical order, but there is room for improvement in terms of refining the sequence to enhance the flow of inquiry.
+- The questions start with identifying the unknown variable, move towards application, then solving the equation, followed by methods for solving it, and finally rephrasing the equation.
+- With minor adjustments, the progression of questions could be smoother and more cohesive. 
+
+**Diversity**: 4
+- The questions cover various dimensions of the equation, such as definition, application, methodology, and reformulation.
+- However, to enhance diversity, the questions could delve into more varied perspectives, such as theoretical underpinnings or connections to other mathematical concepts.",4.5,4.2,4.0,4.0,4.0,4.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The successor of a number is one more than the number.  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""What does 'successor' mean in this context?"", 'Are there any exceptions or special cases to consider?', ""How does this concept relate to other mathematical concepts I've learned?"", 'Is there a pattern or rule that applies to finding successors?', 'How do I determine the successor of a given number?']",2,"``` JSON
+{
+  ""relevance"": 4.5,
+  ""coherence"": 4.5,
+  ""diversity"":  4.5,
+
+  ""justification"": ""All three scorers provided high scores for relevance, coherence, and diversity, with some variations in specific scores. Considering the justifications provided, the final scores are as follows:
+
+- **Relevance (4.5)**: All questions are highly relevant to the concept of successor, addressing its definition, exceptions, and application.
+- **Coherence (4.5)**: The questions follow a logical order, starting with definitional clarification and progressing to exploration of relationships, patterns, and procedures.
+- **Diversity (4.5)**: The questions cover a wide range of aspects related to successor, ensuring a comprehensive understanding of the concept."",
+}
+```",4.5,4.5,4.5,5.0,4.0,5.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""Subtracting a number from itself yields zero.  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['Are there any real-world applications of this equation?', 'Can this equation be extended to more complex mathematical operations?', 'What does it mean to subtract a number from itself?', 'Why does this equation only work for certain numbers?', 'How can I prove that this equation is true?']",2,"```json
+{
+    ""relevance"": 4.5,
+    ""coherence"": 3.5,
+    ""diversity"": 4,
+    ""justification"": ""Human 1's scoring is the highest for relevance and diversity, indicating the questions are highly relevant to the statement and cover a broad range of aspects. Human 2 has the lowest score for relevance as the questions are seen as somewhat relevant and could be more specific. However, Human 2 gives a higher score for coherence due to the smooth progression of questions and clear connections between them. Human 3 provides a balance in both relevance and coherence, acknowledging the logical order of questions but also areas for improvement in transitions and smoothness. Considering the justifications, a final score of 4.5 for relevance, 3.5 for coherence, and 4 for diversity is given.""
+}
+```",4.5,3.5,4.0,5.0,3.0,4.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The length of a circle's diameter is twice its radius.  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is a diameter?', 'Can I use this equation to find the circumference of a circle?', ""How do I measure the length of a circle's diameter?"", 'What is a radius?', 'How do I find the radius of a circle?']",2,"```json
+{
+  ""metrics"": {
+    ""relevance"": 4,
+    ""coherence"": 3.5,
+    ""diversity"": 3.3
+  },
+  ""justification"": ""After considering all three scorings and their justifications, the final scores are as follows:\n\n**Relevance: 4**\nAll five questions are directly related to the concept of circles, diameters, and radii, demonstrating high relevance to the initial statement.\n\n**Coherence: 3.5**\nThe questions follow a mostly logical order, starting with basic definitions and moving towards application. However, there is some overlap between questions 3 and 4, which could be streamlined for better coherence.\n\n**Diversity: 3.3**\nThe questions cover various aspects, such as definitions, relationships, and measurement methods. However, more diverse angles like area, volume, or practical applications could be explored to enhance the diversity of the inquiry.""
+}
+```",4.0,3.5,3.3,5.0,3.0,4.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""A hexagon has six sides and six angles."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is a hexagon?', 'How does the number of sides and angles of a hexagon compare to other polygons, like triangles or squares?', 'How do you define a side or an angle in a hexagon?', 'Are all the sides and angles of a hexagon equal?', 'Can a hexagon have more than six sides or angles?']",2,"```JSON
+{
+  ""Relevance"": 4.66,
+  ""Coherence"": 4,
+  ""Diversity"": 3.66,
+  ""Justification"": ""After considering all the scorings and their justifications, I have concluded the following final scores:\n\nRelevance: 4.66 - All scorers agreed that the questions are highly relevant to the statement about hexagons.\n\nCoherence: 4 - While two scorers gave a score of 4, one gave a score of 5. The justifications indicate that the questions generally follow a logical progression, but there is room for improvement in connecting the questions more explicitly.\n\nDiversity: 3.66 - Two scorers gave a score of 4, while one gave a score of 3. The justifications suggest that the questions cover various aspects of hexagons, but they could benefit from exploring a wider range of perspectives and applications.""
+}
+```",4.66,4.0,3.66,4.0,3.0,4.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The rule of divisibility by 3 states that a number is divisible by 3 if the sum of its digits is divisible by 3."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What does it mean for a number to be divisible by 3?', 'Are there any creatures living on Mars?', 'Are there any exceptions to this rule?', 'Are there any specific breeds of dogs that I should know about?', 'Can this rule be applied to all types of numbers (e.g. integers, decimals, fractions)?']",2,"```JSON
+{
+    ""Relevance"": 2,
+    ""Coherence"": 1,
+    ""Diversity"": 2.5,
+    ""Justification"": ""After considering the justifications provided by all three human scorers, we have concluded that the final scores for relevance, coherence, and diversity are as follows:\n\n**Relevance:** Two out of five questions are relevant to the given statement, while the other three are completely unrelated, resulting in a score of 2.\n\n**Coherence:** The questions lack a logical progression and do not build upon each other, leading to a score of 1 for coherence.\n\n**Diversity:** Three out of five questions cover different aspects of the rule of divisibility by 3, which demonstrates some diversity. However, the inclusion of two unrelated questions brings the score down to 2.5.""
+}
+```",2.0,1.0,2.5,3.0,2.0,2.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The perimeter of a circle is also known as its circumference.  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['Can you give an example or visual representation of this concept?', 'What is a perimeter?', 'What is a circumference?', 'What is a circle?', 'How are perimeter and circumference related?']",2,"```JSON
+{
+  ""metrics"": [
+    {
+      ""name"": ""Relevance"",
+      ""score"": 4,
+      ""justification"": ""The questions directly explore the key elements mentioned in the statement: perimeter, circumference, and circle.""
+    },
+    {
+      ""name"": ""Coherence"",
+      ""score"": 4,
+      ""justification"": ""The questions are logically connected, starting with basic concepts and gradually progressing towards the relationship between perimeter and circumference.""
+    },
+    {
+      ""name"": ""Diversity"",
+      ""score"": 3.5,
+      ""justification"": ""The questions cover multiple aspects of the statement, including definitions and relationships. However, they could further expand on applications or implications.""
+    }
+  ]
+}
+```",4.0,4.0,3.5,4.0,3.0,4.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The median of a set of numbers is the middle value when they are ordered from least to greatest"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['Can there be more than one median in a set of numbers?', 'What does it mean to order numbers from least to greatest?', 'What if the set of numbers has an even number of values?', 'What if the set of numbers has an odd number of values?', 'How do I find the middle value in a set of numbers?']",2,"``` JSON
+{
+ ""relevance"": 4.7,
+ ""coherence"": 4.3,
+ ""diversity"": 4,
+ ""justification"": ""Upon reviewing the scorings and justifications provided by the three human scorers, I have determined the following final scores. 
+
+Relevance: 4.7 - All three scorers rated the relevance of the questions highly, with scores of 4, 5, and 5. The questions directly address the key aspects of the statement and provide valuable insights into understanding the concept of median.
+
+Coherence: 4.3 - While all three scorers agreed that the questions follow a logical progression, they also noted that the interconnectedness could be improved. Therefore, I have assigned a score of 4.3, reflecting the overall good coherence of the questions.
+
+Diversity: 4 - Two of the scorers rated the diversity of the questions as 4, while the third scorer gave a rating of 5. After considering the range of aspects covered by the questions, I have determined a score of 4 to be appropriate. While the questions explore essential elements, they could delve into a broader spectrum of scenarios or applications.""
+}
+```",4.7,4.3,4.0,5.0,4.0,4.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""A polygon with five sides is called a pentagon.  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['Can a pentagon have more than five sides?', 'What is a polygon?', ""How do I spell 'pentagon'?"", 'Is a pentagon a type of triangle?', 'How many sides does a pentagon have?']",2,"``` JSON
+{
+ ""Relevance"": 4 ,
+ ""Coherence"": 3,
+ ""Diversity"": 3
+}
+```
+**Final Scores and Justification:**
+
+**Relevance:** 4
+Justification: The questions are mostly relevant to the statement, as they address the concept of a pentagon and polygons. Questions 1 and 4 are slightly tangential, but they still show a curiosity and exploration of the topic.
+
+**Coherence:** 3
+Justification: The questions somewhat connect to the general topic of polygons, but the progression could be more logically structured. The sequence of questions does not facilitate a smooth flow of inquiry.
+
+**Diversity:** 3
+Justification: The questions touch on various aspects of pentagons, including their definition, spelling, and relation to other shapes. However, more depth and variety could be included to fully explore the concept.",4.0,3.0,3.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""Two angles that add up to 180° are called supplementary angles.  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['Can supplementary angles be acute, obtuse, or both?', ""What does it mean for two angles to 'add up' to 180°?"", 'Are there any real-world applications or examples of supplementary angles that I can relate to?', 'How do I identify whether two angles are supplementary or not?', 'Are zebras found in asia?']",2,"```json
+{
+  ""relevance"": 3,
+  ""coherence"": 2,
+  ""diversity"": 3,
+  ""justification"": ""Human scorer 1 identified the irrelevance of the question about zebras, while human scorer 2 provided a more nuanced assessment of the relevance of the other questions. Human scorer 3 also highlighted the abrupt transition between Question 3 and the others. However, human scorer 3 gave a higher score for diversity without providing a clear justification. Considering the justifications provided by all three human scorers, the final scores are as follows:\n\n**Relevance**: 3 - The questions are mostly relevant to the statement, but the question about zebras is not.\n**Coherence**: 2 - The questions are somewhat connected but lack a smooth flow.\n**Diversity**: 3 - The questions cover a range of aspects, but the question about zebras does not contribute to the exploration of the topic.""
+}
+```",3.0,2.0,3.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""5 + 3 x 2 = 11"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What animal is best for farming?', ""How do I evaluate the expression '3 x 2'?"", 'What does the equal sign (=) indicate in the equation?', ""What's the capital city of France?"", 'Is there a specific order in which I should perform the operations in the equation?']",2,"```json
+{
+  ""relevance"": 1.33,
+  ""coherence"": 1,
+  ""diversity"": 2
+}
+```
+
+**Justification:**
+
+* **Relevance:** Two out of three scorers gave a relevance score of 1, while one gave a score of 2. Considering that only one question is directly related to the mathematical statement, a final score of 1.33 is fair.
+
+* **Coherence:** All three scorers agreed that the questions lack coherence and do not form a coherent line of inquiry. Therefore, the final score remains 1.
+
+* **Diversity:** While one scorer gave a score of 1 for diversity, the other two gave scores of 4 and 2. Considering that the questions cover various topics, despite their irrelevance, a final score of 2 is appropriate.",1.33,1.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The reflection of a number about zero on the number line is its negative.  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What does it mean to reflect a number about zero on the number line?', 'Are there any real-world applications of this equation that I should know about?', 'How do I determine the negative of a number?', 'Can you give an example of this equation in action?', 'Is there a way to visualize this equation to help me understand it better?']",2,"``` JSON
+{
+ ""Relevance"": ""5"" ,
+ ""Justification"": "" All three scorers gave a relevance score of 4 or 5. The questions directly relate to the statement, exploring various facets such as definition, application, calculation, illustration, and visualization. The questions are essential for understanding the concept comprehensively.""
+ 
+ ""Coherence"": ""4"",
+ ""Justification"": ""Two scorers gave a coherence score of 4, while one gave a score of 3. The questions logically flow from understanding the definition to exploring applications, methods, and techniques. The placement of the example question (4th) could be improved for better coherence, but overall, the questions follow a sensible order.""
+
+ ""Diversity"" : ""5"",
+ ""Justification"": ""All three scorers gave a diversity score of 4 or 5. The questions cover a wide range of perspectives, providing a comprehensive introduction to the topic without delving into unnecessary complexities. ""
+}
+```",,,,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""To find the average of a set of numbers, sum the numbers and divide by the count."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""What does 'divide by the count' mean?"", 'How do I ensure that my answer is accurate and not rounded incorrectly?', 'How do I know what numbers to include in the set?', ""What does 'sum the numbers' mean?"", 'Can I use this equation for any type of data, or are there certain limitations?']",2,"```JSON
+{
+  ""relevance"": 4,
+  ""coherence"": 3.5,
+  ""diversity"": 3.5,
+  ""justification"": ""All three scorers gave a relevance score of 4, indicating that the questions are highly relevant to the given statement. For coherence, scorer 1 gave a score of 3, scorer 2 gave a score of 3, and scorer 3 gave a score of 3.5. While the questions are logically connected, there is room for improvement in the sequence to provide a more structured exploration of the statement. Scorer 1 gave a diversity score of 4, scorer 2 gave a score of 3, and scorer 3 gave a score of 3.5. The questions cover a range of aspects, including the meaning of key terms, appropriate data selection, and potential limitations of the equation. However, there could be more questions that delve deeper into the practical applications of the equation.""
+}
+```",4.0,3.5,3.5,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""A triangle with all sides of different lengths is called a scalene triangle.  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['Are there any specific properties or characteristics that define a scalene triangle?', 'What does ""scalene"" mean?', 'How does a scalene triangle differ from other types of triangles, such as equilateral or isosceles triangles?', 'Can you give an example of a scalene triangle?', 'How can a triangle have all sides of different lengths?']",2,"```json
+{
+  ""scores"": {
+    ""relevance"": 4.5,
+    ""coherence"": 3.5,
+    ""diversity"": 4.5
+  },
+  ""justification"": ""After considering all three scorings and their justifications, the final scores are:\n\n**Relevance: 4.5**\n\nAll three scorers agree that the questions are highly relevant to the statement, seeking to clarify the definition, characteristics, and examples of a scalene triangle.\n\n**Coherence: 3.5**\n\nWhile two scorers rate coherence as 4, one rates it as 3 due to a perceived lack of smoothness in the transition between question 4 and 5. Considering this feedback, a final score of 3.5 is given.\n\n**Diversity: 4.5**\n\nAll three scorers agree that the questions cover a diverse range of aspects related to scalene triangles, including their definition, properties, comparisons, and examples.""
+}
+```",4.5,3.5,4.5,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""Adding zero to any number does not change the number.  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What does it mean to add zero to a number?', 'How can I apply this equation in real-life scenarios?', 'Can I prove or disprove this equation?', 'Is this equation true for all numbers?', 'Are there any exceptions to this rule?']",2,"``` JSON
+{
+   ""relevance"": 4.67,
+   ""coherence "": 3.67,
+   ""diversity "": 4
+}
+```
+**Relevance (4.67)**: All three scorers gave scores of 4 or 5 for relevance, indicating that the questions are closely aligned with the statement and aim to clarify its various aspects. The questions explore the meaning of the statement, its practical applications, and potential exceptions.
+
+**Coherence (3.67)**: While the questions generally follow a logical progression, there is some room for improvement in the coherence of the sequence. The scorers provided varying assessments, with one giving a score of 4 and two giving a score of 3. A more structured progression of questions could enhance the overall coherence.
+
+**Diversity (4)**: The questions cover multiple perspectives and dimensions of the statement, including its definition, proof, applicability, and exceptions. However, there is some overlap between the questions about proof and exceptions. Nonetheless, the range of questions provides a comprehensive exploration of the concept.
+
+In conclusion, the top 5 questions are relevant, diverse, and generally coherent, providing a solid foundation for understanding the statement ""Adding zero to any number does not change the number.""",4.67,,,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""Two angles that add up to 90° are called complementary angles.  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['Why are these angles special?', 'How do I identify complementary angles?', 'Can complementary angles be any size, or do they have to be a certain magnitude?', 'What does it mean for two angles to ""add up to 90°""?', 'Are there any real-world applications of complementary angles?']",2,"```json
+{
+  ""relevance"": 4,
+  ""coherence"": 4,
+  ""diversity"": 4,
+  ""justification"": ""After considering all the scorings and justifications provided by the three human scorers, I have decided on the following final scores:\n\n**Relevance: 4**\n\nAll three scorers agreed that the questions are generally relevant to the concept of complementary angles. While some questions could be improved for specificity, they all explore important aspects of the topic.\n\n**Coherence: 4**\n\nTwo scorers gave a score of 3, while one gave a score of 5. After considering their justifications, I believe a score of 4 is appropriate. The questions do follow a logical order, but there is room for improvement in the transition between the third and fourth questions.\n\n**Diversity: 4**\n\nAll three scorers agreed that the questions cover various aspects of complementary angles. However, they could further explore relationships between complementary angles and other mathematical concepts.\n\nOverall, I believe these final scores accurately reflect the strengths and weaknesses of the questions. They cover important aspects of complementary angles, follow a somewhat logical order, and explore a variety of concepts.""
+}
+```",4.0,4.0,4.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it """", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['Are there any common mistakes people make when using this equation?', 'What do the letters in the equation represent?', 'Can you provide an example of how to use the equation to solve a problem?', 'Is this equation used to solve a specific type of problem or is it a general formula?', 'What are the steps involved in solving the equation?']",2,"```json
+{
+  ""relevance"": 4,
+  ""coherence"": 3.5,
+  ""diversity"": 3.5,
+  ""justification"": ""After considering the justifications provided by all three human scorers, I have decided on the following final scores:\n\n**Relevance:** 4\n\nAll three scorers agreed that the questions are directly related to understanding the equation and its usage, so I have given a score of 4 for relevance.\n\n**Coherence:** 3.5\n\nWhile all three scorers agreed that the questions follow a logical progression, two scorers suggested improvements to the flow and order of the questions. Therefore, I have given a score of 3.5 for coherence.\n\n**Diversity:** 3.5\n\nTwo scorers gave a score of 4 for diversity, while one scorer gave a score of 2. Upon reviewing the justifications, I agree that the questions cover a range of aspects related to the equation, but they could benefit from further exploration of theoretical underpinnings or broader implications. Hence, I have given a score of 3.5 for diversity.""
+}
+```",4.0,3.5,3.5,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""A factor of a number divides that number without leaving a remainder."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What does it mean for a number to divide another number without leaving a remainder?', 'Can you think of any real-world applications where understanding factors and divisibility is important?', 'How do you determine if a number is a factor of another number?', 'Can you give an example of a factor of a number dividing that number without leaving a remainder?', 'Are there any special rules or properties that factors have to follow?']",2,"```json
+{
+  ""relevance"": 4,
+  ""coherence"": 4,
+  ""diversity"": 4,
+  ""justification"": ""After considering the justifications provided by all three human scorers, the final scores are as follows:\n\n**Relevance:** 4 - All questions are directly related to the concept of factors and divisibility, asking for examples, explanations, and applications.\n\n**Coherence:** 4 - The questions generally follow a logical order, moving from basic definitions to more complex ideas like real-world applications and properties. However, some connections could be clearer between questions.\n\n**Diversity:** 4 - A wide range of aspects are covered, such as definition, application, examples, and properties, providing a comprehensive introduction to the topic.\n\nOverall, the questions are relevant, coherent, and diverse, but there is room for improvement in terms of coherence and clarity between some questions.""
+}
+```",4.0,4.0,4.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The sum of the probabilities of all possible outcomes in an experiment is 1"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['Why must the sum of the probabilities equal 1?', 'What is an experiment in this sense?', 'What are the possible outcomes in an experiment?', 'What does probability mean in this context?', 'How do we calculate the probability of each outcome?']",2,"```JSON
+{
+  ""relevance"": 5,
+  ""coherence"": 4,
+  ""diversity"": 4,
+  ""justification"": ""After considering all the scorings and their justifications, the final scores are as follows:\n\n**Relevance:** 5\nAll three human scorers gave a score of 4 or 5 for relevance, indicating that the questions directly relate to the statement about probabilities in an experiment.\n\n**Coherence:** 4\nTwo scorers gave a score of 4 for coherence, while one gave a score of 3. The questions generally progress logically from understanding the sum of probabilities to calculating individual probabilities. However, there could be some improvement in the sequence to provide a clearer progression from general to specific.\n\n**Diversity:** 4\nAll three scorers gave a score of 4 for diversity, indicating that the questions cover various aspects of understanding probabilities in an experiment, including the definition of probability, the nature of experiments, and the calculation of probabilities.""
+}
+```",5.0,4.0,4.0,,,

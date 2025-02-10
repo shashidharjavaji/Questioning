@@ -1,0 +1,209 @@
+Instruction,LLM Answer,Changed,Gemini Output,Relevance Score,Coherence Score,Diversity Score,Human Relevance,Human Coherence,Human Diversity
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The concept of eigenvalues and eigenvectors is crucial in understanding linear transformations and their properties."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are eigenvalues and eigenvectors?', 'Can you give some examples of eigenvalues?', 'How do I calculate eigenvalues and eigenvectors?', 'Can you give an example where we only need the eigenvalue?', 'Is there a way to visualize or graph eigenvalues and eigenvectors to help me understand them better?']",2,"```JSON
+{
+  ""metrics"": {
+    ""relevance"": {
+      ""score"": 4.33,
+      ""justification"": ""All three scorers agreed that the questions are highly relevant to the statement, focusing on the definition, calculation, and applications of eigenvalues and eigenvectors.""
+    },
+    ""coherence"": {
+      ""score"": 4,
+      ""justification"": ""Two scorers gave a score of 4, while one gave a score of 3. The questions follow a logical progression, but the connections between each question could be stronger.""
+    },
+    ""diversity"": {
+      ""score"": 4.67,
+      ""justification"": ""All three scorers agreed that the questions cover various aspects of eigenvalues and eigenvectors, including definitions, examples, calculations, and visualization.""
+    }
+  }
+}
+```",4.33,4.0,4.67,5.0,4.0,4.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" Liouville's Theorem states that any bounded entire function must be constant"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""What does it mean for a function to be 'bounded'?"", 'Can you give an example of a function that is bounded?', ""How does Liouville's Theorem relate to other results in calculus, such as the Mean Value Theorem?"", 'Are there any restrictions on the domain of a function?', ""How does Liouville's Theorem impact our understanding?""]",2,"``` JSON
+{
+  ""relevance"": 4.5,
+  ""coherence"": 3.8,
+  ""diversity"": 4.2,
+  ""justification"": ""All three scorers find the questions highly relevant to Liouville's Theorem, addressing core concepts such as bounded functions, examples, and implications. There is a consensus that the questions form a coherent progression, although there could be scope for smoother transitions. The questions also cover a diverse range of aspects, from the definition of boundedness to broader theoretical implications. Considering these evaluations, the final scores are as follows:""
+}
+```",4.5,3.8,4.2,5.0,4.0,4.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" The Cauchy-Schwarz inequality states that for all vectors u and v of an inner product space, the absolute value of the inner product of u and v is less than or equal to the product of the norms of u and v"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is an inner product space?', 'What is the inner product of two vectors?', 'Can you explain the concept of inner product space in more detail?', 'What operation defines an inner product space?', 'Are there any exceptions or special cases where the Cauchy-Schwarz inequality does not hold true?']",2,"```json
+{
+  ""scores"": {
+    ""relevance"": 4,
+    ""coherence"": 3,
+    ""diversity"": 4
+  },
+  ""justification"": ""After considering the justifications provided by all three human scorers, the final scores are as follows:\n\n**Relevance:** All three scorers gave a relevance score of 4, indicating that the questions are directly relevant to the concepts presented in the statement.\n\n**Coherence:** Two scorers gave a coherence score of 3, while one scorer gave a score of 2. The questions follow a somewhat logical progression, but the connection between the fourth and fifth questions could be stronger to guide a beginner's understanding more effectively.\n\n**Diversity:** All three scorers gave a diversity score of 4, indicating that the questions cover a wide range of topics related to the statement, including the definition of inner product space, the definition of inner product, the statement of the Cauchy-Schwarz inequality, and potential exceptions to the inequality.""
+}
+```",4.0,3.0,4.0,4.0,4.0,3.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" Euler's totient function φ(n) is defined as the number of positive integers up to n that are relatively prime to n"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""What does 'relatively prime' mean?"", ""What does 'relatively prime' imply?"", 'How do I calculate φ(n) for a given value of n?', 'How can I find φ(n) for a specific number?', 'Can I use φ(n) to solve any famous mathematical problems or puzzles?']",2,"```JSON
+{
+  ""relevance"": 4,
+  ""coherence"": 4,
+  ""diversity"": 3,
+  ""justification"": ""After considering the justifications provided by all three human scorers, the final scores are as follows:\n\n**Relevance:** 4\nThe questions are directly relevant to the statement, focusing on the definition, calculation, and applications of Euler's totient function. While the last question is somewhat tangential, it still explores a potential application of the function.\n\n**Coherence:** 4\nThe questions form a logical progression, starting with the definition and moving on to calculation and then applications. The sequence of questions facilitates a structured exploration of the statement.\n\n**Diversity:** 3\nThe questions cover a range of aspects, including the definition, calculation, and applications of Euler's totient function. However, they could delve deeper into the theoretical underpinnings and implications of the function.""
+}
+```",4.0,4.0,3.0,5.0,4.0,2.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" The dot product of two vectors is a scalar quantity that measures the cosine of the angle between them and the product of their magnitudes"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is a vector?', 'What is a vector?', 'How do I calculate the dot product of two vectors?', 'What does the dot product tell me about the orientation of the vectors?', 'Can the dot product be negative, and if so, what does that mean?']",2,"```JSON
+{
+  ""relevance"": 3.3,
+  ""coherence"": 3.7,
+  ""diversity"": 2.7,
+  ""justification"": ""After considering all three scorings and their justifications, the final scores are as follows:\n\n**Relevance:** 3.3\nThe questions generally pertain to the concept of the dot product of vectors and its implications. However, the repetition of the question \""What is a vector?\"" and the inclusion of a question that is not directly relevant to the statement (asking what a vector is when the statement already defines vectors) lower the relevance score slightly.\n\n**Coherence:** 3.7\nThe questions mostly progress logically from defining vectors to calculating the dot product and interpreting its results. However, the repetition of the first question slightly disrupts the coherence.\n\n**Diversity:** 2.7\nThe questions collectively explore different dimensions of the statement, including the mathematical definition of a dot product, its geometric interpretation, and its potential applications. However, they could go deeper into theoretical underpinnings or practical applications to increase diversity.""
+}
+```",3.3,3.7,2.7,4.0,4.0,3.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" The Heisenberg Uncertainty Principle in quantum mechanics implies that it is impossible to simultaneously measure the exact position and momentum of a particle"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What does it mean to measure the exact position of a particle?', 'How do you measure position?', 'Is this principle only true for certain types of particles, or does it apply to all particles?', 'How is position measured for different types of particles?', 'Are there any real-world applications or examples that illustrate the uncertainty principle in action?']",2,"```json
+{
+  ""relevance"": 4,
+  ""coherence"": 4,
+  ""diversity"": 4,
+  ""justification"": ""After reviewing the scorings and justifications provided by the three human evaluators, I assign the following final scores:\n\n**Relevance**: 4 (out of 5)\nThe questions are all directly related to the Heisenberg Uncertainty Principle and aim to clarify its implications. While some could be more specific to the principle itself, they collectively provide a solid foundation for understanding the concept.\n\n**Coherence**: 4 (out of 5)\nThe questions follow a logical progression, starting with basic concepts and moving towards more complex ideas like real-world applications. However, there could be a clearer sequence, such as grouping questions related to measurement techniques or implications together.\n\n**Diversity**: 4 (out of 5)\nThe questions cover a range of aspects, including the definition, measurement techniques, applicability, and practical significance of the Uncertainty Principle. While most focus on measurement methods, there could be an additional question that explores the impact or consequences of the principle on our understanding of quantum mechanics.""
+}
+```",4.0,4.0,4.0,4.0,4.0,3.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" If a series ∑a_n converges, then lim_(n→∞) a_n = 0"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What does the symbol ∑ mean?', 'What is the meaning of the phrase ""converges"" in this context?', 'What does the phrase ""converges"" mean in terms of a series?', 'What is the purpose of the limit (lim) in the equation?', 'Can you provide another term for ""converging"" concerning a series?']",2,"```
+{
+  ""Relevance"": 4.66,
+  ""Coherence"": 3.66,
+  ""Diversity"": 4
+}
+```
+
+**Justification:**
+
+1. **Relevance:** All three scorers gave a perfect score for relevance, indicating that the questions are directly related to the statement and address key terms and concepts. The questions focus on understanding the summation symbol, the meaning of convergence, and the role of the limit, which are fundamental components of the statement.
+
+2. **Coherence:** The initial score for coherence was 4, but due to the repetition between questions 2 and 3 identified by Scorer 3, a slight deduction has been made. While the questions logically progress from basic symbols to more advanced concepts, the repetition breaks the smooth flow of inquiry.
+
+3. **Diversity:** All three scorers gave a score of 4 for diversity, acknowledging that the questions cover various aspects of the statement. However, Scorer 3 suggested that further diversification could be achieved by exploring practical applications or real-world examples of the concept. This is a valid point, as it would provide a more comprehensive understanding of the statement's implications.",4.66,3.66,4.0,5.0,4.0,3.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" The concept of mathematical proof involves deriving a statement from axioms and previously established statements using the rules of logic"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are axioms, and how do they relate to mathematical proof?', 'What are some examples of axioms that can be used in mathematical proof?', 'How do the rules of logic come into play in mathematical proof?', 'Can you show me a specific example of how axioms are used in a mathematical proof?', 'How does mathematical proof differ from other types of proof, such as scientific proof or philosophical proof?']",2,"```JSON
+{
+  ""final_scores"": {
+    ""relevance"": 5,
+    ""coherence"": 4.66,
+    ""diversity"": 4.66
+  },
+  ""justification"": ""After considering all the scorings and their justifications, it is evident that all three scorers have provided valuable insights and a consistent assessment of the questions' relevance, coherence, and diversity.
+   
+  The final scores reflect the consensus among the scorers. The questions are highly relevant to the statement on mathematical proof, as they explore its key elements and implications. 
+
+  The questions also exhibit a logical progression and build upon each other, demonstrating coherence in their structure. 
+
+  While the questions cover a range of aspects of mathematical proof, they primarily focus on its technical components. 
+
+  Therefore, the final score for diversity is slightly lower than relevance and coherence, acknowledging that further exploration of the broader implications and applications of mathematical proof could enhance the diversity of the questions.""
+}
+```",5.0,4.66,4.66,5.0,4.0,4.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" ∇ × F = 0 (Curl of a vector field F)"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is a vector field, and how is it related to the concept of curl?', 'What is a vector field, and how can one calculate its magnitude?', 'What does it mean for the curl of a vector field to be equal to zero?', 'How does this equation relate to other mathematical concepts such as differential equations?', 'How is vector calculus used in real-world applications or examples?']",2,"```JSON
+{
+    ""Relevance"": 4,
+    ""Justification"": ""All three scorers gave a score of 4 for relevance, indicating that the questions are directly related to the statement and explore different aspects of it. The questions focus on understanding the vector field, its curl, and their relationship, which are key concepts in the given statement."",
+
+    ""Coherence"": 3.5,
+    ""Justification"": ""Two scorers gave a score of 3, while one gave a score of 4. The questions generally follow a logical progression, starting with the basics (definition of vector field) and then moving on to more specific concepts. However, one scorer mentioned that the transition between the fourth and fifth questions could be smoother. Overall, the questions are coherent but could be improved in terms of a smoother transition between some questions."",
+
+    ""Diversity"": 4,
+    ""Justification"": ""All three scorers gave a score of 4 for diversity, suggesting that the questions cover a broad range of topics. The questions cover the definition of vector fields, curl, their relationship, applications, and connections to other mathematical concepts. This diversity ensures that learners can explore various aspects of the topic and gain a comprehensive understanding.""
+}
+```",4.0,3.5,4.0,5.0,4.0,4.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" lim(x -> 0) sin(x)/x = 1"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What does the limit symbol (lim) mean in math?', 'What does the limit notation really signify in mathematics?', 'Why is the limit being taken as x approaches 0?', 'How does x approaching 0 impact the limit?', 'What does the expression sin(x)/x represent?']",2,"```JSON
+{
+  ""relevance"": 4,
+  ""coherence"": 4,
+  ""diversity"": 3,
+  ""justification"": ""After considering the justifications provided by all three scorers, I have decided on the following final scores:\n\n**Relevance:** 4\n\nAll questions are directly related to the given mathematical statement. They focus on clarifying the meaning of the limit notation, the significance of the limit being taken as x approaches 0, and the interpretation of the expression sin(x)/x in the context of the limit.\n\n**Coherence:** 4\n\nThe questions form a coherent line of inquiry. They start with the basics of limit notation and gradually move towards the specific expression, facilitating a structured exploration of the topic.\n\n**Diversity:** 3\n\nWhile the questions cover a range of aspects related to the statement, they primarily focus on the theoretical underpinnings. Including questions about practical applications or implications could enhance the diversity of the inquiry.""
+}
+```",4.0,4.0,3.0,4.0,4.0,2.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" The eigenvalues of a matrix are roots of its characteristic equation"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is a matrix?', 'How is a matrix defined?', 'How do eigenvalues relate to the matrix?', 'How can we determine the properties of a matrix?', 'What are some real-world applications of eigenvalues and characteristic equations?']",2,"```JSON
+{
+  ""relevance"": 5,
+  ""coherence"": 4,
+  ""diversity"": 4,
+  ""justification"": ""Overall, the questions effectively address the statement's key concepts and explore various aspects of matrices and eigenvalues. They follow a logical progression, starting with fundamental definitions and leading to real-world applications. While the connection between questions 3 and 4 could be improved for better coherence, the questions sufficiently cover the topic's breadth and provide a solid foundation for understanding the equation.""
+}
+```",5.0,4.0,4.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" The Sylow theorems provide conditions under which a finite group contains subgroups of a given order"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is a finite group?', 'What is a subgroup of a group?', 'What is a finite group?', 'Who is Sylow and why are these theorems named after him?', 'What is a finite group?']",2,"```JSON
+{
+  ""Relevance"": 3,
+  ""Coherence"": 2,
+  ""Diversity"": 2,
+  ""Justification"": ""After considering all three scorings and their justifications, the final scores are as follows:\n\n**Relevance**: 3 - The questions are somewhat relevant to the statement but lack depth in exploring the unique conditions and contributions of the Sylow theorems.\n\n**Coherence**: 2 - While the questions follow a logical sequence from basic definitions to historical context, the repetition of the same question indicates a lack of diverse exploration.\n\n**Diversity**: 2 - The questions lack diversity in their focus, primarily covering basic definitions and historical context without delving into the broader implications and applications of the Sylow theorems.""
+}
+```",3.0,2.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""A smooth manifold is orientable if it has a globally defined nonvanishing volume form"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is a smooth manifold?', 'What does it mean for a smooth manifold to be orientable?', 'What is the definition of an orientable smooth manifold?', 'How does the existence of a globally defined nonvanishing volume form imply that a manifold is orientable?', 'What differentiates an orientable smooth manifold from a non orientable one?']",2,"```json
+{
+  ""relevance"": 5,
+  ""coherence"": 4.5,
+  ""diversity"": 4,
+  ""justification"": ""After considering all the scorings and their justifications, the final scores are as follows:\n\n**Relevance:** 5\nAll scorers agreed that the questions are highly relevant to the original statement, addressing key concepts and various aspects of the topic.\n\n**Coherence:** 4.5\nWhile all scorers acknowledged the logical flow of questions, one scorer suggested improving the progression and structure. Thus, a final score of 4.5 is given for coherence.\n\n**Diversity:** 4\nAlthough the questions cover multiple dimensions of the statement, there is room for improvement in terms of exploring practical implications and examples. Hence, the final score for diversity is 4.""
+}
+```",5.0,4.5,4.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" The Fibonacci sequence is defined by the recurrence relation F(n) = F(n-1) + F(n-2), with seed values F(0) = 0, F(1) = 1"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What does the recurrence relation mean, and how does it define the Fibonacci sequence?', 'Can I use the recurrence relation to understand other sequences apart from Fibonacci?', 'How do I calculate the next number in the sequence using the recurrence relation?', 'What is the significance of recurrence relation in the calculation of sequences?', 'Can I use the Fibonacci sequence to model or predict any natural phenomena?']",2,"{
+ ""Relevance"": 5,
+ ""Coherence"": 4,
+ ""Diversity"": 4,
+ ""Justification"": ""After considering the justifications provided by all three human scorers, the final scores are as follows:\n\n**Relevance: 5**\n\nAll questions directly engage with the elements and concepts of the Fibonacci sequence and recurrence relation, aiming to clarify and expand understanding.\n\n**Coherence: 4**\n\nThe questions form a coherent line of inquiry, starting with the definition and calculation of the sequence and progressing to its broader significance and applications. While some questions slightly overlap in terms of scope, they generally follow a logical order and build upon each other.\n\n**Diversity: 4**\n\nThe questions cover various aspects of the Fibonacci sequence and the recurrence relation, such as definition, applicability, calculation, significance, and real-world connections. However, there could be slightly more diversity in the perspectives explored, such as including questions about the historical development or mathematical properties of the sequence.""
+}",5.0,4.0,4.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The Nash Equilibrium presents a solution concept in non-cooperative games, where no player can benefit by changing strategies if the others remain unchanged."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is a non-cooperative game?', 'What does it mean for a player to benefit by changing strategies?', 'What is a non-cooperative game?', ""How do the other players' strategies affect my own strategy?"", 'What does it mean for a player to benefit by changing strategies?']",2,"```JSON
+{
+ ""final_scores"": {
+  ""relevance"": 3,
+  ""coherence"": 2,
+  ""diversity"": 2
+ },
+ ""justification"": ""After considering the justifications provided by the three human scorers, the final scores are as follows:\n\n**Relevance:** While the questions are generally relevant to the Nash Equilibrium concept, some repetition and lack of precision in addressing nuances lead to a score of 3.\n\n**Coherence:** The questions lack a clear logical progression and do not build upon each other effectively, resulting in a score of 2 for coherence.\n\n**Diversity:** The questions cover a limited range of aspects related to the statement, primarily focusing on definitions and basic components, which limits the diversity of perspectives offered and earns a score of 2.""
+}
+```",3.0,2.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" Nabla . F = 0 (Divergence of a vector field)"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""What does the notation 'Nabla' represent?"", ""How is 'Nabla' used in other equations?"", 'What is the purpose of the equation, and what does it describe?', 'How does the equation relate to vector fields, and what does it tell us about them?', ""Are there any real-world applications that involve using 'Nabla'?""]",2,"{
+    ""relevance"": 4.5,
+    ""coherence"": 4.5,
+    ""diversity"": 4,
+    ""justification"": ""After reviewing the scores and justifications provided by the three human scorers, I have determined the following final scores:\n\n**Relevance:** 4.5 out of 5\nThe questions are highly relevant to the given statement, as they seek to clarify its notation, purpose, and implications.\n\n**Coherence:** 4.5 out of 5\nThe questions follow a logical sequence, starting with the definition of Nabla and progressing to its use and implications. The questions are well-connected and build upon each other.\n\n**Diversity:** 4 out of 5\nThe questions cover various dimensions of the statement, such as definition, usage, purpose, and application. While they do not delve into highly specific or advanced applications, they provide a well-rounded exploration of the statement's key concepts.""
+}",4.5,4.5,4.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""Catastrophe theory studies how small changes in conditions can cause sudden shifts or 'catastrophes' in the behavior of a system, applicable in various scientific fields."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""What is the definition of a 'catastrophe' in this context?"", ""What is the definition of a 'catastrophe' in mathematical terms?"", 'What are some examples of systems that exhibit catastrophic behavior?', 'Are there any common patterns or characteristics shared by systems that undergo catastrophic shifts?', 'Are there any common patterns in catastrophic behavior of systems in physics?']",2,"```JSON
+{
+ ""relevance"": {
+  ""score"": 4,
+  ""rationale"": ""While all three scorers gave scores of 3 or above for relevance, scorer 1 provided detailed justifications for the direct relation of the questions to the statement. Scorer 2 brought up a valid point about the lack of exploration of the applicability across different scientific fields, but this aspect is not a major focus of the statement. Therefore, a score of 4 is given, considering the strong justifications from scorer 1 and the minor limitation raised by scorer 2.""
+ },
+ ""coherence"": {
+  ""score"": 3,
+  ""rationale"": ""Scorer 1 gave a score of 4, highlighting the coherent line of inquiry. Although scorer 2 gave a lower score of 2, their critique of the placement of questions on common patterns has some merit. Considering both perspectives and the overall logical flow of the questions, a score of 3 is appropriate.""
+ },
+ ""diversity"": {
+  ""score"": 4,
+  ""rationale"": ""Scorers 1 and 3 gave scores of 5 and 4, respectively, emphasizing the broad range of aspects covered by the questions. While scorer 2 noted the limited exploration of certain areas, the questions do effectively address several key aspects of catastrophe theory. Therefore, a score of 4 is given, acknowledging the diversity of topics addressed while also considering the potential for further exploration.""
+}
+```",,,,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""A metric space is a set where a notion of distance (the metric) between elements of the set is defined."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""What is meant by 'distance' in this context?"", ""How is 'distance' defined, and what are its properties?"", 'What are some examples of metric spaces, and how do they differ from one another?', ""In what ways does 'distance' factor into the behavior of a metric space?"", ""Do all metric spaces share the same definition of 'distance'?""]",2,"{
+  ""relevance"": 4.5,
+  ""coherence"": 4.33,
+  ""diversity"": 3.67,
+  ""justification"": ""After carefully evaluating the justifications provided by each human scorer, I have determined the following final scores:\n\n**Relevance:** 4.5\nThe questions are highly relevant to the concept of a metric space, as they explore the core idea of distance and its implications. While one question may slightly deviate from the main topic, the overall relevance remains strong.\n\n**Coherence:** 4.33\nThe questions exhibit a logical flow, progressing from fundamental definitions to more nuanced concepts. This structure supports the gradual understanding and development of knowledge about metric spaces.\n\n**Diversity:** 3.67\nWhile the questions cover several aspects of metric spaces, there is room for improvement in terms of exploring practical applications or consequences of the concept. Expanding the range of questions to include these elements would enhance the overall diversity and provide a more comprehensive view of the topic.""
+}",4.5,4.33,3.67,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" P(A ∩ B) = P(A)P(B) for independent events A and B"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What does the notation P(A ∩ B) mean?', ""What does the symbol '∩' signify in P(A ∩ B)?"", 'How can we determine whether events A and B are independent?', 'What is the purpose of the equation P(A ∩ B) = P(A)P(B)?', 'What is the purpose of the equation P(A ∩ B) = P(A)P(B)?']",2,"```JSON
+{
+  ""relevance"": 4,
+  ""coherence"": 3,
+  ""diversity"": 3,
+  ""justification"": {
+    ""relevance"": ""All three scorers gave a relevance score of 4 or 5, indicating that the questions are highly relevant to the given statement. The questions focus on essential components of the equation, such as notation, symbols, independence, and purpose."",
+    ""coherence"": ""Two scorers gave a coherence score of 4, while one gave a score of 3. The slight deduction in coherence is due to the repetition of the last question, as noted by one scorer. However, overall, the questions flow logically and build upon each other."",
+    ""diversity"": ""Two scorers gave a diversity score of 3, while one gave a score of 4. This indicates that the questions cover a range of different aspects of the equation. However, there is some overlap in their focus, particularly in the second and fourth questions, which both deal with the meaning of the '∩' symbol.""
+  }
+}
+```",4.0,3.0,3.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" The Möbius strip is a surface with only one side and only one boundary component"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What does it mean for a surface to have only one side?', 'How can a surface have a single side?', 'What is the shape of the Möbius strip?', 'What are the dimensions of a Möbius strip?', 'What are some real-world applications or examples of the Möbius strip?']",2,"```JSON
+{
+ ""final_scores"": {
+""relevance"": 4.67,
+""coherence"": 4.3,
+""diversity"": 4
+    },
+""justification"": ""After considering all three scorings and their justifications, the final scores are as follows:
+
+Relevance: 4.67 - All questions directly target the key concepts presented in the statement, focusing on the unique properties of the Möbius strip.
+
+Coherence: 4.3 - The questions logically progress from defining the concept of a single-sided surface to exploring the shape, dimensions, and applications of the Möbius strip. While not all questions are directly connected, they form a coherent line of inquiry about the Möbius strip.
+
+Diversity: 4 - While the questions cover essential aspects of the Möbius strip, they primarily focus on its geometric properties. Expanding into its topological implications or historical significance would enhance diversity.""
+}
+```",4.67,4.3,4.0,,,
