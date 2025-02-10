@@ -1,0 +1,301 @@
+Instruction,LLM Answer,Changed,Gemini Output,Relevance Score,Coherence Score,Diversity Score,Human Relevance,Human Coherence,Human Diversity
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The Casimir effect influences the forces between objects at nanoscale distances, relevant in nanotechnology."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the history of the periodic table?', 'How does climate change affect ecosystems?', 'Why are antibiotics important in medicine?', 'What are some examples of how renewable energy is used?']",4,"```json
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 1,
+  ""justification"": ""All three human raters have unanimously scored the questions as '1' in all three categories: relevance, coherence, and diversity. The questions are not relevant to the topic of the Casimir effect and nanoscale forces, they lack coherence and do not form a logical line of inquiry, and they do not cover any aspect of the given statement. Therefore, the final scores are as follows:\n\n* Relevance: 1\n* Coherence: 1\n* Diversity: 1""
+}
+```",1.0,1.0,1.0,1.0,1.0,1.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The development of smart materials that respond to environmental stimuli has applications in various fields, including medicine and engineering."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What types of fast food are frequently consumed?', 'How does rainwater impact the growth of plants?', 'What are some popular vacation destinations?', 'How do the planets in our solar system rotate around the sun?']",4,"``` JSON
+{
+  ""Relevance"": 1,
+  ""Coherence"": 1,
+  ""Diversity"": 1,
+  ""Justification"": ""None of the questions relate to the concept of smart materials that respond to environmental stimuli; instead, they address unrelated topics such as fast food consumption, plant growth, vacation destinations, and planetary motion. Their sequence lacks logical progression and fails to contribute to the understanding of the statement.""
+}
+```",1.0,1.0,1.0,1.0,1.0,1.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""High-temperature superconductors operate without electrical resistance at temperatures significantly above absolute zero."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['Who is considered the founder of modern chemistry?', 'What is the function of a resistor in an electrical circuit?', 'What factors affect the freezing point of water?', 'How does a direct current (DC) circuit differ from an alternating current (AC) circuit?']",4,"``` JSON
+{
+  ""relevance"": 1,
+  ""coherence"": 2,
+  ""diversity"": 2,
+  ""justification"": ""The questions lack relevance to the statement about high-temperature superconductors, as they focus on general concepts of electricity and physics rather than the specific properties and operation of high-temperature superconductors. While the questions follow a logical order, their lack of relevance diminishes their coherence. Additionally, though the questions cover a variety of topics, none of them directly addresses the unique properties of high-temperature superconductors, resulting in a low diversity score.""
+}
+```",1.0,2.0,2.0,1.0,2.0,2.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Quantum chemistry computationally studies the properties and behavior of molecules at the quantum level."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the color of a quantum molecule?', 'How do historians study ancient civilizations?', 'Is the behavior of molecules similar to animal behavior?', 'How do solar panels work?']",4,"```
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 1,
+  ""justification"": ""None of the questions are relevant to the statement provided. The questions do not form a coherent line of inquiry related to quantum chemistry, and they lack diversity and do not explore the topic of quantum chemistry.""
+}
+```",1.0,1.0,1.0,2.0,2.0,1.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Electrochemical impedance spectroscopy (EIS) is a technique for characterizing the impedance of electrochemical systems over a range of frequencies."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the general concept of impedance?', 'Can EIS be used for cooking?', 'What other experiments can be done with a range of frequencies?', 'What are some examples of problem-solving in different fields?']",4,"```JSON
+{
+  ""Relevance"": 1,
+  ""Coherence"": 1,
+  ""Diversity"": 2,
+  ""Justification"": ""After considering all the scorings and their justifications, the final scores are as follows:\n\n**Relevance: 1**\n\nNone of the questions directly address or explore the main concept of Electrochemical Impedance Spectroscopy (EIS) and its applications in characterizing electrochemical systems over a range of frequencies. The questions are not relevant to the statement's context and do not contribute to a meaningful understanding of EIS.\n\nCoherence: 1\n\nThe questions lack a clear connection to each other or to the topic of EIS. They appear disjointed and do not follow a logical flow of inquiry. The questions do not build upon each other or provide a coherent understanding of the subject matter.\n\nDiversity: 2\n\nWhile the questions cover a range of topics, including the definition of impedance, potential applications outside chemistry, and comparisons to other experiments, their relevance to the statement is limited. The diversity of questions is not particularly useful in gaining a comprehensive understanding of EIS.""
+}
+```",1.0,1.0,2.0,2.0,1.0,2.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Nanotechnology in chemistry involves the manipulation of materials on an atomic or molecular scale"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the boiling point of water?', 'How are stars formed?', 'What is the role of DNA in genetics?', 'What is the nutritional value of an apple?', 'Are there any safety concerns or ethical considerations associated with nanotechnology in chemistry?']",4,"``` JSON
+{
+  ""metrics"": [
+    {
+      ""name"": ""Relevance"",
+      ""final_score"": 1,
+      ""justification"": ""None of the questions are directly related to the statement about nanotechnology in chemistry.""
+    },
+    {
+      ""name"": ""Coherence"",
+      ""final_score"": 1,
+      ""justification"": ""The questions lack a clear connection to the provided statement, presenting unrelated queries instead.""
+    },
+    {
+      ""name"": ""Diversity"",
+      ""final_score"": 3,
+      ""justification"": ""Although unrelated, the questions cover various scientific topics, demonstrating some level of diversity.""
+    }
+  ]
+}
+```",1.0,1.0,3.0,1.0,1.0,1.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The synthesis of quantum dots for use in electronics and photovoltaics involves controlling particle size and surface properties."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the color of quantum dots?', 'Do quantum dots smell?', 'Who discovered particle size?', 'Why are electronics and photovoltaics important in agriculture?']",4,"```json
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 1,
+  ""justification"": ""All three human scorers have given a score of 1 for relevance, coherence, and diversity. The questions are not relevant to the statement, lack coherence, and do not cover a range of aspects related to the statement. They are focused on superficial or unrelated aspects, failing to provide a broad exploration of the topic. Hence, the final score for all three metrics is 1.""
+}
+```",1.0,1.0,1.0,1.0,1.0,1.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Protein folding is a complex process that determines the three-dimensional structure of proteins."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are carbohydrates?', 'Why are vitamins important in our diet?', 'How are natural fiber sources beneficial for digestion?', 'Can lack of water intake result in various health implications?', 'How does protein folding relate to disease and medicine?']",4,"```JSON
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 2,
+  ""justification"": ""After considering the justifications provided by the three human scorers, it is evident that the given questions lack relevance to the statement about protein folding. They cover unrelated topics such as carbohydrates, vitamins, fiber, water intake, and health implications, which do not directly contribute to understanding protein folding. Additionally, the questions lack coherence and do not form a logical progression or line of inquiry related to the topic. While the questions cover different areas, their diversity is not relevant to the statement and does not aid in learning about protein folding.""
+}
+```",1.0,1.0,2.0,1.0,1.0,2.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Quantum tunneling in chemical reactions allows particles to bypass energy barriers."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the human physique made of?', 'Are there any popular television shows about chemical reaction?', 'Can chemistry be linked to Basketball tactics?', 'Is it possible to run faster using quantum tunneling?']",4,"```
+{
+  ""Relevance"": 1,
+  ""Coherence"": 1,
+  ""Diversity"": 1,
+  ""Justification"": ""All three human raters agreed that the questions are not relevant to the statement and do not form a coherent line of inquiry. While the questions explore different aspects, they are not related to the topic and provide no depth in understanding the content of the statement. Therefore, the final scores for relevance, coherence, and diversity are 1 for each category.""
+}
+```",1.0,1.0,1.0,1.0,1.0,1.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Atomic layer deposition (ALD) allows for the precise deposition of thin films one atomic layer at a time."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the general process of manufacturing chips in electronics?', 'What is the concept of atomic theory?', 'Can you explain the phenomenon of material erosion?', 'What are the properties of metals when they are subjected to high temperatures?']",4,"```JSON
+{
+  ""metrics"": [
+    {
+      ""name"": ""Relevance"",
+      ""score"": 2,
+      ""justification"": ""The questions are not directly related to the statement about atomic layer deposition (ALD). They touch on related topics like chip manufacturing, atomic theory, and metal properties, but they do not address ALD specifically.""
+    },
+    {
+      ""name"": ""Coherence"",
+      ""score"": 2,
+      ""justification"": ""The questions seem somewhat connected, exploring materials science and physics concepts. However, they lack a clear line of inquiry focused on understanding ALD.""
+    },
+    {
+      ""name"": ""Diversity"",
+      ""score"": 3,
+      ""justification"": ""The questions cover various aspects of materials science, providing a breadth of topics to explore. However, they miss opportunities to delve deeper into ALD itself.""
+    }
+  ]
+}
+```",2.0,2.0,3.0,1.0,2.0,1.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Medicinal chemistry involves the design, development, and synthesis of pharmaceutical compounds."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the history of chemistry?', 'What is the role of physics in the design of pharmaceutical compounds?', 'How do chemists design other non-pharmaceutical things?', 'What makes a chemical compound considered organic?']",4,"```JSON
+{
+  ""relevance"": 2,
+  ""coherence"": 2,
+  ""diversity"": 2,
+  ""justification"": ""After considering all the scorings and their justifications, it is evident that the questions lack a clear connection to the statement about medicinal chemistry and do not follow a logical sequence for exploring the topic. Only one question directly relates to the given statement, while the others are too broad or unrelated. There is some attempt at diversity, but the questions are either too vague or not relevant enough to the topic. A more targeted approach could yield better results in terms of relevance, coherence, and diversity.""
+}
+```",2.0,2.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Supramolecular assemblies involve the organization of molecules into structured systems without covalent bonding."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""What is the definition of 'molecule'?"", 'How do magnets work?', 'Can you give examples of famous paintings?', 'What are the different types of tea around the world?']",4,"```
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 1,
+  ""justification"": ""All three scorers unanimously agreed that the provided questions are highly irrelevant to the given chemistry statement, lack coherence, and fail to offer any meaningful exploration of the topic. The questions cover unrelated concepts such as magnetism, art, and tea, which do not contribute to understanding supramolecular assemblies or their organization into structured systems.""
+}
+```",1.0,1.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The Hardy-Weinberg principle applies to genetic equilibrium in populations, connecting chemistry to biology."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the favorite dish of Hardy and Weinberg?', 'Why is it necessary to have equilibrium in life?', 'What are other principles apart from Hardy-Weinberg that connect sports to biology?', 'Can you provide an example of how climate change impacts the population of polar bears?']",4,"```JSON
+{
+  ""Relevance"": 1,
+  ""Coherence"": 1,
+  ""Diversity"": 2,
+  ""Justification"": ""After considering the justifications provided by all three human scorers, it is evident that the questions are not relevant to the topic of Hardy-Weinberg principle and do not demonstrate a clear line of inquiry. The questions lack coherence and fail to connect to one another or the statement. While the questions cover a range of unrelated topics, they do not contribute to a meaningful exploration of the topic. As such, the final scores are: Relevance: 1, Coherence: 1, Diversity: 2.""
+}
+```",1.0,1.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Transition state theory explains the rates of chemical reactions by considering the highest energy state during the reaction."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What color is a transition state in a chemical reaction?', 'Is there a possibility of a musical note to be produced during a chemical reaction?', 'Can human emotions interfere with the energy state of a chemical reaction?', 'Does a chemical reaction ever impact the weather?']",4,"```JSON
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 1,
+  ""justification"": ""All three scorers gave a score of 1 for relevance and coherence, indicating that the questions are not relevant to transition state theory and lack a coherent line of inquiry. While one scorer gave a score of 3 for diversity, this is not considered a positive attribute in this context as the questions are irrelevant to the topic. Therefore, the final scores are as follows:
+
+  * **Relevance:** 1
+  * **Coherence:** 1
+  * **Diversity:** 1
+}
+```",1.0,1.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Solid-state chemistry focuses on the synthesis, structure, and properties of solid phase materials."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are some popular recipes for cakes?', 'How are bridges built?', 'What are some properties of musical scales?', 'What is the impact of weather on local wildlife?']",4,"{
+  ""relevance"": 1,
+  ""coherence"": 2,
+  ""diversity"": 3,
+  ""justification"": ""After considering the scores and justifications provided by the three human scorers, the final scores for relevance, coherence, and diversity are as follows:\n\n**Relevance**: 1\nAll three scorers agreed that the questions generated are not relevant to the topic of solid-state chemistry. Therefore, the final score for relevance is 1.\n\n**Coherence**: 2\nWhile two scorers gave a score of 1 for coherence, one scorer gave a score of 3. This is because the latter recognized that the questions, although irrelevant, do follow a consistent theme of asking about various subjects. Considering this, the final score for coherence is set at 2.\n\n**Diversity**: 3\nAll three scorers gave a score of 4 or higher for diversity, acknowledging that the questions cover a wide range of topics. Therefore, the final score for diversity is 3.""
+}",1.0,2.0,3.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Quantum dots are semiconductor particles that exhibit quantum mechanical properties."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['Who discovered quantum mechanical properties?', 'What are some other types of particles?', 'What is the history of semiconductors?', 'Can quantum dots be used in cooking?']",4,"```
+{
+  ""relevance"": 2,
+  ""coherence"": 2,
+  ""diversity"": 3,
+  ""justification"": ""After considering the justifications from all three human scorers, the most reasonable scores are as follows:
+
+  * **Relevance:** 2 - While the first question is somewhat relevant to the topic, the others are largely unrelated to the statement's focus on quantum dots and their properties.
+
+  * **Coherence:** 2 - The questions do not demonstrate a clear and logical progression of inquiry. They jump between unrelated topics, making it difficult to follow a coherent line of thought.
+
+  * **Diversity:** 3 - The questions do cover a range of aspects, including discovery, comparison to other particles, historical context, and potential applications. However, they lack depth and fail to provide a comprehensive exploration of quantum dots as semiconductor particles and their unique properties.""
+}
+```",2.0,2.0,3.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Bioorthogonal chemistry involves reactions that can occur inside living organisms without interfering with native biochemical processes."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are the types of chemical bonds?', 'Why is water essential for life?', 'What is the periodic table?', 'Can bioorthogonal reactions produce energy drinks?']",4,"```json
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 2,
+  ""justification"": ""After considering the three different scorings and their justifications, it is evident that the questions lack relevance to the concept of bioorthogonal chemistry. Additionally, there is no logical connection between the questions, making them appear disjointed. While the questions cover a broad range of chemical topics, their diversity does not compensate for their lack of relevance and coherence to the provided statement.""
+}
+```",1.0,1.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Metal-air batteries, including lithium-air and zinc-air batteries, offer high energy densities by exploiting the oxidation of metals with oxygen from the air."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are the elements on the periodic table?', 'How does coffee brewing work?', 'What is the history of the electric light bulb?', 'What are the different generations of computers?']",4,"```JSON
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 1,
+  ""justification"": ""All three scorers consistently rated the questions as irrelevant to the chemistry statement, lacking coherence, and failing to offer diverse exploration of the topic. The justifications provided by all three scorers clearly explain the reasons for these low scores.""
+}
+```",1.0,1.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Single-molecule magnets show magnetic hysteresis, a property typically associated with bulk materials, at the molecular level."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the color of single-molecule magnets?', 'How does magnetic hysteresis relate to gravity?', 'Who discovered magnets?', 'Can these magnets be used for cooking?']",4,"```JSON
+{
+  ""Relevance"": 1,
+  ""Coherence"": 1,
+  ""Diversity"": 1,
+  ""Justification"": ""All three scorers agree that the questions are not relevant to the given statement, lack coherence, and fail to provide diversity in exploring the topic. The justifications provided by each scorer support this assessment.""
+}
+```",1.0,1.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Materials science explores the properties and applications of materials in engineering and technology."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the color of the materials being studied?', 'Who are some famous materials scientists?', 'What kinds of food materials do materials scientists investigate?', 'What are some examples of aquatic animals?']",4,"``` JSON
+{
+   ""relevance"": 1,
+   ""justification"": ""The statement is about materials science in engineering and technology. While human 1 scored 1, and humans 2 and 3 scored 1, human 1 considers the questions as unrelated or irrelevant, whereas the other two clearly mention the irrelevance of the questions to materials science."",
+   ""coherence"": 1,
+   ""justification"": ""The questions are not coherent as a line of inquiry to understand materials science. All three human raters agreed on this and gave a score of 1, mentioning that the questions do not logically progress an understanding of materials science."",
+   ""diversity"": 1,
+   ""justification"": ""The questions lack diversity in exploring materials science. While human 1 scored 1, humans 2 and 3 scored 1. Human 1 considers the questions to be unrelated or irrelevant, which implies a lack of diversity. Humans 2 and 3 explicitly mention a lack of coverage of various aspects of materials science, further supporting a score of 1.""
+}
+```",1.0,1.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""X-ray crystallography can determine the arrangement of atoms within a crystal, revealing molecular structures."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['How does the human brain work?', 'How does flying affect the human body?', 'What are the impacts of deforestation on climate change?', 'What is the role of DNA in genetic inheritance?']",4,"```JSON
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 3,
+  ""justification"": ""All three scorers agree that the questions are not relevant to the given statement. The questions lack coherence as they do not form a coherent line of inquiry related to X-ray crystallography. While the questions cover diverse topics, they are unrelated to the topic of the statement. Hence, the final scores are: relevance: 1, coherence: 1, diversity: 3.""
+}
+```",1.0,1.0,3.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Environmental chemistry studies the chemical and biochemical phenomena that occur in natural places."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are some types of phenomena in chemistry?', 'Where do chemical reactions commonly occur?', 'How does chemistry relate to physics and biology?', 'What are some examples of physics in action and how does it affect?']",4,"```json
+{
+  ""relevance"": 3,
+  ""coherence"": 2,
+  ""diversity"": 3,
+  ""justification"": ""After reviewing the justifications provided by each of the three scorers, it is evident that the questions could benefit from improvements in several areas.\n\n**Relevance:** While most questions address the statement, they could be more focused on the specific topic of environmental chemistry. Expanding on the chemical and biochemical phenomena that occur in natural places would increase their relevance.\n\n**Coherence:** The questions lack a clear line of inquiry and do not connect to each other logically. Providing a more structured progression would enhance their coherence.\n\n**Diversity:** The questions cover a diverse range of aspects but could delve deeper into the unique characteristics of environmental chemistry. Exploring its impact on ecosystems or public health would add depth to the inquiry.""
+}
+```",3.0,2.0,3.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The principle of quantum mechanics underlies the behavior of electrons in atoms."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the climate in Antarctica?', 'How does quantum mechanics relate to visual arts?', 'Does quantum mechanics apply to baseball games?', 'What impact does quantum mechanics have on the culinary world?']",4,"``` JSON
+{
+ ""Relevance"": 1,
+ ""Coherence"": 1,
+ ""Diversity"": 2
+}
+```
+
+**Justification:**
+
+After considering all the scorings and their justifications, it is evident that the questions are irrelevant to the statement about quantum mechanics and electrons in atoms. They do not pertain to the behavior of electrons in atoms or the principles of quantum mechanics. There is no logical progression or connection between the questions, and they do not offer any new dimensions or perspectives on the statement. The questions cover diverse topics, from climate to culinary arts, but none are related to quantum mechanics or electrons in atoms. Diversity in irrelevance doesn't contribute to understanding the original statement. Hence, the final scores for relevance, coherence, and diversity are 1, 1, and 2, respectively.",1.0,1.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Green chemistry aims to design chemical products and processes that reduce or eliminate the use and generation of hazardous substances."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the color spectrum of substances in chemistry?', 'How do cooking recipes differ from traditional ones?', 'Can skydiving really reduce stress?', 'Are there any examples of successful implementation of origami principles?']",4,"```JSON
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 1,
+  ""justification"": ""All three human scorers agreed that the questions are not relevant to the topic of green chemistry, lack coherence, and do not offer diverse perspectives. The questions cover unrelated subjects ranging from the color spectrum of substances to skydiving, failing to provide any meaningful insights into the principles or applications of green chemistry.""
+}
+```",1.0,1.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Cryo-electron microscopy allows for the visualization of molecules at near-atomic resolutions."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are the properties of molecules?', 'What is the difference between microscopy and telescope?', 'What is the history of cryogenics?', 'What is the role of atomic theory in physics?']",4,"```json
+{
+  ""relevance"": 1.33,
+  ""coherence"": 2,
+  ""diversity"": 2.67,
+  ""justification"": ""After considering the justifications provided by all three human scorers, the final scores are as follows:\n\n**Relevance:** 1.33\n* The questions do not directly relate to the cryo-electron microscopy or its ability to visualize molecules at near-atomic resolutions.\n* They focus on general scientific principles, historical context, and tangential topics, which makes them less relevant to the given statement.\n\n**Coherence:** 2\n* While the questions loosely follow a theme of scientific exploration, they lack a clear line of inquiry.\n* They jump from one topic to another without a logical progression, making it difficult to derive a structured understanding of cryo-electron microscopy.\n\n**Diversity:** 2.67\n* The questions cover various aspects of science, including properties of molecules, tools used for observation, and historical backgrounds.\n* However, they do not delve deeply into the specific features and applications of cryo-electron microscopy, limiting their diversity in exploring the topic.\n\nOverall, the questions lack focus, coherence, and direct relevance to the original statement about cryo-electron microscopy. They touch upon general scientific concepts and historical background but fail to provide a comprehensive understanding of the specified technique.""
+}
+```",1.33,2.0,2.67,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Green chemistry seeks to reduce chemical related environmental impact through sustainable design and manufacturing processes."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What color palette is often used to represent green chemistry?', 'Are there any movies or books that revolve around green chemistry?', 'Can green chemistry principles be applied in cooking?', 'Who is the most famous person associated with green chemistry?']",4,"``` JSON
+{
+  ""scores"": {
+    ""relevance"": 1,
+    ""coherence"": 1,
+    ""diversity"": 2
+  },
+  ""justification"": ""After considering the justifications provided by all three human scorers, the final scores are as follows:\n\n**Relevance:** 1\n\nThe questions lack direct relevance to the specific concepts presented in the statement about green chemistry's focus on reducing environmental impact through sustainable design and manufacturing processes. The questions do not delve into the core principles, methods, or goals of green chemistry.\n\n**Coherence:** 1\n\nThe questions lack a clear connection to one another and do not form a coherent line of inquiry. They seem disjointed and unrelated, addressing various tangential aspects rather than systematically exploring the core concept of green chemistry.\n\n**Diversity:** 2\n\nAlthough the questions touch on different themes, such as visual representation, popular culture, and culinary applications, they fail to address essential aspects of green chemistry like its objectives, techniques, or benefits. This results in a narrower scope of exploration than desired.""
+}
+```",1.0,1.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The application of green solvents aims to reduce the environmental impact of chemical processes."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What color are green solvents?', 'Why do people choose certain favorite colors?', 'What are the health effects of organic food?', 'Who invented the concept of colors?']",4,"``` JSON 
+{
+""Relevance"": 1,
+""Coherence"": 1,
+""Diversity"": 1,
+""Justifications"": {
+""Relevance"": ""None of the questions directly relate to the statement about the application of green solvents and their environmental impact."",
+""Coherence"": ""The questions are not logically connected and do not form a coherent line of inquiry."",
+""Diversity"": ""The questions cover a wide range of topics that are not related to the statement.""
+}
+```",1.0,1.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Metal-organic frameworks (MOFs) are compounds consisting of metal ions or clusters coordinated to organic ligands to form one-, two-, or three-dimensional structures."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are the unique features of MOFs compared to giant pandas?', 'What is the process of baking a cake, considering the role of ingredients such as eggs and milk?', 'Is there a connection between MOF applications and roller skating techniques?', 'Can MOFs be a solution for overcrowding in public transportation?']",4,"```
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 1,
+  ""justification"": ""All three scorers have given a score of 1 for each of the three metrics. The justifications provided by all three scorers are consistent in highlighting the lack of relevance, coherence, and diversity in the questions generated by the LLM compared to the statement about Metal-Organic Frameworks (MOFs). Therefore, the final score for relevance, coherence, and diversity is 1 for each metric.""
+}
+```",1.0,1.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The use of flow chemistry in pharmaceuticals enables continuous processing, improving safety and scalability."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the colour of a flow chemistry system?', 'What is the record for the longest running flow chemistry process?', 'Which famous scientist was involved in the development of flow chemistry?', 'What other industries, besides pharmaceuticals, use continuous processing?']",4,"```JSON
+{
+  ""final_scores"": {
+    ""relevance"": 1.33,
+    ""coherence"": 1.33,
+    ""diversity"": 2.33
+  },
+  ""justification"": ""After considering the justifications provided by all three human scorers, it is evident that the questions lack relevance to the provided statement and do not form a coherent line of inquiry. While the questions cover various aspects of flow chemistry, they do so incorrectly and fail to explore the principles, applications, or benefits of using flow chemistry in pharmaceuticals, as mentioned in the statement.""
+}
+```",1.33,1.33,2.33,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""High-throughput screening methods accelerate the discovery of new drugs by testing thousands of compounds simultaneously."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""Who discovered the concept of 'high-throughput'?"", 'What are the alternative techniques to test compounds?', 'What is the longest river in the world?', 'Can this process be used in making chocolate?']",4,"{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 2,
+  ""justification"": ""After considering all the scorings and their justifications, it is evident that the set of questions lacks relevance to the given Chemistry statement. Only one question out of five directly pertains to the concept of high-throughput screening methods. Additionally, the questions lack coherence as they do not follow a logical progression or connect to each other in a meaningful way. While the questions cover a diverse range of aspects, this diversity is overshadowed by their lack of relevance to the topic at hand.""
+}",1.0,1.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The discovery of graphene, a single layer of carbon atoms arranged in a hexagonal lattice, has led to advancements in materials science."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are the main food sources of carbon?', 'What sports usually use hexagonal patterns in their game plan?', 'Why is the invention of the wheel considered an advancement in science?', 'How is silicate different from other materials?']",4,"```JSON
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 3,
+  ""justification"": ""All three scorers agree that the questions lack relevance to the statement about graphene and materials science. Additionally, they find no logical connection or coherence between the questions. While scorer 3 highlights some diversity in the topics covered by the questions, this diversity is not meaningful in the context of the given statement.""
+}
+```",1.0,1.0,3.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""High-pressure chemistry studies the effects of high pressure on chemical reactions, often leading to the synthesis of novel materials."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are some popular dishes in Italian cuisine?', 'How does high pressure affect the growth of plants?', 'What are some famous pieces of classic literature?', 'Can high pressure be used in yoga exercises?']",4,"``` JSON
+{
+  ""Relevance"": 1,
+  ""Coherence"": 1,
+  ""Diversity"": 2,
+  ""justification"": ""After considering the justifications provided by all three human scorers, I have determined the following final scores:\n\n1. **Relevance:** 1\n- All three scorers agree that none of the questions are relevant to the given statement about high-pressure chemistry.\n2. **Coherence:** 1\n- All three scorers agree that the questions have no coherence or logical connection to each other.\n3. **Diversity:** 2\n- While none of the questions relate to the statement, they do cover various topics, albeit unrelated ones. However, I am deducting one point for the lack of diversity in the types of topics covered. The questions only cover a narrow range of subjects (Italian cuisine, plant growth, literature, and yoga), and do not explore a broader spectrum of domains.""
+}
+```",1.0,1.0,2.0,,,

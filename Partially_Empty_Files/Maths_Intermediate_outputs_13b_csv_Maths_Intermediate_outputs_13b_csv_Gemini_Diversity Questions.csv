@@ -1,0 +1,186 @@
+Instruction,LLM Answer,Changed,Gemini Output,Relevance Score,Coherence Score,Diversity Score,Human Relevance,Human Coherence,Human Diversity
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The diagonal of a cube is √3 times the length of a side  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is a cube?', 'Can you give a definition of a cube?', 'How do I find the length of a side of a cube?', 'Can you explain how to measure a side of a cube?', 'How do I use this equation to solve real-world problems?']",2,"``` JSON
+{
+ ""relevance"": 4,
+ ""justification"": ""Questions are highly relevant to the statement as they focus on the key components of the mathematical concept, including defining a cube and calculating its side length. They directly address the relationship between the diagonal and side length of a cube."",
+ ""coherence"": 3,
+ ""justification"": ""The questions follow a logical order, but the last question appears disconnected from the rest. While the other questions focus on defining the cube and calculating its side length, the last one assumes prior knowledge of using the equation in real-world scenarios."",
+ ""diversity"": 4,
+ ""justification"": ""The questions cover various dimensions of the statement, including definitions, measurements, and applications. Although they all revolve around understanding the relationship between the diagonal and side length, they approach it from different angles.""
+}
+```",4.0,3.0,4.0,4.0,3.0,3.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" The slope of a line is Δy/Δx"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What does Δy and Δx represent?', 'How is Δy related to Δx in this formula?', 'How do I calculate the slope of a line using this equation?', 'What is the change in x when calculating the slope?', 'Can I use this equation to find the slope of other types of graphs besides lines?']",2,"{
+  ""relevance"": 5,
+  ""coherence"": 4,
+  ""diversity"": 4,
+  ""justification"": ""After considering all the scorings and their justifications, the final scores are as follows:\n\n**Relevance**: All scorers awarded the maximum score of 5, as all the questions directly relate to the given statement and its concepts. \n\n **Coherence**: Two scorers gave a score of 4, while one scorer gave 5. The questions form a logical progression, starting with understanding the terms and their relationship and then moving towards the application of the equation. However, there is a slight overlap between questions 2 and 3. \n\n**Diversity**: Two scorers gave a score of 4, while one scorer gave 5. The questions cover a range of aspects, including definitions, relationships, calculations, and potential applications, but could benefit from exploring more diverse scenarios or real-world examples.""
+}",5.0,4.0,4.0,5.0,4.0,4.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" sin²(θ) + cos²(θ) = 1"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What does the symbol θ represent?', 'What is the purpose of the symbol θ in the equation?', 'Why are these two quantities squared and added together?', 'Is there any significance to the fact that the equation reduces to 1?', 'How can I use this equation to solve problems or understand real-world phenomena?']",2,"```json
+{
+  ""relevance"": 5,
+  ""coherence"": 5,
+  ""diversity"": 4,
+  ""justification"": ""After considering all three scorings and their justifications, the final scores are as follows:\n\n**Relevance:** 5\n* All questions directly address key elements in the statement, focusing on understanding the equation.\n\n**Coherence:** 5\n* The questions follow a logical progression from defining terms to practical applications, creating a clear path for exploration.\n\n**Diversity:** 4\n* The questions cover a range of aspects (definitions, applications), but could further explore additional concepts or implications to enhance diversity.""
+}
+```",5.0,5.0,4.0,5.0,4.0,4.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The equation of a hyperbola with foci along the x-axis is (x²/a²) - (y²/b²) = 1  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""What do the letters 'a' and 'b' represent in the equation?"", ""Can I use this equation to learn more about the value of 'a' in the equation?"", 'How can I graph this equation on a coordinate plane?', 'Can I use this equation to find the distance between the foci of the hyperbola?', ""Can 'a' from this equation be utilized in any real-world application?""]",2,"{
+ ""metrics"": {
+  ""relevance"": 4.7,
+  ""coherence"": 4.3,
+  ""diversity"": 4.3
+ },
+ ""justification"": ""After considering all three scorings and their justifications, the final scores are as follows:\n\n**Relevance**: 4.7\n\nAll questions directly relate to elements of the given statement. They aim to clarify key concepts and explore the equation's implications.\n\nCoherence**: 4.3\n\nThe questions form a cohesive sequence, progressing logically from understanding the equation's structure to its geometric interpretation and practical implications. Each question builds upon the previous one, facilitating a coherent exploration.\n\n**Diversity**: 4.3\n\nThe questions cover a diverse range of aspects, including the meaning of variables, graphing, distance calculation, and real-world applications. They collectively offer a well-rounded exploration of the statement's implications and uses.""
+}",4.7,4.3,4.3,5.0,4.0,3.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The sum of any two angles in a cyclic quadrilateral is 180°  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is a cyclic quadrilateral?', 'What is the definition of a cyclic quadrilateral?', 'Why does the sum of these two angles always equal 180 degrees?', ""How does a cyclic quadrilateral's angle sum relate to 180 degrees?"", 'How can I use this equation to solve problems or prove other statements?']",2,"``` JSON
+{
+""relevance"": 4.66,
+""coherence"": 4.33,
+""diversity"": 4
+}
+```",4.66,4.33,4.0,5.0,4.0,4.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The sum of the reciprocals of the roots of a quadratic equation ax² + bx + c = 0 is -b/a  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is a quadratic equation?', 'What are the roots of a quadratic equation?', 'What are the roots of a quadratic equation?', 'How do I find the reciprocals of the roots?', 'How do I find the reciprocals of the roots?']",2,"```JSON
+{
+  ""scores"": {
+    ""relevance"": 3,
+    ""coherence"": 2,
+    ""diversity"": 3
+  },
+  ""justification"": ""After considering all the scorings and their justifications, the final scores are as follows:\n\n**Relevance (score: 3)**: The questions are generally relevant to the given statement, as they focus on understanding the concepts of quadratic equations, roots, and reciprocals. However, some repetition in the questions slightly lowers the relevance score.\n\n**Coherence (score: 2)**: While the questions address relevant concepts, they lack a clear progression and logical flow. The repetition of similar questions indicates a lack of coherence in the line of inquiry.\n\n**Diversity (score: 3)**: The questions cover a range of topics, from basic definitions to specific procedures related to the statement. While there could be further exploration of other aspects, the diversity of the questions is commendable.""
+}
+```",3.0,2.0,3.0,4.0,3.0,2.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" A convex polygon has all interior angles less than 180°"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is a convex polygon?', ""What does 'convex' mean in the mathematical context?"", 'How can I prove this statement?', 'How to calculate the interior angles of a convex polygon?', 'Are there any exceptions to this rule?']",2,"```JSON
+{
+  ""relevance"": 5,
+  ""coherence"": 5,
+  ""diversity"": 5,
+  ""justification"": ""All three human scorers have provided relevant, coherent, and diverse questions. The justifications they provide indicate a deep understanding of the statement and its implications. They cover various aspects, from definitions to proofs and applications. Therefore, the final score for all three metrics is 5.""
+}
+```",5.0,5.0,5.0,5.0,5.0,4.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" Similar triangles have the same shape but not necessarily the same size, illustrating the concept of similarity in geometry"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What does it mean for triangles to have the same shape?', 'What does it mean for triangles to have the same shape?', 'Is size a factor in determining similarity between triangles?', 'Is size a factor in determining similarity between triangles?', 'Are there any real-world examples of similar triangles that I can use to better understand the concept?']",2,"```json
+{
+  ""relevance"": 3,
+  ""coherence"": 2,
+  ""diversity"": 2,
+  ""justification"": ""The questions are highly relevant to the statement and directly address the concept of similarity in triangles. However, the repetition of the first two questions suggests a lack of coherence and limits the diversity of perspectives explored. Overall, the questions provide a good starting point for learning about the topic, but could be improved by expanding on different aspects of similarity and presenting them in a more coherent manner.""
+}
+```",3.0,2.0,2.0,3.0,3.0,2.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The sum of the exterior angles, one at each vertex, of any polygon is 360°  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is a polygon?', 'What are vertices?', 'What are vertices made of?', 'Why is the sum of exterior angles equal to 360 degrees?', 'What is the definition of a vertex in a polygon?']",2,"{
+ ""relevance"": 4.33,
+ ""coherence"": 3.33,
+ ""diversity"": 3.33,
+ ""justification"": ""After considering all the scorings and their justifications, a final score of 4.33 is given for relevance. All three scorers unanimously gave a score of 4 or 5 for relevance, indicating that the questions are highly relevant to the original statement. \n\nA final score of 3.33 is given for coherence. While two scorers gave a score of 4 for coherence, one scorer gave a score of 3 due to the redundancy of the second question. The questions follow a logical progression, starting with basic terminology and gradually moving towards more complex concepts. However, the second question might be too similar to the first, causing some redundancy. \n\nA final score of 3.33 is given for diversity. Two scorers gave a score of 4 for diversity, while one scorer gave a score of 2. The questions cover various aspects of the statement, such as definitions, components, and reasons. Yet, there could be more diverse perspectives, such as practical applications or historical context.""
+}",4.33,3.33,3.33,4.0,3.0,3.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" A prime number is only divisible by 1 and itself"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What exactly is a prime number?', 'Can you give me some examples of prime numbers to help me better understand the concept?', 'Are all numbers divisible by 1 and themselves considered prime?', 'Can you give me some more examples of prime numbers?', 'What are some other prime numbers apart from the examples given?']",2,"{
+  ""relevance"": 5,
+  ""coherence"": 4,
+  ""diversity"": 3,
+  ""justification"": ""After considering all the scorings and their justifications, the final scores are as follows:\n\n**Relevance:** 5\nJustification: All questions directly relate to the statement about prime numbers being only divisible by 1 and themselves, focusing on understanding the key concepts and characteristics of prime numbers.\n\n**Coherence:** 4\nJustification: While the questions generally follow a logical progression, there is some room for improvement in connecting question 5 to the previous questions. However, the overall flow of the questions allows learners to build upon their understanding of prime numbers.\n\n**Diversity:** 3\nJustification: The questions cover the core aspects of prime numbers, including definition, examples, and clarification. While they provide a solid foundation, additional questions exploring the distribution or applications of prime numbers would enhance the diversity and provide a more comprehensive understanding of the topic.""
+}",5.0,4.0,3.0,5.0,4.0,3.0
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The volume of a frustum of a cone is (1/3)πh(r1² + r1r2 + r2²)  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is a frustum of a cone?', 'What is the significance of a frustum in a cone?', 'How do I find the volume of a frustum of a cone using this equation?', 'How is a frustum different from a complete cone?', 'Can I relate this equation to problems involving only cones?']",2,"```JSON
+{
+  ""Relevance"": 5,
+  ""Coherence"": 4,
+  ""Diversity"": 4,
+  ""Justification"": ""After considering the justifications provided by all three human scorers, it is evident that the questions exhibit a high level of relevance to the statement about the volume of a frustum of a cone. The questions logically progress from defining the frustum and its significance to exploring the equation for calculating its volume. The diversity of the questions is also commendable, as they cover various aspects of the concept, including its relationship to complete cones and potential applications in problem-solving. While the questions follow a generally coherent order, there could be further improvements in explicitly connecting the significance of the frustum to the volume calculation process. Overall, the questions provide a solid foundation for understanding the given statement.""
+}
+```",5.0,4.0,4.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""Pascal's triangle is used to find the coefficients of the expansion of (a + b)^n  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""What is the purpose of Pascal's triangle?"", ""How does Pascal's triangle relate to the expansion of (a + b)^n?"", ""How does Pascal's triangle relate to the expansion of (a + b)^n?"", ""Is there a pattern in Pascal's triangle connected to (a + b)^n expansion?"", ""Can Pascal's triangle be used to expand (a + b)^n over and over again?""]",2,"{
+  ""Relevance"": 4,
+  ""Coherence"": 3,
+  ""Diversity"": 3,
+  ""Justification"": ""After considering the justifications provided by all three human scorers, I have decided on these final scores:\n\n**Relevance (4):** All three human scorers rated the relevance of the questions as 4 or 4.5 out of 5, indicating that they directly pertain to understanding the purpose and relation of Pascal's triangle to the expansion of (a + b)^n.\n\n**Coherence (3):** While human scorer 1 rated the coherence as 3 out of 5, both human scorers 2 and 3 rated it as 3.5 out of 5. The justifications provided by human scorers 2 and 3 mention that the questions do not have a clear progression of inquiry and some questions overlap. Taking these factors into consideration, I have decided on a final score of 3 for coherence.\n\n**Diversity (3):** Human scorers 1 and 2 rated the diversity as 4 out of 5 and 2 out of 5 respectively. Human scorer 3 did not comment on diversity. While the questions do cover different aspects of Pascal's triangle and its connection to the expansion of (a + b)^n, they primarily focus on the purpose and use of Pascal's triangle in this context. Therefore, I have decided on a final score of 3 for diversity.""
+}",4.0,3.0,3.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""y = mx + b"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What does y represent in this equation?', 'Does y serve any special purpose in the equation?', 'What does x represent?', 'What does b represent?', 'How do I use this equation to solve for y?']",2,"```JSON
+{
+  ""relevance"": 5,
+  ""coherence"": 4,
+  ""diversity"": 3,
+  ""justification"": ""After considering the justifications provided by all three human scorers, I have decided on the following final scores:\n\n**Relevance:** 5\nAll questions are directly relevant to the given equation, focusing on understanding the variables and their roles.\n\n**Coherence:** 4\nThe questions progress logically, starting with identifying the unknown variable (y) and then exploring the constants (m and b), and finally examining the practical application of the equation.\n\n**Diversity:** 3\nThe questions cover a range of aspects, including the meaning of the variables, the purpose of the equation, and its practical application. However, they do not delve into the theoretical underpinnings or advanced applications of the equation.""
+}
+```",5.0,4.0,3.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The interior angle of a regular polygon is (n-2)×180°/n where n is the number of sides  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is a regular polygon?', 'What is a polygon?', 'What does the degree symbol (°) represent in the equation?', 'How does the degree symbol relate to angles?', 'Can I apply this equation to any type of polygon, or only regular polygons?']",2,"```JSON
+{
+  ""scores"": {
+    ""relevance"": 4,
+    ""coherence"": 3,
+    ""diversity"": 3.33
+  },
+  ""justification"": ""After considering the justifications provided by the three human scorers, the final scores are as follows:\n\n**Relevance:** 4\nWhile all questions are generally relevant to the input statement and explore related concepts, some questions are more directly related to the specific equation presented than others. The score of 4 reflects the overall relevance of the questions to the topic.\n\n**Coherence:** 3\nThe questions lack a clear logical sequence and do not form a coherent line of inquiry. However, they cover various aspects of the topic, such as the definition of a regular polygon, the meaning of the degree symbol, and the applicability of the equation. The score of 3 reflects the moderate level of coherence among the questions.\n\n**Diversity:** 3.33\nThe questions cover a diverse range of topics related to the equation, including the definition of a regular polygon, the degree symbol, and the applicability of the equation to different types of polygons. However, the questions do not explore more advanced or in-depth aspects of the equation. The score of 3.33 reflects the moderate level of diversity in the questions.""
+}
+```",4.0,3.0,3.33,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" An isosceles triangle has two sides of equal length"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""What does 'isosceles' mean?"", ""Can an isosceles triangle be called 'isosceles' in all languages?"", 'Are all sides of an isosceles triangle equal?', ""Does the term 'isosceles' also refer to triangles with three equal sides?"", 'How do I prove that an isosceles triangle has two sides of equal length?']",2,"```JSON
+{
+  ""relevance"": 4,
+  ""coherence"": 3.5,
+  ""diversity"": 4,
+  ""justification"": ""The questions are directly related to the statement and explore various aspects of isosceles triangles. While they could be more logically connected, the range of topics covered is comprehensive.""
+}
+```",4.0,3.5,4.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The harmonic mean of two numbers is 2ab/(a+b)  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are the two numbers?', ""How does 'mean' work in other mathematical equations?"", 'How do I calculate the harmonic mean again?', 'Is there an easier way to calculate the harmonic mean?', 'Are there other similar formulas to calculate the harmonic mean?']",2,"``` JSON
+{
+  ""Relevance"": {
+    ""Score"": 3.33,
+    ""Justification"": ""The questions directly pertain to the details and concepts presented in the statement, focusing on understanding the numbers and the calculation of the harmonic mean, with room for further in-depth exploration of specific aspects of the formula.""
+  },
+  ""Coherence"": {
+    ""Score"": 2.67,
+    ""Justification"": ""The questions follow a logical progression in exploring the concept of harmonic mean, with opportunities to enhance the flow and provide clearer connections between the questions for a beginner's understanding.""
+  },
+  ""Diversity"": {
+    ""Score"": 3,
+    ""Justification"": ""The questions cover different aspects of the harmonic mean, including its calculation, understanding of the term ""mean,"" and exploration of similar formulas, with potential to expand further on its applications or theoretical significance.""
+  }
+}
+```",,,,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The area of an ellipse is πab where a and b are the semi-major and semi-minor axes  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is an ellipse?', 'What shape does an ellipse resemblances to?', 'What does the symbol π represent in the equation?', 'Does π play a key role in the equation?', 'What are some real-world applications of the equation for the area of an ellipse?']",2,"```JSON
+{
+  ""final_scores"": {
+    ""relevance"": 5,
+    ""coherence"": 4,
+    ""diversity"": 4
+  },
+  ""justification"": ""After considering all the scorings and their justifications, the final scores are as follows:\n\n**Relevance:** 5\n- All questions directly pertain to the details and concepts presented in the statement about the area of an ellipse.\n\n**Coherence:** 4\n- The questions form a coherent progression of exploring the fundamental aspects of an ellipse and its area calculation, but the flow could be improved slightly.\n\n**Diversity:** 4\n- The questions cover a range of topics related to ellipses, from basic definitions to real-world applications, offering a diverse exploration of the concept.""
+}
+```",5.0,4.0,4.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The lateral surface area of a cylinder is 2πrh  "", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""What does the letter 'r' represent?"", ""What does the letter 'r' stand for in different mathematical equations?"", ""Why is the equation written as '2πrh' instead of just 'πrh'?"", 'Is there any relationship between this equation and other mathematical concepts I already know?', 'How can I use this equation to solve real-world problems?']",2,"``` JSON
+{
+  ""relevance"": 4,
+  ""coherence"": 3,
+  ""diversity"": 4,
+  ""justification"": ""After considering all three scorings and their justifications, the final scores are as follows:\n\n**Relevance:** 4\n* Explanation: All three scorers agreed that the questions are highly relevant to the original statement, focusing on essential components of the equation and its potential uses.\n\n**Coherence:** 3\n* Explanation: While two scorers found the questions to be coherent and logical, one scorer felt that the transition from defining 'r' to real-world applications could be smoother. This reasoning is valid, as a more seamless flow between these concepts would enhance the overall coherence of the questions.\n\n**Diversity:** 4\n* Explanation: All three scorers agreed that the questions cover various dimensions of the statement, including variable definitions, comparisons to other concepts, and practical applications. However, as mentioned by one scorer, some questions slightly overlap in terms of exploring the same aspect. Nevertheless, the overall diversity of the questions is still commendable.""
+}
+```",4.0,3.0,4.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it ""The trapezoidal rule is used to approximate the integral of a function."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What exactly is the trapezoidal rule and how does it work?', 'How do I choose the right function to apply the trapezoidal rule to?', 'How best can I apply the trapezoidal rule?', 'Are there specific steps to follow when using the trapezoidal rule?', 'Can you provide examples of real-world applications where the trapezoidal rule has been useful?']",2,"```json
+{
+  ""scores"": {
+    ""relevance"": 5,
+    ""coherence"": 4,
+    ""diversity"": 4
+  },
+  ""justification"": ""All the human scorers gave coherent and relevant questions about the trapezoidal rule. Although Human 1 rated coherence as 4, human 2 explained that the questions move from general to specific which indeed shows better coherence. The diversity was also rated as 4 by the humans but Human 3 justified it as 5, mentioning that each question explores a unique aspect. This makes sense since the questions cover the definition, application, implementation, and real-world examples of the trapezoidal rule.\nConsidering all these justifications, the final scores are:\n- Relevance: 5 (all questions are highly relevant to the statement)\n- Coherence: 4 (questions progress logically, but could have a more structured flow)\n- Diversity: 4 (questions cover various aspects, including definition, application, implementation, and real-world examples)""
+}
+```",5.0,4.0,4.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" The concept of slope describes the steepness and direction of a line, defined as rise over run"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""What does 'rise' refer to in the equation?"", ""How is 'rise' measured in the context of the slope?"", ""How do I calculate the 'run' part of the equation?"", ""What does 'run' mean in terms of calculating the slope?"", 'Can I use the slope formula to find the slope of a line that is not straight?']",2,"```json
+{
+  ""relevance"": 4.33,
+  ""coherence"": 3.33,
+  ""diversity"": 4,
+  ""justification"": ""After considering all three scorings and their justifications, we arrived at the following final scores:\n\n**Relevance:** 4.33 (Average of 5, 4, and 4)\nAll questions are directly related to the definition provided, asking for clarification on key components such as 'rise' and 'run'.\n\n**Coherence:** 3.33 (Average of 4, 3, and 3)\nWhile the questions logically connect to each other, there is room for improvement in creating a more structured line of inquiry.\n\n**Diversity:** 4 (Average of 4, 4, and 4)\nThe questions cover a good range of aspects, including the meanings of 'rise' and 'run', the calculation of slope, and the limitations of the slope formula.""
+}
+```",4.33,3.33,4.0,,,
+"Imagine you are a human, this is the first time you are coming across this Maths Statement or Equation, you have no previous knowledge of it "" sin(θ) = opposite/hypotenuse"", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""What does the symbol 'sin' represent?"", 'What does θ symbolize in math?', 'How do I determine the value of the opposite and hypotenuse in order to solve for θ?', 'How can I calculate θ if given the opposite and hypotenuse?', 'Are there any']",2,"``` JSON
+{
+  ""metrics"": {
+    ""relevance"": 4,
+    ""coherence"": 4,
+    ""diversity"": 4
+  },
+  ""justification"": ""After reviewing the justifications provided by human scorers 1, 2, and 3, the final scores for relevance, coherence, and diversity are as follows:
+
+**Relevance**: All questions are directly related to the elements and concepts introduced in the statement, focusing on understanding the elements of the equation and their significance in calculating the angle θ.
+
+**Coherence**: The questions follow a logical sequence, starting with the definition of sin and θ, progressing to calculating their values, and then exploring other related concepts.
+
+**Diversity**: The questions cover a range of aspects related to the statement, including the definition of sin, the role of θ, determining values of opposite and hypotenuse, and calculating θ using them. The questions provide a broad exploration of the equation and its key concepts.""
+}
+```",4.0,4.0,4.0,,,

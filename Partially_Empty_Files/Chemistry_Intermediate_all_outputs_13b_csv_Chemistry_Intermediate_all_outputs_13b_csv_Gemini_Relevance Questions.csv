@@ -1,0 +1,283 @@
+Instruction,LLM Answer,Changed,Gemini Output,Relevance Score,Coherence Score,Diversity Score,Human Relevance,Human Coherence,Human Diversity
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The Hall effect provides insight into the behavior of electrons in a conductor."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['How might the Hall effect relate to the color spectrum?', 'Can dogs see the Hall effect?', 'Does the Hall effect influence global weather patterns?', 'Does the Hall effect have any impact on culinary arts?']",4,"```JSON
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 1.33,
+  ""justification"": ""All three scorers consistently rated the questions as irrelevant to the topic of the Hall effect, lacking coherence in their line of inquiry, and not contributing to understanding the concept. While the questions cover diverse fields, this diversity is unrelated to the subject matter.""
+}
+```",1.0,1.0,1.33,2.0,1.0,2.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Molecular sieves are materials with pores of uniform size used in gas purification or separation."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['How are legos assembled together?', 'Does art play a vital role in society?', 'What are the main continents of the world?', 'What are the important features of a smartphone?']",4,"```json
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 1,
+  ""justification"": ""All three scorers agree that the questions are not relevant to the chemistry statement and do not exhibit coherence or diversity in relation to the topic of molecular sieves.""
+}
+```",1.0,1.0,1.0,1.0,1.0,1.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The triple point of a substance is the temperature and pressure at which it can exist in equilibrium in the solid, liquid, and gas phases."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the capital of France?', 'How do the various phases of the moon occur?', 'Why is recycling important?', 'What is the Fibonacci sequence?', 'Can you give an example of a substance with a well-defined triple point?']",4,"```JSON
+{
+  ""metrics"": [
+    {
+      ""name"": ""Relevance"",
+      ""score"": 1,
+      ""justification"": ""None of the questions provided are relevant to the given chemistry statement, indicating a lack of understanding of the statement's content.""
+    },
+    {
+      ""name"": ""Coherence"",
+      ""score"": 2,
+      ""justification"": ""The questions lack logical flow and connection to each other, making it difficult to discern any coherent pattern or progression of thought.""
+    },
+    {
+      ""name"": ""Diversity"",
+      ""score"": 3,
+      ""justification"": ""While the questions cover a range of topics, they are not diverse in the context of exploring different aspects or perspectives related to the chemistry statement.""
+    }
+  ]
+}
+```",,,,2.0,1.0,1.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Catalytic converters in cars reduce harmful emissions by facilitating chemical reactions."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the color of a typical catalytic converter?', 'Who invented the wheel?', 'How many different models of cars exist?', 'What type of fuel does a bike use?']",4,"``` JSON
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 1,
+  ""justification"": ""All three scorers unanimously gave a score of 1 in each category. The questions are irrelevant as they do not address the statement about catalytic converters, they lack coherence as they do not form a logical line of inquiry, and they show no diversity in exploring various aspects of catalytic converters.""
+}
+```",1.0,1.0,1.0,1.0,1.0,1.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The concept of molar volume relates the volume of a gas to the amount of substance at a given temperature and pressure."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""What does the term 'molar' mean?"", 'Can molar volume be used in cooking?', 'What is the speed of light?', 'How does temperature affect the growth of plants?']",4,"```JSON
+{
+  ""Relevance"": 1.33,
+  ""Coherence"": 1.33,
+  ""Diversity"": 1.33,
+  ""Justification"": ""After considering the justifications provided by all three human scorers, it is evident that the questions generated by the LLM lack relevance, coherence, and diversity in understanding the concept of molar volume in Chemistry.\n\n**Relevance:** Only 2 out of 5 questions are directly relevant to the topic, while the rest venture into unrelated fields. This low relevance hinders the learner's ability to grasp the core concept effectively.\n\n**Coherence:** The questions lack a logical progression or connection. They appear disjointed and do not build upon each other, making it challenging for a beginner to follow a clear line of inquiry.\n\n**Diversity:** The questions cover a narrow range of aspects related to molar volume, primarily focusing on the term 'molar' and its use in cooking. This limited diversity fails to delve into other important aspects such as definition, implications, or broader applications of the concept.""
+}
+```",1.33,1.33,1.33,2.0,1.0,1.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Molecular geometry affects the physical and chemical properties of substances."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What types of foods are considered healthy?', 'How many planets are there in the solar system?', 'Can you provide examples of popular computer programming languages?', 'What are some techniques used in oil painting?', 'Are there any real-world applications or industries where understanding molecular geometry is particularly important?']",4,"```JSON
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 1,
+  ""justification"": ""After considering all the scorings and their justifications, it is evident that the questions lack relevance to the statement about molecular geometry. They cover a range of unrelated topics and fail to explore or delve into the given statement. Furthermore, there is no coherence or logical progression between the questions, making it challenging to engage in a meaningful learning process. While the questions do touch upon diverse subjects, their irrelevance to the topic at hand limits their usefulness in understanding molecular geometry.""
+}
+```",1.0,1.0,1.0,1.0,1.0,1.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The principle of dynamic equilibrium applies to both chemical reactions and phase changes."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the color of a cat?', 'Which board game do you prefer?', 'How fast does a car move?', 'Who was the first person to step on the moon?']",4,"```
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 2,
+  ""justification"": ""The questions are completely unrelated to the chemistry statement, failing to address any of its elements or concepts. They do not follow a coherent line of inquiry and cover a random range of topics. While there is some diversity in the topics, it does not contribute to understanding the chemistry statement.""
+}
+```",1.0,1.0,2.0,1.0,1.0,1.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Soap molecules have both hydrophilic and hydrophobic ends, allowing them to remove grease."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are the popular types of soap?', 'How do people feel after using soap?', 'Can flowers grow faster with soap water?', 'Do cats prefer being washed with soap or water?']",4,"``` JSON
+{
+   ""Relevance"": 1,
+   ""Coherence"": 1,
+   ""Diversity"": 1.33,
+   ""Justification"": ""After considering all three scorings and their justifications, it is evident that the questions lack relevance to the given statement as they do not explore or inquire about the chemistry concept presented. They are primarily unrelated and do not form a coherent line of inquiry. While there is some variation in the topics covered, the overall diversity is low as the questions focus on personal preferences or unrelated uses of soap rather than the scientific or chemical aspects of the statement.""
+}
+```",1.0,1.0,1.33,2.0,1.0,2.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Isotope fractionation occurs during physical and chemical processes, altering the ratio of isotopes."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are chemical elements?', 'How does climate change affect our environment?', 'What are some food preservation methods?', 'What are the effects of smoking on the human body?', 'What are some real-life applications of calculus in different fields?']",4,"```json
+{
+  ""relevance"": 1,
+  ""coherence"": 2,
+  ""diversity"": 3,
+  ""justification"": ""All three scorers unanimously agreed that the questions are not relevant to the given statement about isotope fractionation. The questions cover unrelated topics and do not explore any aspect of isotope fractionation. \n\nRegarding coherence, two scorers gave a score of 1, while one gave a score of 3. The questions lack a logical progression or connection to each other and do not form a coherent sequence of inquiry. \n\nFor diversity, two scorers gave a score of 1, while one gave a score of 4. While the questions cover diverse topics, they are unrelated to the original statement and do not delve into different aspects of isotope fractionation.""
+}
+```",1.0,2.0,3.0,2.0,1.0,1.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The formation of soap scum results from the reaction of soap with calcium and magnesium ions in hard water."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are the elements of the periodic table?', 'Why is water important for life?', 'How do cleaning products typically function?', 'What is the difference between soft and hard water?']",4,"```JSON
+{
+  ""relevance"": 2,
+  ""coherence"": 2.33,
+  ""diversity"": 2.66,
+  ""justification"": ""After considering the justifications provided by three different human scorers, I have determined the final scores as follows:\n\n**Relevance:** The questions are not directly relevant to the chemistry statement provided. Only one question, 'What is the difference between soft and hard water?', somewhat relates to the concept of water hardness, which is mentioned in the statement. Hence, I rate the relevance as **2**. \n\n**Coherence:** The questions lack a clear progression towards understanding soap scum formation. They cover a wide range of topics, from the elements of the periodic table to the importance of water for life. While these topics are related to chemistry, they do not logically lead to the specific concept of soap scum formation. Therefore, I rate the coherence as **2.33**. \n\n**Diversity:** The questions cover a reasonably diverse range of chemistry topics, including general concepts, the role of water, and the periodic table. However, they do not delve deeply into the specific chemistry of soap scum formation. Hence, I rate the diversity as **2.66**.""
+}
+```",2.0,2.33,2.66,2.0,2.0,2.0
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The rate of a chemical reaction can be influenced by temperature, concentration, surface area, and the presence of a catalyst."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['In what way does weather affect the rate of plant growth?', 'How can the principle of magnetism be applied in chemical reactions?', 'What are the components of a bicycle?', ""What's the role of gravity in swimming?""]",4,"``` JSON
+{
+""Relevance"": 1,
+""Coherence"": 1,
+""Diversity"": 1,
+""Justification"": ""After reviewing the justifications provided by all three human scorers, it is evident that the questions generated by the LLM are indeed irrelevant to the given Chemistry statement. None of the questions pertains to the concepts of temperature, concentration, surface area, or catalysts in chemical reactions. Additionally, the questions lack coherence as they do not follow a logical progression or build upon each other. While the questions may cover a diverse range of topics, their irrelevance to the statement makes the diversity score inconsequential.""
+}
+```",1.0,1.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The Henderson-Hasselbalch equation is used to calculate the pH of buffer solutions."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the Mendelian genetics theory and why is it important?', 'Is it possible to use the Bennett-Light formula to calculate the heat index?', ""What are the constants in Newton's laws of motion and what do they represent?"", 'Are there any advantages of renewable energy sources over nonrenewable sources?']",4,"```json
+{
+  ""Relevance"": 1,
+  ""Coherence"": 2,
+  ""Diversity"": 2,
+  ""Justification"": ""All three scorers are in agreement that the provided questions are completely irrelevant to the topic of the Henderson-Hasselbalch equation. While the questions demonstrate some coherence in terms of scientific principles and calculations, they lack diversity as none of them pertains to the statement on buffer solutions and pH calculation.""
+}
+```",1.0,2.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Buffer solutions resist changes in pH when small amounts of acid or base are added."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the color of a buffer solution?', 'Can buffer solutions be used in cooking?', 'Who discovered the first buffer solution?', 'Do buffer solutions have a specific texture or feel?']",4,"``` JSON
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 1,
+  ""justification"": ""All the three scorers have scored 1 in all the three parameters relevance, coherence, and diversity. The human scorers have provided justifications which support their scoring. The questions are neither relevant to the statement, nor coherent, nor diverse. Hence, the final score is 1 in all.""
+}
+```",1.0,1.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The principle of microscale chemistry reduces waste and exposure to hazardous chemicals."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the best way to cook pasta?', 'How long does it usually take for a tree to grow?', 'What specific practices or techniques are involved in microscale chemistry?', 'Are there any particular fields or applications where microscale chemistry is commonly used?', 'What are the top 5 dog breeds in America?']",4,"```json
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 2,
+  ""justification"": ""The questions are not relevant to the statement about microscale chemistry. They ask about unrelated topics such as cooking pasta, tree growth, dog breeds, and travel. The questions do not form a coherent line of inquiry. They are not logically connected and jump from one topic to another without any apparent progression. The questions do not cover a diverse range of aspects related to microscale chemistry. They only focus on a few specific and unrelated topics.""
+}
+```",1.0,1.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The periodic table trends include atomic radius, ionization energy, and electron affinity."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the concept of relativity in physics?', 'How does climate change impact the world?', 'What is atomic radius, and how does it relate to the position of elements on the periodic table?', 'Who was Albert Einstein and what were his contributions?']",4,"```json
+{
+  ""Relevance"": 1,
+  ""Coherence"": 1,
+  ""Diversity"": 1,
+  ""justification"": ""After considering all three scorings and their justifications, it's clear that the questions provided by the LLM are not relevant to the given Chemistry statement. They do not form a coherent line of inquiry to help understand the periodic table trends. Additionally, there is a lack of diversity in exploring the specific concepts within the statement.""
+}
+```",1.0,1.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Phase diagrams illustrate the conditions of temperature and pressure under which different phases of a substance exist."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What color might these phases be?', 'Do these phases taste different?', 'Are certain phases of substances used in different cooking techniques?', 'Do different phases of a substance smell different?']",4,"{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 2,
+  ""justification"": ""After considering all the scorings and their justifications, it is clear that the questions lack relevance to the provided statement. They focus on superficial and unrelated aspects of phases rather than the conditions of temperature and pressure that define the existence of different phases. Additionally, the questions do not form a coherent line of inquiry and jump from one unrelated topic to another. While the questions cover various aspects such as color, taste, and smell, they do not contribute to understanding the concept of phase diagrams.""
+}",1.0,1.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The phase rule, F=C-P+2, relates the degrees of freedom (F), components (C), and phases (P) in a system."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are some common household items?', 'How does photosynthesis work?', 'Can you explain the concept of evolution?', ""What is the significance of Newton's laws?""]",4,"```json
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 1,
+  ""justification"": ""All three human scorers have given a score of 1 for relevance, coherence, and diversity. Their justifications clearly state that the provided questions are not relevant to the given chemistry statement about the phase rule, lack coherence as they do not follow a logical sequence, and lack diversity as they do not explore different aspects of the phase rule. Therefore, the final scores for relevance, coherence, and diversity are all 1.""
+}
+```",1.0,1.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The Leidenfrost effect occurs when a liquid, in near contact with a mass significantly hotter than the liquid's boiling point, produces an insulating vapor layer keeping that liquid from boiling rapidly."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What color is the liquid in the Leidenfrost effect?', 'Is there any connection between the Leidenfrost effect and musical notes?', 'Does the weather affect the Leidenfrost effect?', 'Is chocolate susceptible to the Leidenfrost effect?', 'Can the Leidenfrost effect be observed in everyday life, or only under specific circumstances?']",4,"```JSON
+{
+  ""Final Scores"": {
+    ""Relevance"": 2,
+    ""Coherence"": 2,
+    ""Diversity"": 3
+  },
+  ""Justification"": ""After considering the justifications provided by all three human scorers, it becomes evident that the questions lack direct relevance to the Leidenfrost effect. While the questions cover a range of topics, they do not explore the fundamental principles or elements of the Leidenfrost effect, resulting in a score of 2 for relevance. The questions also do not exhibit a clear line of inquiry related to the statement, leading to a score of 2 for coherence. Although the questions cover various topics, they do not provide new dimensions or perspectives to understanding the statement, resulting in a score of 3 for diversity.""
+}
+```",2.0,2.0,3.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The concept of molecular orbital theory explains the bonding in molecules by the combination of atomic orbitals to form molecular orbitals."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What exactly are subatomic particles?', 'How does electromagnetic radiation affect matter?', 'How does the nucleus of an atom affect its properties?', 'What role does magnetism play in quantum mechanics?']",4,"```JSON
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 1,
+  ""justification"": ""After considering all three scorings and their justifications, the final scores are as follows:\n\n**Relevance**: 1 (Not Relevant)\n**Coherence**: 1 (Not Coherent)\n**Diversity**: 1 (Not Diverse)\n\nThe questions provided by the LLM do not directly relate to the given chemistry statement about molecular orbital theory and its explanation of molecular bonding. They delve into unrelated areas of atomic structure and magnetism, failing to demonstrate relevance to the topic. The questions also lack a logical progression or connection to the statement, hindering a structured exploration. Furthermore, they lack the diversity needed to cover different aspects of molecular orbital theory, focusing instead on basic atomic concepts that are not directly applicable to understanding the statement.""
+}
+```",1.0,1.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The ideal gas law relates the pressure, volume, temperature, and number of moles of a gas."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What color is a gas typically?', ""What's the most popular gas used in balloons?"", 'Is gas used in cooking?', 'How is gas used in cars?']",4,"```JSON
+{
+  ""Relevance"": 1,
+  ""Coherence"": 1,
+  ""Diversity"": 2,
+  ""Justification"": ""After considering all three scorings and their justifications, a final score of 1 is given for relevance, coherence, and diversity. The questions lack relevance to the given statement, fail to establish a logical progression, and cover a narrow range of topics, hindering their value in understanding the ideal gas law.""
+}
+```",1.0,1.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Ostwald ripening explains the growth of large particles at the expense of smaller ones in a solution."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the color of a red apple?', 'What is the tallest mountain in the world?', 'Why are bananas yellow?', 'What is the main ingredient used in making pancakes?']",4,"```JSON
+{
+  ""Relevance"": 1,
+  ""Coherence"": 1,
+  ""Diversity"": 1,
+  ""justification"": ""All three raters unanimously agreed that the given questions are not relevant to the provided chemistry statement. They do not demonstrate any logical progression or diversity in exploring the concept of Ostwald ripening. Therefore, the final scores for all three metrics remain 1.""
+}
+```",1.0,1.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Enthalpy changes indicate the heat absorbed or released in a reaction."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are the common desk materials used in chemistry labs?', 'How do you calculate the area of a circle?', 'Is there any unique way to differentiate between various color shades in the spectrum?', 'How does quantum physics play into general relativity theories?']",4,"```
+{
+  ""metrics"": {
+    ""relevance"": 1,
+    ""coherence"": 1,
+    ""diversity"": 1
+  },
+  ""justification"": ""All three human scorers have given a score of 1 for relevance, 1 for coherence, and 1 for diversity. The questions generated by the LLM are completely off-topic and do not align with the given statement about enthalpy changes in chemistry. They do not form a coherent line of inquiry or relate to each other, and they do not explore different aspects of the statement. Therefore, the final scores for relevance, coherence, and diversity are all 1.""
+}
+```",1.0,1.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The octet rule guides the formation of chemical bonds."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What colour is the sky?', 'Why does it rain sometimes?', 'How does a rocket reach space?', 'Where do apples grow?']",4,"``` JSON
+{
+  ""Relevance"": 1,
+  ""Coherence"": 2,
+  ""Diversity"": 2,
+  ""Justification"": {
+    ""Relevance"": ""All three scorers agree that the questions are completely irrelevant to the chemistry statement. They do not attempt to explore the concept of the octet rule or chemical bonding and instead focus on unrelated topics."",
+    ""Coherence"": ""While two scorers rated coherence as 1, one scorer rated it as 3. This is likely due to the fact that the questions, though unrelated to chemistry, follow a consistent theme of asking about basic natural phenomena. This suggests some level of internal coherence, even if it is misguided in this case."",
+    ""Diversity"": ""Two scorers rated diversity as 1, while one scorer rated it as 2. This is likely because the questions cover various topics such as weather, space travel, and agriculture. However, they lack diversity in terms of exploring the octet rule or chemical bonding, which is the focus of the chemistry statement.""
+}
+```",1.0,2.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Solubility rules determine which compounds dissolve in water."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are the main food groups and how are they categorized?', 'Which factors affect the growth of a plant?', 'How does temperature affect the taste of coffee?', 'Can I use astrological predictions to determine if a compound will dissolve in water?']",4,"```json
+{
+  ""final_scores"": {
+    ""relevance"": 1,
+    ""coherence"": 2,
+    ""diversity"": 2
+  },
+  ""justification"": ""None of the questions posed by the AI assistant are relevant to the given chemistry statement about solubility rules. Additionally, the questions lack coherence as they cover a wide range of unrelated scientific topics. While the questions exhibit some diversity in their subject matter, it is not relevant to the concept of solubility rules.""
+}
+```",1.0,2.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The Henderson-Hasselbalch equation relates pH, pKa, and buffer concentrations."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","[""What is the Chlorine's role in the reaction?"", 'What is the importance of thermodynamics in chemistry?', 'What is the boiling point of water at high altitude?', 'How does nitrogen react with hydrogen to form ammonia?']",4,"{
+  ""scores"": {
+    ""relevance"": 1,
+    ""coherence"": 1,
+    ""diversity"": 1
+  },
+  ""justification"": ""After reviewing the scorings and justifications provided by the three human evaluators, it is evident that the questions generated by the LLM are not relevant to the given chemistry statement. The questions do not pertain to the Henderson-Hasselbalch equation or its concepts, and they cover a narrow range of unrelated topics. Additionally, the questions lack coherence and do not form a logical line of inquiry related to the statement. Therefore, based on the feedback from all three evaluators, the final scores for relevance, coherence, and diversity are as follows:
+
+  - Relevance: 1
+  - Coherence: 1
+  - Diversity: 1""
+}",1.0,1.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The color of a substance is often determined by the wavelengths of light it absorbs."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the climate like in certain regions?', 'How is fruit ripened?', 'Where do penguins live?', 'What are the different types of cars?']",4,"```JSON
+{
+  ""Relevance"": 1,
+  ""Coherence"": 2,
+  ""Diversity"": 1,
+  ""Justification"": ""Considering all the human scorings and their justifications, I give a final score of 1 for relevance because none of the questions are relevant to the given chemistry statement. I give a score of 2 for coherence, since there is some semblance of a coherent theme among the questions, but it does not relate to the chemistry statement. Finally, I give a score of 1 for diversity because the questions cover unrelated topics and do not explore the chemistry statement in any meaningful way.""
+}
+```",1.0,2.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The Born-Haber cycle is a series of hypothetical steps that represents the formation of an ionic compound from its constituent elements."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What kind of drinks do you like?', 'How does the Born-Haber cycle relate to the formation of ionic compounds?', 'What is your favorite color?', 'How do the steps in the Born-Haber cycle differ for different types of ionic compounds?', 'Where is the nearest grocery store?']",4,"```
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 1,
+  ""justification"": ""After considering the scorings and justifications provided by the three human evaluators, it is evident that the overall quality of the questions generated by the LLM is poor. While one question touches upon the relevance aspect, it fails to capture the essence of the Born-Haber cycle. The questions lack coherence, as they do not form a logical progression or connection to each other, leading to confusion rather than a structured inquiry. Additionally, the questions fail to introduce important aspects of the Born-Haber cycle and cover a narrow range of topics, indicating a lack of diversity in exploration.""
+}
+```",1.0,1.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The Rutherford gold foil experiment provided evidence for the existence of a small, dense atomic nucleus."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['Who won the Nobel prize in Physics in 1913?', 'What is the significance of alpha particles in other scientific phenomena?', 'Can you explain the structure of the solar system?', 'What is the role of gold in jewelry-making?']",4,"``` JSON
+{
+ ""relevance"": 1,
+ ""coherence"": 2,
+ ""diversity"": 1,
+ ""justification"": ""All three scorers agree that the questions lack relevance to the provided statement. They also agree that the questions lack diversity, as none of them address the core concept of the Rutherford gold foil experiment providing evidence for the existence of a small, dense atomic nucleus. However, there is some disagreement regarding the coherence of the questions. Scorer 2 believes that the questions form a coherent line of inquiry, while Scorers 1 and 3 believe that the questions do not logically connect to one another. Overall, the questions lack relevance and diversity, and their coherence is questionable.""
+}
+```",1.0,2.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""Eutrophication in water bodies is caused by the overabundance of nutrients, leading to excessive growth of algae."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are some popular types of nutrients in our diet?', 'How does the aquarium industry work?', 'Where can we find water bodies?', 'What other factors contribute to global warming?']",4,"```json
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 2,
+  ""justification"": ""After considering the justifications provided by the three scorers, it is evident that the questions lack relevance to the given statement about eutrophication in water bodies. The questions also do not form a coherent line of inquiry but rather jump between unrelated topics. While there is some diversity in the topics covered by the questions, they fail to explore different aspects of eutrophication.""
+}
+```",1.0,1.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The optical activity of substances is measured by their ability to rotate the plane of polarized light."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What color is polarized light?', 'What is the favorite food of a chemist?', 'Why do summer days seem longer than winter?', 'Can cats see polarized light?', 'Can all animal species exhibit optical activity?']",4,"```JSON
+{
+  ""final_scores"": {
+    ""relevance"": 1,
+    ""coherence"": 1,
+    ""diversity"": 2
+  },
+  ""justification"": ""After considering all three scorings and their justifications, it is evident that none of the questions are directly relevant to the topic of optical activity. They also lack coherence as they do not follow a logical line of inquiry. However, the questions cover a range of unrelated topics, demonstrating some diversity, albeit irrelevant to the given statement.""
+}
+```",1.0,1.0,2.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The van't Hoff factor describes the effect of solutes on the colligative properties of solutions."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What are the most common types of pets?', ""Can the Van't Hoff factor predict tomorrow's weather?"", 'Could solutes be used in baking cookies?', ""How does understanding the Van't Hoff factor help me in learning a new language?""]",4,"``` JSON
+{
+  ""relevance"": 1,
+  ""coherence"": 1,
+  ""diversity"": 1,
+  ""justification"": ""All three human scorers provided consistent feedback, indicating that the questions lack relevance to the Van't Hoff factor, do not form a coherent line of inquiry, and fail to explore diverse aspects of the topic. Therefore, the final scores for relevance, coherence, and diversity are all 1.""
+}
+```",1.0,1.0,1.0,,,
+"Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it ""The Hall-Héroult process is essential for producing aluminum from its oxide."", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them","['What is the price of aluminum in the market?', 'What are other methods for producing aluminum?', 'What is the origin of the name Hall-Héroult?', 'How many companies are involved in aluminum production worldwide?']",4,"```JSON
+{
+  ""relevance"": 2.5,
+  ""coherence"": 2,
+  ""diversity"": 2.5,
+  ""rationale"": ""After considering all the scores and justifications provided by the three human scorers, the final scores are as follows:\n\n**Relevance: 2.5**\nThe questions are somewhat relevant to the statement about the Hall-Héroult process, as they touch on related topics such as aluminum production and market prices. However, they do not directly address the specific process of producing aluminum from its oxide, which is the focus of the statement.\n\n**Coherence: 2**\nThe questions lack a clear logical connection and do not form a coherent line of inquiry. They jump between different topics without a clear progression, making it difficult to follow a cohesive train of thought.\n\n**Diversity: 2.5**\nThe questions cover different aspects of aluminum production, including economic factors, alternative production methods, historical origins, and industry scale. While this demonstrates some diversity, the questions do not delve deeply into any of these topics and remain superficial in their exploration.\n\nOverall, the questions show some potential for relevance and diversity, but they lack coherence and do not effectively address the core topic of the statement.""
+}
+```",2.5,2.0,2.5,,,
