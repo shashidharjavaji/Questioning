@@ -45,6 +45,36 @@ The findings from this project highlight the capabilities and limitations of cur
 
 We encourage contributions that enhance model evaluations or extend dataset utility. Please see our contributing guidelines linked in this repository.
 
+# Chemistry Learning Analysis Example
+
+## Initial Statement
+> "Organic chemistry focuses on compounds containing carbon."
+
+## Prompt
+Imagine you are a human, and this is the first time you are encountering the above chemistry statement. You have no previous knowledge of it. **What are the top 5 questions that would pop up in your head which would be most useful in learning about it?**  
+*Please provide a simple bullet point list without explanations or expansion*
+
+## Detailed Evaluation Results
+
+| Instruction | Model Output | Mistral Output | Gemini Output | GPT Output |
+|-------------|--------------|----------------|---------------|------------|
+| Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it "Organic chemistry focuses on compounds containing carbon.", what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them. | • What exactly is carbon, and why is it so important in organic chemistry?<br><br>• How do organic compounds differ from inorganic compounds, and what are some common types of organic compounds?<br><br>• What is the difference between saturated and unsaturated hydrocarbons, and how do they behave differently in chemical reactions?<br><br>• How do functional groups affect the properties and behavior of organic compounds? | Coherence: 4/5<br>Relevance: 5/5<br>Diversity: 4/5<br><br>*Questions follow logical progression, moving from basic concepts to more specific topics. All questions highly relevant to initial statement. Good coverage of various aspects.* | Relevance: 4/5<br>Coherence: 4/5<br>Diversity: 3/5<br><br>*Questions directly related to statement, form coherent line of inquiry. Cover range of aspects but could explore more applications.* | Relevance: 5/5<br>Coherence: 4/5<br>Diversity: 5/5<br><br>*Questions directly pertain to concepts, logical progression but incomplete final question. Wide range of topics covered.* |
+
+### Evaluation Metrics Summary
+| Metric | Average Score | Description |
+|--------|---------------|-------------|
+| Relevance | 4.7/5 | Questions strongly aligned with core concept |
+| Coherence | 4.0/5 | Good logical flow from basic to advanced concepts |
+| Diversity | 4.0/5 | Balanced coverage of different aspects |
+
+### Human Validation Scores
+- Relevance: 3.0/5
+- Coherence: 3.0/5
+- Diversity: 3.0/5
+
+## Key Findings
+The AI-generated questions demonstrated strong relevance and coherence, with particularly high scores in connecting to the core concept. However, the disparity between AI evaluation scores and human validation suggests potential areas for refinement in the question generation process.
+
 ## Contact Information
 
 For inquiries or further information, please contact shashi ( sjavaji@stevens.edu ).
