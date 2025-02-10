@@ -51,7 +51,7 @@ We encourage contributions that enhance model evaluations or extend dataset util
 > "Organic chemistry focuses on compounds containing carbon."
 
 ## Prompt
-Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it **"Organic chemistry focuses on compounds containing carbon."**, what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them*Please provide a simple bullet point list without explanations or expansion*
+> Imagine you are a human, this is the first time you are coming across this Chemistry Statement, you have no previous knowledge of it **"Organic chemistry focuses on compounds containing carbon."**, what are the top 5 questions that would pop up in your head which would be most useful in learning about it as you are new to it. Give me a simple bullet point list, don't explain them or expand them*Please provide a simple bullet point list without explanations or expansion*
 
 ## Detailed Evaluation Results
 
