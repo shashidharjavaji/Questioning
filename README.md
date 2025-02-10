@@ -6,13 +6,14 @@ This project evaluates large language models (LLMs) on their ability to generate
 
 ## Directory Structure
 
-- **Combined_files/**: Consolidated outputs for easy reference.
-- **Dataset/**: Initial prompts categorized by subject (Physics, Chemistry, Math) and difficulty level, serving as input for the LLMs.
+- **Combined_files/**: Consolidated outputs for easy reference. It contains the Instruction, the output given by certain model and the evaluation done by Mistral, Gemini and GPT.
+- **Dataset/**: Initial statements categorized by subject (Physics, Chemistry, Math) and difficulty level, serving as input for the LLMs.
 - **Final_combined_CSV_files/**: Aggregated results featuring model outputs alongside generated questions.
 - **Instruction_questions_all_models/**: Direct model outputs based on specific instructions.
-- **Outputs_{model_name}/**: Individual outputs from each of the eight models.
-- **Human Evaluation Files/**: Contains the final evaluations where the Gemini model has synthesized the outputs from GPT-4, Mistral, and itself into final scores for relevance, coherence, and diversity.
+- **Outputs_{model_name}/**: Individual outputs from each of the eight models for the statements, which is basically the quesitons created by the model for each of the statement.
+- **Human Evaluation Files/**: Contains the final evaluations where the Gemini model has synthesized the outputs from GPT-4, Mistral, and itself into final scores for relevance, coherence, and diversity and also the corresponding Human Evaluated results .
 - **.ipynb files**: Jupyter notebooks for data processing and analysis.
+- **Final Eval**: Contians all final evaluations where the Gemini model has synthesized the outputs from GPT-4, Mistral, and itself into final scores for relevance, coherence, and diversity
 - **README.md**: This document.
 
 ## Environment Setup
@@ -46,4 +47,4 @@ We encourage contributions that enhance model evaluations or extend dataset util
 
 ## Contact Information
 
-For inquiries or further information, please contact [Your Contact Information].
+For inquiries or further information, please contact shashi ( sjavaji@stevens.edu ).
