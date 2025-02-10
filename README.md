@@ -1,50 +1,69 @@
-# Questioning
+# 🤔 Questioning
 
-# Project Overview
+# 🎯 Project Overview
 
 This project evaluates large language models (LLMs) on their ability to generate curiosity-driven questions. Utilizing a unique framework called CDQG (Curiosity-Driven Question Generation), we explore the performance of eight different LLMs, focusing on how they formulate questions based on given statements.
 
-## Directory Structure
+## 📂 Directory Structure
 
-- **Combined_files/**: Consolidated outputs for easy reference. It contains the Instruction, the output given by certain model and the evaluation done by Mistral, Gemini and GPT.
-- **Dataset/**: Initial statements categorized by subject (Physics, Chemistry, Math) and difficulty level, serving as input for the LLMs.
-- **Final_combined_CSV_files/**: Aggregated results featuring model outputs alongside generated questions.
-- **Instruction_questions_all_models/**: Direct model outputs based on specific instructions.
-- **Outputs_{model_name}/**: Individual outputs from each of the eight models for the statements, which is basically the quesitons created by the model for each of the statement.
-- **Human Evaluation Files/**: Contains the final evaluations where the Gemini model has synthesized the outputs from GPT-4, Mistral, and itself into final scores for relevance, coherence, and diversity and also the corresponding Human Evaluated results .
-- **.ipynb files**: Jupyter notebooks for data processing and analysis.
-- **Final Eval**: Contians all final evaluations where the Gemini model has synthesized the outputs from GPT-4, Mistral, and itself into final scores for relevance, coherence, and diversity
-- **README.md**: This document.
+<div style="background-color: #f8f9fa; padding: 15px; border-radius: 5px;">
 
-## Environment Setup
+- **📁 Combined_files/**: Consolidated outputs for easy reference. It contains the Instruction, the output given by certain model and the evaluation done by Mistral, Gemini and GPT.
+- **📊 Dataset/**: Initial statements categorized by subject (Physics, Chemistry, Math) and difficulty level, serving as input for the LLMs.
+- **📈 Final_combined_CSV_files/**: Aggregated results featuring model outputs alongside generated questions.
+- **📝 Instruction_questions_all_models/**: Direct model outputs based on specific instructions.
+- **🤖 Outputs_{model_name}/**: Individual outputs from each of the eight models for the statements, which is basically the quesitons created by the model for each of the statement.
+- **👥 Human Evaluation Files/**: Contains the final evaluations where the Gemini model has synthesized the outputs from GPT-4, Mistral, and itself into final scores for relevance, coherence, and diversity and also the corresponding Human Evaluated results.
+- **📓 .ipynb files**: Jupyter notebooks for data processing and analysis.
+- **📊 Final Eval**: Contians all final evaluations where the Gemini model has synthesized the outputs from GPT-4, Mistral, and itself into final scores for relevance, coherence, and diversity
+- **📖 README.md**: This document.
+</div>
+
+## ⚙️ Environment Setup
+
+<div style="background-color: #e6f3ff; padding: 15px; border-radius: 5px;">
 
 Ensure Python and necessary libraries (Pandas, Numpy, shutil, transformers, accelerate, torch, tqdm) are installed:
+</div>
 
-## Execution Instructions
+## 🚀 Execution Instructions
+
+<div style="background-color: #f0fff4; padding: 15px; border-radius: 5px;">
 
 1. **Repository Setup**: Clone the repository and navigate to the project directory.
 2. **Data Analysis**: Launch Jupyter to access notebooks:
+</div>
 
+## 📊 Data Description
 
-## Data Description
+<div style="background-color: #fff5f5; padding: 15px; border-radius: 5px;">
 
 Each CSV file within the folders is named systematically to reflect its contents, which include:
 - Model name
 - Metric evaluated (Relevance, Coherence, Diversity)
 - Data type (e.g., basic, intermediate, advanced)
+</div>
 
-## Model Details
+## 🤖 Model Details
+
+<div style="background-color: #f0f0ff; padding: 15px; border-radius: 5px;">
 
 The project utilizes eight LLMs for question generation. Three of these models (GPT-4, Gemini, Mistral) are further used to evaluate the generated questions. Gemini synthesizes these evaluations to produce a final assessment captured in the `Human Evaluation Files`.
+</div>
 
-## Results and Discussion
+## 📈 Results and Discussion
+
+<div style="background-color: #fffff0; padding: 15px; border-radius: 5px;">
 
 The findings from this project highlight the capabilities and limitations of current LLMs in generating diverse and relevant questions. These results are pivotal for guiding future developments in AI-driven questioning and educational tools.
+</div>
 
-## Contributions and Collaboration
+## 🤝 Contributions and Collaboration
+
+<div style="background-color: #f8f4ff; padding: 15px; border-radius: 5px;">
 
 We encourage contributions that enhance model evaluations or extend dataset utility. Please see our contributing guidelines linked in this repository.
-
+</div>
 # 🧪 Chemistry Learning Analysis Example
 
 ## 📝 Initial Statement
