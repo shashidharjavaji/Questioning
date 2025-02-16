@@ -17,7 +17,7 @@ This project evaluates large language models (LLMs) on their ability to generate
 - **📓 .ipynb files**: Jupyter notebooks for data processing and analysis.
 - **📊 Final Eval**: Contians all final evaluations where the Gemini model has synthesized the outputs from GPT-4, Mistral, and itself into final scores for relevance, coherence, and diversity
 - **📖 README.md**: This document.
-- ** FinalEval.zip** : This folder has the altered questions, both the 2-altered and 4-altered versions of the questions.
+- **FinalEval.zip** : This folder has the altered questions, both the 2-altered and 4-altered versions of the questions.
 </div>
 
 ## ⚙️ Environment Setup
